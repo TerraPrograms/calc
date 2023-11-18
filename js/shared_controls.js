@@ -467,7 +467,20 @@ $(".set-selector").change(function () {
 			var pok_name = next_poks[i].split("]")[1].split(" (")[0]
 			if (pok_name == "Zygarde-10%") {
 				pok_name = "Zygarde-10%25"
-			}//this ruined my day
+			}
+			if (pok_name == "Tauros-Paldea-Water") {
+				pok_name = "Tauros-Paldea-Aqua"
+			}
+			if (pok_name == "Tauros-Paldea-Fire") {
+				pok_name = "Tauros-Paldea-Blaze"
+			}
+			if (pok_name == "Wooper-Paldea") {
+				pok_name = "WooperPaldea"
+			}
+			if (pok_name == "Pumpkaboo-Super") {
+				pok_name = "Pumpkaboo"
+			}
+			//this ruined my day
 			var pok = `<img class="trainer-pok right-side" src="https://raw.githubusercontent.com/May8th1995/sprites/master/${pok_name}.png" data-id="${CURRENT_TRAINER_POKS[i].split("]")[1]}" title="${next_poks[i]}, ${next_poks[i]} BP">`
 			trpok_html += pok
 		}
@@ -1069,10 +1082,10 @@ $(".gen").change(function () {
 			window.history.replaceState({}, document.title, window.location.pathname + (params.length ? '?' + params : ''));
 		}
 	} else {
-		params.set('gen', gen);
+		//params.set('gen', gen);
 		if (window.history && window.history.pushState) {
 			params.sort();
-			var path = window.location.pathname + '?' + params;
+			var path = window.location.pathname + params; //removed questionmark here
 			window.history.pushState({}, document.title, path);
 			gtag('config', 'UA-26211653-3', { 'page_path': path });
 		}
