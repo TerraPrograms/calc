@@ -1006,7 +1006,7 @@ var GSC_PATCH = {
     },
     Azumarill: {
         types: ['Water'],
-        bs: { hp: 100, at: 65, df: 80, sa: 50, sd: 80, sp: 50 },
+        bs: { hp: 100, at: 50, df: 80, sa: 60, sd: 80, sp: 50 },
         weightkg: 28.5
     },
     Bayleef: {
@@ -5056,7 +5056,7 @@ var XY_PATCH = {
     Altaria: { otherFormes: ['Altaria-Mega'] },
     Ampharos: { bs: { df: 85 }, otherFormes: ['Ampharos-Mega'] },
     Audino: { otherFormes: ['Audino-Mega'] },
-    Azumarill: { types: ['Water', 'Fairy'], bs: { sa: 90 } },
+    Azumarill: { types: ['Water', 'Fairy'] },
     Azurill: { types: ['Normal', 'Fairy'] },
     Banette: { otherFormes: ['Banette-Mega'] },
     Beautifly: { bs: { sa: 100 } },
@@ -5304,7 +5304,7 @@ var XY_PATCH = {
     },
     Diggersby: {
         types: ['Normal', 'Ground'],
-        bs: { hp: 85, at: 71, df: 77, sa: 50, sd: 77, sp: 78 },
+        bs: { hp: 85, at: 56, df: 77, sa: 50, sd: 77, sp: 78 },
         weightkg: 42.4,
         abilities: { 0: 'Pickup' }
     },
@@ -8997,9 +8997,10 @@ var SV_PATCH = {
     Bisharp: { nfe: true },
     Cresselia: { bs: { df: 110, sd: 120 } },
     Dunsparce: { nfe: true },
+    Duraludon: { nfe: true },
     Girafarig: { nfe: true },
     Primeape: { nfe: true },
-    Tauros: { otherFormes: ['Tauros-Paldea', 'Tauros-Paldea-Fire', 'Tauros-Paldea-Water'] },
+    Tauros: { otherFormes: ['Tauros-Paldea-Combat', 'Tauros-Paldea-Blaze', 'Tauros-Paldea-Aqua'] },
     Wooper: { otherFormes: ['Wooper-Paldea'] },
     Zacian: { bs: { at: 120 } },
     'Zacian-Crowned': { bs: { at: 150 } },
@@ -9016,6 +9017,12 @@ var SV_PATCH = {
         bs: { hp: 78, at: 69, df: 90, sa: 125, sd: 109, sp: 39 },
         weightkg: 48.2,
         abilities: { 0: 'Seed Sower' }
+    },
+    Archaludon: {
+        types: ['Steel', 'Dragon'],
+        bs: { hp: 90, at: 105, df: 130, sa: 125, sd: 65, sp: 85 },
+        weightkg: 60,
+        abilities: { 0: 'Stamina' }
     },
     Arctibax: {
         types: ['Dragon', 'Ice'],
@@ -9070,7 +9077,7 @@ var SV_PATCH = {
     },
     Capsakid: {
         types: ['Grass'],
-        bs: { hp: 52, at: 62, df: 40, sa: 62, sd: 40, sp: 50 },
+        bs: { hp: 50, at: 62, df: 40, sa: 62, sd: 40, sp: 50 },
         weightkg: 3,
         abilities: { 0: 'Chlorophyll' },
         nfe: true
@@ -9140,6 +9147,13 @@ var SV_PATCH = {
         weightkg: 14.9,
         abilities: { 0: 'Well-Baked Body' }
     },
+    Dipplin: {
+        types: ['Grass', 'Dragon'],
+        bs: { hp: 80, at: 80, df: 110, sa: 95, sd: 80, sp: 40 },
+        weightkg: 4.4,
+        abilities: { 0: 'Supersweet Syrup' },
+        nfe: true
+    },
     Dolliv: {
         types: ['Grass', 'Normal'],
         bs: { hp: 52, at: 53, df: 60, sa: 78, sd: 78, sp: 33 },
@@ -9178,6 +9192,13 @@ var SV_PATCH = {
         bs: { hp: 120, at: 90, df: 70, sa: 110, sd: 70, sp: 60 },
         weightkg: 160,
         abilities: { 0: 'Cud Chew' }
+    },
+    Fezandipiti: {
+        types: ['Poison', 'Psychic'],
+        bs: { hp: 88, at: 91, df: 82, sa: 70, sd: 125, sp: 99 },
+        weightkg: 12.2,
+        gender: 'M',
+        abilities: { 0: 'Toxic Chain' }
     },
     Fidough: {
         types: ['Fairy'],
@@ -9268,6 +9289,13 @@ var SV_PATCH = {
         weightkg: 45,
         abilities: { 0: 'Toxic Debris' }
     },
+    'Gouging Fire': {
+        types: ['Fire', 'Dragon'],
+        bs: { hp: 105, at: 115, df: 121, sa: 65, sd: 93, sp: 91 },
+        weightkg: 590,
+        gender: 'N',
+        abilities: { 0: 'Protosynthesis' }
+    },
     Grafaiai: {
         types: ['Poison', 'Normal'],
         bs: { hp: 63, at: 95, df: 65, sa: 80, sd: 72, sp: 110 },
@@ -9294,10 +9322,30 @@ var SV_PATCH = {
         weightkg: 15,
         abilities: { 0: 'Sand Rush' }
     },
+    Hydrapple: {
+        types: ['Grass', 'Dragon'],
+        bs: { hp: 106, at: 80, df: 110, sa: 120, sd: 80, sp: 44 },
+        weightkg: 93,
+        abilities: { 0: 'Supersweet Syrup' }
+    },
     'Iron Bundle': {
         types: ['Ice', 'Water'],
         bs: { hp: 56, at: 80, df: 114, sa: 124, sd: 60, sp: 136 },
         weightkg: 11,
+        gender: 'N',
+        abilities: { 0: 'Quark Drive' }
+    },
+    'Iron Boulder': {
+        types: ['Rock', 'Psychic'],
+        bs: { hp: 90, at: 120, df: 80, sa: 68, sd: 108, sp: 124 },
+        weightkg: 162.5,
+        gender: 'N',
+        abilities: { 0: 'Quark Drive' }
+    },
+    'Iron Crown': {
+        types: ['Steel', 'Psychic'],
+        bs: { hp: 90, at: 72, df: 100, sa: 122, sd: 108, sp: 98 },
+        weightkg: 156,
         gender: 'N',
         abilities: { 0: 'Quark Drive' }
     },
@@ -9423,6 +9471,13 @@ var SV_PATCH = {
         gender: 'N',
         abilities: { 0: 'Hadron Engine' }
     },
+    Munkidori: {
+        types: ['Poison', 'Psychic'],
+        bs: { hp: 88, at: 75, sa: 130, sd: 90, sp: 106 },
+        weightkg: 12.2,
+        gender: 'M',
+        abilities: { 0: 'Toxic Chain' }
+    },
     Nacli: {
         types: ['Rock'],
         bs: { hp: 55, at: 55, df: 75, sa: 35, sd: 35, sp: 25 },
@@ -9444,6 +9499,81 @@ var SV_PATCH = {
         abilities: { 0: 'Swarm' },
         nfe: true
     },
+    Ogerpon: {
+        types: ['Grass'],
+        gender: 'F',
+        bs: { hp: 80, at: 120, df: 84, sa: 60, sd: 96, sp: 110 },
+        abilities: { 0: 'Defiant' },
+        weightkg: 39.8,
+        otherFormes: [
+            'Ogerpon-Wellspring', 'Ogerpon-Hearthflame', 'Ogerpon-Cornerstone', 'Ogerpon-Teal-Tera',
+            'Ogerpon-Wellspring-Tera', 'Ogerpon-Hearthflame-Tera', 'Ogerpon-Cornerstone-Tera',
+        ],
+        forceTeraType: 'Grass'
+    },
+    'Ogerpon-Wellspring': {
+        types: ['Grass', 'Water'],
+        gender: 'F',
+        bs: { hp: 80, at: 120, df: 84, sa: 60, sd: 96, sp: 110 },
+        abilities: { 0: 'Water Absorb' },
+        weightkg: 39.8,
+        baseSpecies: 'Ogerpon',
+        forceTeraType: 'Water'
+    },
+    'Ogerpon-Hearthflame': {
+        types: ['Grass', 'Fire'],
+        gender: 'F',
+        bs: { hp: 80, at: 120, df: 84, sa: 60, sd: 96, sp: 110 },
+        abilities: { 0: 'Mold Breaker' },
+        weightkg: 39.8,
+        baseSpecies: 'Ogerpon',
+        forceTeraType: 'Fire'
+    },
+    'Ogerpon-Cornerstone': {
+        types: ['Grass', 'Rock'],
+        gender: 'F',
+        bs: { hp: 80, at: 120, df: 84, sa: 60, sd: 96, sp: 110 },
+        abilities: { 0: 'Sturdy' },
+        weightkg: 39.8,
+        baseSpecies: 'Ogerpon',
+        forceTeraType: 'Rock'
+    },
+    'Ogerpon-Teal-Tera': {
+        types: ['Grass'],
+        gender: 'F',
+        bs: { hp: 80, at: 120, df: 84, sa: 60, sd: 96, sp: 110 },
+        abilities: { 0: 'Embody Aspect (Teal)' },
+        weightkg: 39.8,
+        baseSpecies: 'Ogerpon',
+        forceTeraType: 'Grass'
+    },
+    'Ogerpon-Wellspring-Tera': {
+        types: ['Grass', 'Water'],
+        gender: 'F',
+        bs: { hp: 80, at: 120, df: 84, sa: 60, sd: 96, sp: 110 },
+        abilities: { 0: 'Embody Aspect (Wellspring)' },
+        weightkg: 39.8,
+        baseSpecies: 'Ogerpon',
+        forceTeraType: 'Water'
+    },
+    'Ogerpon-Hearthflame-Tera': {
+        types: ['Grass', 'Fire'],
+        gender: 'F',
+        bs: { hp: 80, at: 120, df: 84, sa: 60, sd: 96, sp: 110 },
+        abilities: { 0: 'Embody Aspect (Hearthflame)' },
+        weightkg: 39.8,
+        baseSpecies: 'Ogerpon',
+        forceTeraType: 'Fire'
+    },
+    'Ogerpon-Cornerstone-Tera': {
+        types: ['Grass', 'Rock'],
+        gender: 'F',
+        bs: { hp: 80, at: 120, df: 84, sa: 60, sd: 96, sp: 110 },
+        abilities: { 0: 'Embody Aspect (Cornerstone)' },
+        weightkg: 39.8,
+        baseSpecies: 'Ogerpon',
+        forceTeraType: 'Rock'
+    },
     Oinkologne: {
         types: ['Normal'],
         bs: { hp: 110, at: 100, df: 75, sa: 59, sd: 80, sp: 65 },
@@ -9457,6 +9587,13 @@ var SV_PATCH = {
         weightkg: 120,
         abilities: { 0: 'Aroma Veil' },
         baseSpecies: 'Oinkologne'
+    },
+    Okidogi: {
+        types: ['Poison', 'Fighting'],
+        bs: { hp: 88, at: 128, df: 115, sa: 58, sd: 86, sp: 80 },
+        weightkg: 92,
+        gender: 'M',
+        abilities: { 0: 'Toxic Chain' }
     },
     Orthworm: {
         types: ['Steel'],
@@ -9498,6 +9635,31 @@ var SV_PATCH = {
         weightkg: 41,
         abilities: { 0: 'Volt Absorb' }
     },
+    Pecharunt: {
+        types: ['Poison', 'Ghost'],
+        bs: { hp: 88, at: 88, df: 160, sa: 88, sd: 88, sp: 88 },
+        weightkg: 0.3,
+        gender: 'N',
+        abilities: { 0: 'Poison Puppeteer' }
+    },
+    Poltchageist: {
+        types: ['Grass', 'Ghost'],
+        bs: { hp: 40, at: 45, df: 45, sd: 54, sp: 50 },
+        weightkg: 1.1,
+        abilities: { 0: 'Hospitality' },
+        nfe: true,
+        otherFormes: ['Poltchageist-Artisan'],
+        gender: 'N'
+    },
+    'Poltchageist-Artisan': {
+        types: ['Grass', 'Ghost'],
+        bs: { hp: 40, at: 45, df: 45, sd: 54, sp: 50 },
+        weightkg: 1.1,
+        abilities: { 0: 'Hospitality' },
+        nfe: true,
+        gender: 'N',
+        baseSpecies: 'Poltchageist'
+    },
     Quaquaval: {
         types: ['Water', 'Fighting'],
         bs: { hp: 85, at: 120, df: 80, sa: 85, sd: 75, sp: 85 },
@@ -9523,6 +9685,13 @@ var SV_PATCH = {
         bs: { hp: 75, at: 50, df: 85, sa: 115, sd: 100, sp: 45 },
         weightkg: 3.5,
         abilities: { 0: 'Synchronize' }
+    },
+    'Raging Bolt': {
+        types: ['Electric', 'Dragon'],
+        bs: { hp: 125, at: 73, df: 91, sa: 137, sd: 89, sp: 75 },
+        weightkg: 480,
+        gender: 'N',
+        abilities: { 0: 'Protosynthesis' }
     },
     Rellor: {
         types: ['Bug'],
@@ -9570,6 +9739,22 @@ var SV_PATCH = {
         weightkg: 0.7,
         abilities: { 0: 'Unburden' },
         nfe: true
+    },
+    'Sinistcha': {
+        types: ['Grass', 'Ghost'],
+        bs: { hp: 71, at: 60, df: 106, sa: 121, sd: 80, sp: 70 },
+        weightkg: 2.2,
+        abilities: { 0: 'Hospitality' },
+        otherFormes: ['Sinistcha-Masterpiece'],
+        gender: 'N'
+    },
+    'Sinistcha-Masterpiece': {
+        types: ['Grass', 'Ghost'],
+        bs: { hp: 71, at: 60, df: 106, sa: 121, sd: 80, sp: 70 },
+        weightkg: 2.2,
+        abilities: { 0: 'Hospitality' },
+        gender: 'N',
+        baseSpecies: 'Sinistcha'
     },
     Skeledirge: {
         types: ['Fire', 'Ghost'],
@@ -9660,26 +9845,47 @@ var SV_PATCH = {
         weightkg: 8,
         abilities: { 0: 'Commander' }
     },
-    'Tauros-Paldea': {
+    'Tauros-Paldea-Combat': {
         types: ['Fighting'],
         bs: { hp: 75, at: 110, df: 105, sa: 30, sd: 70, sp: 100 },
         weightkg: 88.4,
         abilities: { 0: 'Intimidate' },
         baseSpecies: 'Tauros'
     },
-    'Tauros-Paldea-Fire': {
+    'Tauros-Paldea-Blaze': {
         types: ['Fighting', 'Fire'],
         bs: { hp: 75, at: 110, df: 105, sa: 30, sd: 70, sp: 100 },
         weightkg: 88.4,
         abilities: { 0: 'Intimidate' },
         baseSpecies: 'Tauros'
     },
-    'Tauros-Paldea-Water': {
+    'Tauros-Paldea-Aqua': {
         types: ['Fighting', 'Water'],
         bs: { hp: 75, at: 110, df: 105, sa: 30, sd: 70, sp: 100 },
         weightkg: 88.4,
         abilities: { 0: 'Intimidate' },
         baseSpecies: 'Tauros'
+    },
+    'Terapagos': {
+        types: ['Normal'],
+        bs: { hp: 90, at: 65, df: 85, sa: 65, sd: 85, sp: 60 },
+        weightkg: 6.5,
+        abilities: { 0: 'Tera Shift' },
+        otherFormes: ['Terapagos-Stellar', 'Terapagos-Terastal']
+    },
+    'Terapagos-Stellar': {
+        types: ['Normal'],
+        bs: { hp: 160, at: 105, df: 110, sa: 130, sd: 110, sp: 85 },
+        weightkg: 77,
+        abilities: { 0: 'Teraform Zero' },
+        baseSpecies: 'Terapagos'
+    },
+    'Terapagos-Terastal': {
+        types: ['Normal'],
+        bs: { hp: 95, at: 95, df: 110, sa: 105, sd: 110, sp: 85 },
+        weightkg: 16,
+        abilities: { 0: 'Tera Shell' },
+        baseSpecies: 'Terapagos'
     },
     'Ting-Lu': {
         types: ['Dark', 'Ground'],
@@ -9720,6 +9926,16 @@ var SV_PATCH = {
         bs: { hp: 80, at: 70, df: 65, sa: 80, sd: 120, sp: 100 },
         weightkg: 58,
         abilities: { 0: 'Mycelium Might' }
+    },
+    'Ursaluna': {
+        otherFormes: ['Ursaluna-Bloodmoon']
+    },
+    'Ursaluna-Bloodmoon': {
+        types: ['Ground', 'Normal'],
+        bs: { hp: 113, at: 70, df: 120, sa: 135, sd: 65, sp: 52 },
+        weightkg: 333,
+        abilities: { 0: 'Mind\'s Eye' },
+        baseSpecies: 'Ursaluna'
     },
     Varoom: {
         types: ['Steel', 'Poison'],

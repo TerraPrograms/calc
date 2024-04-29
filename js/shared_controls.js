@@ -222,11 +222,14 @@ $(".percent-hp").keyup(function () {
 });
 
 $(".ability").bind("keyup change", function () {
-	$(this).closest(".poke-info").find(".move-hits").val($(this).val() === 'Skill Link' ? 5 : 3);
+	var moveHits =
+		$(this).val() === 'Skill Link' ? 5 :
+			$(this).closest(".poke-info").find(".item").val() === 'Loaded Dice' ? 4 : 3;
+	$(this).closest(".poke-info").find(".move-hits").val(moveHits);
 
 	var ability = $(this).closest(".poke-info").find(".ability").val();
 
-	var TOGGLE_ABILITIES = ['Flash Fire', 'Intimidate', 'Minus', 'Plus', 'Slow Start', 'Unburden', 'Stakeout'];
+	var TOGGLE_ABILITIES = ['Flash Fire', 'Intimidate', 'Minus', 'Plus', 'Slow Start', 'Unburden', 'Stakeout', 'Teraform Zero'];
 
 	if (TOGGLE_ABILITIES.indexOf(ability) >= 0) {
 		$(this).closest(".poke-info").find(".abilityToggle").show();
@@ -419,7 +422,9 @@ $(".move-selector").change(function () {
 		moveGroupObj.children(".stat-drops").hide();
 		moveGroupObj.children(".move-hits").show();
 		var pokemon = $(this).closest(".poke-info");
-		var moveHits = (pokemon.find(".ability").val() === 'Skill Link') ? 5 : 3;
+		var moveHits =
+		pokemon.find(".ability").val() === 'Skill Link' ? 5 :
+			pokemon.find(".item").val() === 'Loaded Dice' ? 4 : 3;
 		moveGroupObj.children(".move-hits").val(moveHits);
 	} else if (dropsStats) {
 		moveGroupObj.children(".move-hits").hide();
@@ -474,14 +479,20 @@ $(".set-selector").change(function () {
 			if (pok_name == "Tauros-Paldea-Fire") {
 				pok_name = "Tauros-Paldea-Blaze"
 			}
+			if (pok_name == "Tauros-Paldea") {
+				pok_name = "Tauros-Paldea-Combat"
+			}
 			if (pok_name == "Wooper-Paldea") {
 				pok_name = "WooperPaldea"
 			}
 			if (pok_name == "Pumpkaboo-Super") {
 				pok_name = "Pumpkaboo"
 			}
+			if (pok_name == "Mime Jr.") {
+				pok_name = "Mime%20Jr"
+			}
 			//this ruined my day
-			var pok = `<img class="trainer-pok right-side" src="https://raw.githubusercontent.com/May8th1995/sprites/master/${pok_name}.png" data-id="${CURRENT_TRAINER_POKS[i].split("]")[1]}" title="${next_poks[i]}, ${next_poks[i]} BP">`
+			var pok = `<img class="trainer-pok right-side" src="http://raw.githubusercontent.com/May8th1995/sprites/master/${pok_name}.png" data-id="${CURRENT_TRAINER_POKS[i].split("]")[1]}" title="${next_poks[i]}, ${next_poks[i]} BP">`
 			trpok_html += pok
 		}
 	} else {
@@ -939,6 +950,7 @@ function createField() {
 	var isMagicRoom = $("#magicroom").prop("checked");
 	var isWonderRoom = $("#wonderroom").prop("checked");
 	var isGravity = $("#gravity").prop("checked");
+	var isInverse = $("#inverse").prop("checked");
 	var isSR = [$("#srL").prop("checked"), $("#srR").prop("checked")];
 	var weather;
 	var spikes;
@@ -982,7 +994,7 @@ function createField() {
 	};
 	return new calc.Field({
 		gameType: gameType, weather: weather, terrain: terrain,
-		isMagicRoom: isMagicRoom, isWonderRoom: isWonderRoom, isGravity: isGravity,
+		isMagicRoom: isMagicRoom, isWonderRoom: isWonderRoom, isGravity: isGravity, isInverse: isInverse,
 		isBeadsOfRuin: isBeadsOfRuin, isTabletsOfRuin: isTabletsOfRuin,
 		isSwordOfRuin: isSwordOfRuin, isVesselOfRuin: isVesselOfRuin,
 		attackerSide: createSide(0), defenderSide: createSide(1)
