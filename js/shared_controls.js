@@ -225,6 +225,9 @@ $(".ability").bind("keyup change", function () {
 	var moveHits =
 		$(this).val() === 'Skill Link' ? 5 :
 			$(this).closest(".poke-info").find(".item").val() === 'Loaded Dice' ? 4 : 3;
+	if ($(this).val() === 'Protean' | $(this).val() === 'Libero') {
+		moveHits = 5;
+	}
 	$(this).closest(".poke-info").find(".move-hits").val(moveHits);
 
 	var ability = $(this).closest(".poke-info").find(".ability").val();
@@ -425,6 +428,9 @@ $(".move-selector").change(function () {
 		var moveHits =
 		pokemon.find(".ability").val() === 'Skill Link' ? 5 :
 			pokemon.find(".item").val() === 'Loaded Dice' ? 4 : 3;
+		if (moveName.match("Water Shuriken") && startsWith(pokemon.find(".set-selector").val(), "Greninja")) {	
+			moveHits = 5;
+			}
 		moveGroupObj.children(".move-hits").val(moveHits);
 	} else if (dropsStats) {
 		moveGroupObj.children(".move-hits").hide();
@@ -490,6 +496,9 @@ $(".set-selector").change(function () {
 			}
 			if (pok_name == "Mime Jr.") {
 				pok_name = "Mime%20Jr"
+			}
+			if (pok_name == "Aegislash-Shield") {
+				pok_name = "Aegislash"
 			}
 			//this ruined my day
 			var pok = `<img class="trainer-pok right-side" src="http://raw.githubusercontent.com/May8th1995/sprites/master/${pok_name}.png" data-id="${CURRENT_TRAINER_POKS[i].split("]")[1]}" title="${next_poks[i]}, ${next_poks[i]} BP">`
