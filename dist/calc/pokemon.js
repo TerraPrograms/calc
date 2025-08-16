@@ -44,6 +44,7 @@ var Pokemon = (function () {
         this.isDynamaxed = !!options.isDynamaxed;
         this.isSaltCure = !!options.isSaltCure;
         this.alliesFainted = options.alliesFainted;
+        this.boostedStat = options.boostedStat;
         this.teraType = options.teraType;
         this.item = options.item;
         this.nature = options.nature || 'Serious';
@@ -176,6 +177,7 @@ var Pokemon = (function () {
             isDynamaxed: this.isDynamaxed,
             isSaltCure: this.isSaltCure,
             alliesFainted: this.alliesFainted,
+            boostedStat: this.boostedStat,
             item: this.item,
             gender: this.gender,
             nature: this.nature,

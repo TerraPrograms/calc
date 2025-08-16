@@ -1,6 +1,6 @@
 /* eslint-disable max-len */
 
-import {AbilityName, Weather} from '../data/interface';
+import {AbilityName, Terrain, Weather} from '../data/interface';
 import {inGen, inGens, tests} from './helper';
 
 describe('calc', () => {
@@ -875,7 +875,7 @@ describe('calc', () => {
     });
 
     describe('Gen 9', () => {
-      inGen(9, ({calculate, Pokemon, Move}) => {
+      inGen(9, ({calculate, Pokemon, Move, Field}) => {
         test('Supreme Overlord', () => {
           const kingambit = Pokemon('Kingambit', {level: 100, ability: 'Supreme Overlord', alliesFainted: 0});
           const aggron = Pokemon('Aggron', {level: 100});
@@ -897,6 +897,40 @@ describe('calc', () => {
             '0 Atk Supreme Overlord 5 allies fainted Kingambit Iron Head vs. 0 HP / 0 Def Aggron: 100-118 (35.5 - 41.9%) -- guaranteed 3HKO'
           );
         });
+        function testQP(ability: string, field?: {weather?: Weather; terrain?: Terrain}) {
+          test(`${ability} should take into account boosted stats by default`, () => {
+            const attacker = Pokemon('Iron Leaves', {ability, boostedStat: 'auto', boosts: {spa: 6}});
+            // highest stat = defense
+            const defender = Pokemon('Iron Treads', {ability, boostedStat: 'auto', boosts: {spd: 6}});
+
+            let result = calculate(attacker, defender, Move('Leaf Storm'), Field(field)).rawDesc;
+            expect(result.attackerAbility).toBe(ability);
+            expect(result.defenderAbility).toBe(ability);
+
+            result = calculate(attacker, defender, Move('Psyblade'), Field(field)).rawDesc;
+            expect(result.attackerAbility).toBeUndefined();
+            expect(result.defenderAbility).toBeUndefined();
+          });
+        }
+        function testQPOverride(ability: string, field?: {weather?: Weather; terrain?: Terrain}) {
+          test(`${ability} should be able to be overridden with boostedStat`, () => {
+            const attacker = Pokemon('Flutter Mane', {ability, boostedStat: 'atk', boosts: {spa: 6}});
+            // highest stat = defense
+            const defender = Pokemon('Walking Wake', {ability, boostedStat: 'def', boosts: {spd: 6}});
+
+            let result = calculate(attacker, defender, Move('Leaf Storm'), Field(field)).rawDesc;
+            expect(result.attackerAbility).toBeUndefined();
+            expect(result.defenderAbility).toBeUndefined();
+
+            result = calculate(attacker, defender, Move('Psyblade'), Field(field)).rawDesc;
+            expect(result.attackerAbility).toBe(ability);
+            expect(result.defenderAbility).toBe(ability);
+          });
+        }
+        testQP('Quark Drive', {terrain: 'Electric'});
+        testQP('Protosynthesis', {weather: 'Sun'});
+        testQPOverride('Quark Drive', {terrain: 'Electric'});
+        testQPOverride('Protosynthesis', {weather: 'Sun'});
       });
     });
   });
