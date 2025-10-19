@@ -6924,7 +6924,7 @@ const SM_PATCH: {[name: string]: DeepPartial<SpeciesData>} = {
   },
   'Pikachu-Partner': {
     types: ['Electric'],
-    bs: {hp: 35, at: 55, df: 40, sa: 50, sd: 50, sp: 90},
+    bs: { hp: 45, at: 80, df: 50, sa: 75, sd: 60, sp: 120 },
     weightkg: 6,
     abilities: {0: 'Static'},
     baseSpecies: 'Pikachu',
