@@ -210,6 +210,9 @@ function calculateSMSSSV(gen, attacker, defender, move, field) {
     if (typeEffectiveness === 0 && move.named('Thousand Arrows')) {
         typeEffectiveness = 1;
     }
+    if (typeEffectiveness === 0 && move.named('Nihil Light')) {
+        typeEffectiveness = 1;
+    }
     if (typeEffectiveness === 0) {
         return result;
     }
@@ -1037,7 +1040,7 @@ function calculateDefenseSMSSSV(gen, attacker, defender, move, field, desc, isCr
         move.ignoreDefensive) {
         defense = defender.rawStats[defenseStat];
     }
-    else if (attacker.hasAbility('Unaware')) {
+    else if (attacker.hasAbility('Unaware') || move.name === 'Nihil Light') {
         defense = defender.rawStats[defenseStat];
         desc.attackerAbility = attacker.ability;
     }

@@ -4882,7 +4882,15 @@ var SV_PATCH = {
         target: 'allAdjacentFoes'
     }
 };
-var SV = (0, util_1.extend)(true, {}, SS, SV_PATCH);
+var ZA_PATCH = {
+    'Nihil Light': {
+        bp: 200,
+        type: 'Dragon',
+        category: 'Special',
+        target: 'allAdjacentFoes'
+    }
+};
+var SV = (0, util_1.extend)(true, {}, SS, SV_PATCH, ZA_PATCH);
 exports.MOVES = [{}, RBY, GSC, ADV, DPP, BW, XY, SM, SS, SV];
 var Moves = (function () {
     function Moves(gen) {
