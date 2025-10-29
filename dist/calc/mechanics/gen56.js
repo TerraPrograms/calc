@@ -484,6 +484,10 @@ function calculateBWXY(gen, attacker, defender, move, field) {
         move.named('Foul Play')
             ? (0, util_2.getEVDescriptionText)(gen, defender, attackStat, defender.nature)
             : (0, util_2.getEVDescriptionText)(gen, attacker, attackStat, attacker.nature);
+    if (field.attackerSide.isPowerTrick && !move.named('Foul Play') && move.category === 'Physical') {
+        desc.isPowerTrickAttacker = true;
+        attackSource.rawStats[attackStat] = attacker.rawStats.def;
+    }
     if (attackSource.boosts[attackStat] === 0 ||
         (isCritical && attackSource.boosts[attackStat] < 0)) {
         attack = attackSource.rawStats[attackStat];
@@ -568,6 +572,10 @@ function calculateBWXY(gen, attacker, defender, move, field) {
     var defense;
     var defenseStat = move.overrideDefensiveStat || move.category === 'Physical' ? 'def' : 'spd';
     var hitsPhysical = defenseStat === 'def';
+    if (field.defenderSide.isPowerTrick && hitsPhysical) {
+        desc.isPowerTrickDefender = true;
+        defender.rawStats[defenseStat] = defender.rawStats.atk;
+    }
     desc.defenseEVs = (0, util_2.getEVDescriptionText)(gen, defender, defenseStat, defender.nature);
     if (defender.boosts[defenseStat] === 0 ||
         (isCritical && defender.boosts[defenseStat] > 0) ||

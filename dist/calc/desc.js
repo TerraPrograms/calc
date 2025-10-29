@@ -704,6 +704,9 @@ function buildDescription(description, attacker, defender) {
     if (description.isFlowerGiftAttacker) {
         output += ' with an ally\'s Flower Gift ';
     }
+    if (description.isPowerTrickAttacker) {
+        output += 'with Power Trick ';
+    }
     if (description.isBattery) {
         output += ' Battery boosted ';
     }
@@ -773,6 +776,9 @@ function buildDescription(description, attacker, defender) {
     }
     if (description.isFlowerGiftDefender) {
         output += ' with an ally\'s Flower Gift';
+    }
+    if (description.isPowerTrickDefender) {
+        output += ' with Power Trick';
     }
     if (description.isFriendGuard) {
         output += ' with an ally\'s Friend Guard';

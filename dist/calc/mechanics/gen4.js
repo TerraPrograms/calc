@@ -262,6 +262,10 @@ function calculateDPP(gen, attacker, defender, move, field) {
     var attack;
     var attackBoost = attacker.boosts[attackStat];
     var rawAttack = attacker.rawStats[attackStat];
+    if (field.attackerSide.isPowerTrick && isPhysical) {
+        desc.isPowerTrickAttacker = true;
+        rawAttack = attacker.rawStats.def;
+    }
     if (attackBoost === 0 || (isCritical && attackBoost < 0)) {
         attack = rawAttack;
     }
@@ -319,6 +323,10 @@ function calculateDPP(gen, attacker, defender, move, field) {
     var defense;
     var defenseBoost = defender.boosts[defenseStat];
     var rawDefense = defender.rawStats[defenseStat];
+    if (field.defenderSide.isPowerTrick && isPhysical) {
+        desc.isPowerTrickDefender = true;
+        rawDefense = defender.rawStats.atk;
+    }
     if (defenseBoost === 0 || (isCritical && defenseBoost > 0)) {
         defense = rawDefense;
     }
