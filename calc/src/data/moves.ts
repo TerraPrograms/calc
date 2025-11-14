@@ -1006,7 +1006,7 @@ const DPP_PATCH: {[name: string]: DeepPartial<MoveData>} = {
   'Roar of Time': {bp: 150, type: 'Dragon', category: 'Special'},
   'Rock Climb': {
     bp: 90,
-    type: 'Normal',
+    type: 'Rock',
     makesContact: true,
     category: 'Physical',
   },
