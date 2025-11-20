@@ -9458,7 +9458,7 @@ const SV_PATCH: {[name: string]: DeepPartial<SpeciesData>} = {
   },
   Munkidori: {
     types: ['Poison', 'Psychic'],
-    bs: {hp: 88, at: 75, sa: 130, sd: 90, sp: 106},
+    bs: {hp: 88, at: 75, df: 66, sa: 130, sd: 90, sp: 106},
     weightkg: 12.2,
     gender: 'M',
     abilities: {0: 'Toxic Chain'},
