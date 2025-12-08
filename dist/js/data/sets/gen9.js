@@ -26594,7 +26594,7 @@ var SETDEX_SV = {
     },
     "Pokemaniac Symes & Bug Maniac Connor": {
       "level": 85,
-      "ability": "Power Of Alchemy",
+      "ability": "Power of Alchemy",
       "moves": [
         "Gunk Shot",
         "Knock Off",
