@@ -16634,7 +16634,7 @@ var SETDEX_SV = {
   "Scrafty-Mega": {
     "Triathlete Jasmine & Triathlete Jacob": {
       "level": 63,
-      "ability": "Intimidate",
+      "ability": "Justified",
       "moves": [
         "High Jump Kick",
         "Knock Off",
@@ -17764,7 +17764,7 @@ var SETDEX_SV = {
   "Emboar-Mega": {
     "Verdanturf Tunnel Magma Grunt & Aqua Grunt": {
       "level": 63,
-      "ability": "Blaze",
+      "ability": "Supreme Overlord",
       "moves": [
         "Blast Burn",
         "Superpower",
@@ -23449,7 +23449,7 @@ var SETDEX_SV = {
   "Victreebel-Mega": {
     "Jagged Pass Team Magma Grunt": {
       "level": 71,
-      "ability": "Gluttony",
+      "ability": "Supersweet Syrup",
       "moves": [
         "Sleep Powder",
         "Power Whip",
@@ -24507,7 +24507,7 @@ var SETDEX_SV = {
   "Feraligatr-Mega": {
     "Cooltrainer Carolina & Sailor Cory": {
       "level": 72,
-      "ability": "Torrent",
+      "ability": "Dragon's Maw",
       "moves": [
         "Scale Shot",
         "Liquidation",
@@ -24537,7 +24537,7 @@ var SETDEX_SV = {
   "Falinks-Mega": {
     "Beauty Thalia": {
       "level": 73,
-      "ability": "Battle Armor",
+      "ability": "Sharpness",
       "moves": [
         "Sacred Sword",
         "No Retreat",
@@ -24601,7 +24601,7 @@ var SETDEX_SV = {
   "Scolipede-Mega": {
     "Sailor Duncan": {
       "level": 74,
-      "ability": "Poison Point",
+      "ability": "Steelworker",
       "moves": [
         "Gunk Shot",
         "Megahorn",
@@ -24682,7 +24682,7 @@ var SETDEX_SV = {
   "Pyroar-Mega": {
     "Tuber Jani": {
       "level": 73,
-      "ability": "Unnerve",
+      "ability": "Blaze",
       "moves": [
         "Overheat",
         "Hyper Voice",
@@ -25453,7 +25453,7 @@ var SETDEX_SV = {
   "Dragalge-Mega": {
     "Bug Catcher Kent": {
       "level": 73,
-      "ability": "Adaptability",
+      "ability": "Multiscale",
       "moves": [
         "Flip Turn",
         "Draco Meteor",
@@ -26856,7 +26856,7 @@ var SETDEX_SV = {
   "Hawlucha-Mega": {
     "Bird Keeper Specter": {
       "level": 76,
-      "ability": "Unburden",
+      "ability": "Reckless",
       "moves": [
         "Brave Bird",
         "Flying Press",
@@ -27040,7 +27040,7 @@ var SETDEX_SV = {
   "Skarmory-Mega": {
     "Bird Keeper Jared": {
       "level": 76,
-      "ability": "Sturdy",
+      "ability": "Tough Claws",
       "moves": [
         "Brave Bird",
         "Iron Head",
@@ -27266,7 +27266,7 @@ var SETDEX_SV = {
   "Delphox-Mega": {
     "Cooltrainer Jeffrey": {
       "level": 79,
-      "ability": "Blaze",
+      "ability": "Levitate",
       "moves": [
         "Fire Blast",
         "Psystrike",
@@ -27384,7 +27384,7 @@ var SETDEX_SV = {
   "Chesnaught-Mega": {
     "Cooltrainer Marcel": {
       "level": 80,
-      "ability": "Bulletproof",
+      "ability": "Quick Draw",
       "moves": [
         "Wood Hammer",
         "Body Press",
@@ -27537,7 +27537,7 @@ var SETDEX_SV = {
   "Clefable-Mega": {
     "Hex Maniac Leah": {
       "level": 78,
-      "ability": "Magic Guard",
+      "ability": "Dazzling",
       "moves": [
         "Stealth Rock",
         "Moonblast",
@@ -27692,7 +27692,7 @@ var SETDEX_SV = {
   "Froslass-Mega": {
     "Pokemaniac Mark": {
       "level": 79,
-      "ability": "Cursed Body",
+      "ability": "Regrigerate",
       "moves": [
         "Hyper Voice",
         "Shadow Ball",
@@ -27786,7 +27786,7 @@ var SETDEX_SV = {
   "Malamar-Mega": {
     "Pyre Team Aqua Grunt #2": {
       "level": 80,
-      "ability": "Contrary",
+      "ability": "Neuroforce",
       "moves": [
         "Extrasensory",
         "Dark Pulse",
@@ -27801,7 +27801,7 @@ var SETDEX_SV = {
   "Barbaracle-Mega": {
     "Pyre Team Aqua Grunt #4": {
       "level": 80,
-      "ability": "Tough Claws",
+      "ability": "Skill Link",
       "moves": [
         "Arm Thrust",
         "Rock Blast",
@@ -27953,7 +27953,7 @@ var SETDEX_SV = {
   "Chandelure-Mega": {
     "Team Magma Grunt Coffee": {
       "level": 81,
-      "ability": "Shadow Tag",
+      "ability": "Technician",
       "moves": [
         "Flamethrower",
         "Ominous Wind",
@@ -27966,7 +27966,7 @@ var SETDEX_SV = {
     },
     "Elite Four Phoebe Singles": {
       "level": 100,
-      "ability": "Shadow Tag",
+      "ability": "Technician",
       "moves": [
         "Fire Blast",
         "Ominous Wind",
@@ -28574,7 +28574,7 @@ var SETDEX_SV = {
   "Starmie-Mega": {
     "Pokemaniac Symes & Bug Maniac Connor": {
       "level": 86,
-      "ability": "Illuminate",
+      "ability": "Pure Power",
       "moves": [
         "Liquidation",
         "Zen Headbutt",
@@ -29261,7 +29261,7 @@ var SETDEX_SV = {
   "Excadrill-Mega": {
     "Expert Qspec": {
       "level": 88,
-      "ability": "Mold Breaker",
+      "ability": "Clear Body",
       "moves": [
         "Hard Press",
         "High Horsepower",
@@ -29580,7 +29580,7 @@ var SETDEX_SV = {
   "Dragonite-Mega": {
     "Swimmer Reed": {
       "level": 91,
-      "ability": "Inner Focus",
+      "ability": "No Guard",
       "moves": [
         "Dragon Rush",
         "Hurricane",
@@ -29593,7 +29593,7 @@ var SETDEX_SV = {
     },
     "Elite Four Drake Singles": {
       "level": 100,
-      "ability": "Inner Focus",
+      "ability": "No Guard",
       "moves": [
         "Draco Meteor",
         "Hurricane",
@@ -30153,7 +30153,7 @@ var SETDEX_SV = {
   "Floette-Eternal-Mega": {
     "Cooltrainer Yoru": {
       "level": 96,
-      "ability": "Symbiosis",
+      "ability": "Fairy Aura",
       "moves": [
         "Light Of Ruin",
         "Mystical Fire",
@@ -30258,7 +30258,7 @@ var SETDEX_SV = {
   "Zygarde-Mega": {
     "Adventurer Brandon": {
       "level": 99,
-      "ability": "Power Construct",
+      "ability": "Blaze",
       "moves": [
         "Core Enforcer",
         "Earth Power",
@@ -30378,7 +30378,7 @@ var SETDEX_SV = {
   "Greninja-Mega": {
     "Elite Four Sidney Singles": {
       "level": 100,
-      "ability": "Libero",
+      "ability": "Sniper",
       "moves": [
         "Muddy Water",
         "Night Daze",
