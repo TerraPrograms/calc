@@ -6268,7 +6268,7 @@ var SM_PATCH = {
     Volbeat: { bs: { df: 75, sd: 85 } },
     Vulpix: { otherFormes: ['Vulpix-Alola'] },
     Woobat: { bs: { hp: 65 } },
-    Zygarde: { otherFormes: ['Zygarde-10%', 'Zygarde-Complete'] },
+    Zygarde: { otherFormes: ['Zygarde-10%', 'Zygarde-Complete', 'Zygarde-Mega'] },
     Araquanid: {
         types: ['Water', 'Bug'],
         bs: { hp: 68, at: 70, df: 92, sa: 50, sd: 132, sp: 42 },

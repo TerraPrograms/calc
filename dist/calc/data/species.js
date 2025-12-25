@@ -5368,7 +5368,7 @@ var XY_PATCH = {
         bs: { hp: 54, at: 45, df: 47, sa: 75, sd: 98, sp: 52 },
         weightkg: 0.9,
         nfe: true,
-        otherFormes: ['Floette-Eternal'],
+        otherFormes: ['Floette-Eternal', 'Floette-Mega'],
         abilities: { 0: 'Flower Veil' }
     },
     'Floette-Eternal': {
@@ -10014,7 +10014,6 @@ var ZA_PATCH = {
     Excadrill: { otherFormes: ['Excadrill-Mega'] },
     Falinks: { otherFormes: ['Falinks-Mega'] },
     Feraligatr: { otherFormes: ['Feraligatr-Mega'] },
-    Floette: { otherFormes: ['Floette-Mega'] },
     Froslass: { otherFormes: ['Froslass-Mega'] },
     Greninja: { otherFormes: ['Greninja-Mega'] },
     Hawlucha: { otherFormes: ['Hawlucha-Mega'] },
@@ -10026,7 +10025,7 @@ var ZA_PATCH = {
     Skarmory: { otherFormes: ['Skarmory-Mega'] },
     Starmie: { otherFormes: ['Starmie-Mega'] },
     Victreebel: { otherFormes: ['Victreebel-Mega'] },
-    Zygarde: { otherFormes: ['Zygarde-Mega', 'Zygarde-10%', 'Zygarde-Complete'] },
+    Zygarde: { otherFormes: ['Zygarde-10%', 'Zygarde-Complete', 'Zygarde-Mega'] },
     'Barbaracle-Mega': {
         types: [
             'Rock',
