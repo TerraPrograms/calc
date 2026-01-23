@@ -531,7 +531,7 @@ var ZA_MEGA_STONES = {
     Excadrite: 'Excadrill',
     Falinksite: 'Falinks',
     Feraligite: 'Feraligatr',
-    Floettite: 'Floette',
+    Floettite: 'Floette-Eternal',
     Froslassite: 'Froslass',
     Greninjite: 'Greninja',
     Hawluchanite: 'Hawlucha',
@@ -543,9 +543,30 @@ var ZA_MEGA_STONES = {
     Skarmorite: 'Skarmory',
     Starminite: 'Starmie',
     Victreebelite: 'Victreebel',
-    Zygardite: 'Zygarde'
+    Zygardite: 'Zygarde-Complete'
 };
-var SV = SS.concat([
+var ZA_DLC_MEGA_STONES = {
+    'Absolite Z': 'Absol',
+    Baxcalibrite: 'Baxcalibur',
+    Chimechite: 'Chimecho',
+    Crabominite: 'Crabominable',
+    Darkranite: 'Darkrai',
+    'Garchompite Z': 'Garchomp',
+    Glimmoranite: 'Glimmora',
+    Golisopite: 'Golisopod',
+    Golurkite: 'Golurk',
+    Heatranite: 'Heatran',
+    'Lucarionite Z': 'Lucario',
+    Magearnite: 'Magearna',
+    Meowsticite: 'Meowstic',
+    'Raichunite X': 'Raichu',
+    'Raichunite Y': 'Raichu',
+    Scovillainite: 'Scovillain',
+    Staraptite: 'Staraptor',
+    Tatsugirinite: 'Tatsugiri',
+    Zeraorite: 'Zeraora'
+};
+var SV = SS.concat(__spreadArray(__spreadArray(__spreadArray([], __read(Object.keys(ZA_MEGA_STONES)), false), __read(Object.keys(ZA_DLC_MEGA_STONES)), false), [
     'Adamant Crystal',
     'Auspicious Armor',
     'Ability Shield',
@@ -564,7 +585,7 @@ var SV = SS.concat([
     'Griseous Core',
     'Strange Ball',
     'Wellspring Mask',
-]);
+], false));
 var BERRIES = {
     'Aguav Berry': { t: 'Dragon', p: 80 },
     'Apicot Berry': { t: 'Ground', p: 100 },
