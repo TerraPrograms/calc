@@ -68,7 +68,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Quick Claw",
-      "index": 796
+      "index": 798
     },
     "Pyre Team Aqua Grunt #3": {
       "level": 80,
@@ -81,7 +81,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Starf Berry",
-      "index": 1043
+      "index": 1045
     },
     "Expert Makayla": {
       "level": 95,
@@ -94,7 +94,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Focus Sash",
-      "index": 1420
+      "index": 1422
     }
   },
   "Sableye": {
@@ -122,7 +122,7 @@ var SETDEX_SV = {
       ],
       "nature": "Sassy",
       "item": "Sablenite",
-      "index": 701
+      "index": 703
     }
   },
   "Dustox": {
@@ -150,7 +150,7 @@ var SETDEX_SV = {
       ],
       "nature": "Bold",
       "item": "Coba Berry",
-      "index": 1504
+      "index": 1506
     }
   },
   "Quagsire": {
@@ -192,7 +192,7 @@ var SETDEX_SV = {
       ],
       "nature": "Careful",
       "item": "Starf Berry",
-      "index": 996
+      "index": 998
     }
   },
   "Gumshoos": {
@@ -219,7 +219,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Silk Scarf",
-      "index": 368
+      "index": 370
     }
   },
   "Talonflame": {
@@ -247,7 +247,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Silver Powder",
-      "index": 598
+      "index": 600
     },
     "Bird Keeper Specter": {
       "level": 77,
@@ -260,7 +260,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Life Orb",
-      "index": 865
+      "index": 867
     }
   },
   "Lumineon": {
@@ -304,7 +304,7 @@ var SETDEX_SV = {
         "sd": "31",
         "sp": "31"
       },
-      "index": 836
+      "index": 838
     },
     "Hideout Team Aqua Grunt #2": {
       "level": 83,
@@ -317,7 +317,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Focus Band",
-      "index": 1130
+      "index": 1132
     }
   },
   "Butterfree": {
@@ -345,7 +345,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Mental Herb",
-      "index": 1490
+      "index": 1492
     }
   },
   "Spidops": {
@@ -373,7 +373,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Red Card",
-      "index": 731
+      "index": 733
     }
   },
   "Ledian": {
@@ -401,7 +401,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Focus Sash",
-      "index": 342
+      "index": 344
     }
   },
   "Arboliva": {
@@ -429,7 +429,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Miracle Seed",
-      "index": 327
+      "index": 329
     },
     "Cooltrainer Dan (Grassy Room)": {
       "level": 64,
@@ -442,7 +442,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Big Root",
-      "index": 435
+      "index": 437
     },
     "Hideout Team Aqua Grunt #5": {
       "level": 83,
@@ -455,7 +455,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Focus Band",
-      "index": 1145
+      "index": 1147
     }
   },
   "Heliolisk": {
@@ -483,7 +483,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Psychic Gem",
-      "index": 441
+      "index": 443
     },
     "Ruin Maniac Dusty": {
       "level": 67,
@@ -496,7 +496,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Bright Powder",
-      "index": 478
+      "index": 480
     },
     "Dragon Tamer Jace": {
       "level": 71,
@@ -509,7 +509,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Leftovers",
-      "index": 647
+      "index": 649
     }
   },
   "Clodsire": {
@@ -537,7 +537,7 @@ var SETDEX_SV = {
       ],
       "nature": "Impish",
       "item": "Black Sludge",
-      "index": 1465
+      "index": 1467
     }
   },
   "Comfey": {
@@ -585,7 +585,7 @@ var SETDEX_SV = {
         "sd": "30",
         "sp": "31"
       },
-      "index": 1367
+      "index": 1369
     }
   },
   "Bombirdier": {
@@ -613,7 +613,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Mental Herb",
-      "index": 723
+      "index": 725
     },
     "Bird Keeper Jared": {
       "level": 77,
@@ -626,7 +626,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Focus Sash",
-      "index": 887
+      "index": 889
     }
   },
   "Orthworm": {
@@ -667,7 +667,7 @@ var SETDEX_SV = {
       ],
       "nature": "Careful",
       "item": "Sitrus Berry",
-      "index": 374
+      "index": 376
     },
     "Hideout Team Magma Grunt #8": {
       "level": 80,
@@ -680,7 +680,7 @@ var SETDEX_SV = {
       ],
       "nature": "Careful",
       "item": "Leftovers",
-      "index": 1090
+      "index": 1092
     },
     "Swimmer Reed": {
       "level": 91,
@@ -693,7 +693,7 @@ var SETDEX_SV = {
       ],
       "nature": "Impish",
       "item": "Sitrus Berry",
-      "index": 1359
+      "index": 1361
     }
   },
   "Ariados": {
@@ -721,7 +721,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Quick Claw",
-      "index": 1099
+      "index": 1101
     }
   },
   "Beautifly": {
@@ -749,7 +749,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Petaya Berry",
-      "index": 1497
+      "index": 1499
     }
   },
   "Hypno": {
@@ -790,7 +790,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Wide Lens",
-      "index": 372
+      "index": 374
     }
   },
   "Raticate": {
@@ -816,7 +816,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Flame Orb",
-      "index": 1416
+      "index": 1418
     }
   },
   "Furret": {
@@ -844,7 +844,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Normal Gem",
-      "index": 1430
+      "index": 1432
     }
   },
   "Pyukumuku": {
@@ -887,7 +887,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Shell Bell",
-      "index": 460
+      "index": 462
     },
     "Pokemaniac Symes & Bug Maniac Connor": {
       "level": 85,
@@ -900,7 +900,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Assault Vest",
-      "index": 1194
+      "index": 1196
     },
     "Seafloor Team Aqua Grunt #3": {
       "level": 90,
@@ -913,7 +913,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Mental Herb",
-      "index": 1318
+      "index": 1320
     }
   },
   "Pincurchin": {
@@ -962,7 +962,7 @@ var SETDEX_SV = {
         "sd": "31",
         "sp": "0"
       },
-      "index": 859
+      "index": 861
     },
     "Hideout Team Aqua Grunt #4": {
       "level": 82,
@@ -975,7 +975,7 @@ var SETDEX_SV = {
       ],
       "nature": "Quiet",
       "item": "Terrain Extender",
-      "index": 1138
+      "index": 1140
     },
     "Ex Leader Juan": {
       "level": 94,
@@ -988,7 +988,7 @@ var SETDEX_SV = {
       ],
       "nature": "Sassy",
       "item": "Terrain Extender",
-      "index": 1470
+      "index": 1472
     }
   },
   "Gyarados": {
@@ -1014,7 +1014,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Choice Specs",
-      "index": 566
+      "index": 568
     },
     "Dragon Tamer Sora": {
       "level": 76,
@@ -1027,7 +1027,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Leftovers",
-      "index": 892
+      "index": 894
     },
     "Hideout Team Magma Grunt #10": {
       "level": 80,
@@ -1040,7 +1040,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Bright Powder",
-      "index": 1097
+      "index": 1099
     },
     "Team Aqua Admin Matt": {
       "level": 85,
@@ -1053,7 +1053,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Gyaradosite",
-      "index": 1160
+      "index": 1162
     },
     "Triathlete Allison": {
       "level": 92,
@@ -1066,7 +1066,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Clear Amulet",
-      "index": 1368
+      "index": 1370
     },
     "Lorekeeper Zinnia": {
       "level": 95,
@@ -1079,7 +1079,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Wacan Berry",
-      "index": 1485
+      "index": 1487
     },
     "Elite Four Sidney Doubles": {
       "level": 100,
@@ -1100,7 +1100,7 @@ var SETDEX_SV = {
         "sd": "31",
         "sp": "21"
       },
-      "index": 1690
+      "index": 1692
     }
   },
   "Luvdisc": {
@@ -1128,7 +1128,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Focus Band",
-      "index": 1317
+      "index": 1319
     }
   },
   "Delcatty": {
@@ -1154,7 +1154,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Focus Band",
-      "index": 1081
+      "index": 1083
     }
   },
   "Togetic": {
@@ -1197,7 +1197,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Focus Sash",
-      "index": 1304
+      "index": 1306
     }
   },
   "Clefable": {
@@ -1225,7 +1225,7 @@ var SETDEX_SV = {
       ],
       "nature": "Bold",
       "item": "Leftovers",
-      "index": 392
+      "index": 394
     },
     "Hex Maniac Leah": {
       "level": 78,
@@ -1238,7 +1238,7 @@ var SETDEX_SV = {
       ],
       "nature": "Bold",
       "item": "Clefablite",
-      "index": 986
+      "index": 988
     }
   },
   "Vivillon": {
@@ -1266,7 +1266,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Wacan Berry",
-      "index": 459
+      "index": 461
     },
     "Triathlete Barron & Stephin": {
       "level": 92,
@@ -1279,7 +1279,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Focus Sash",
-      "index": 1372
+      "index": 1374
     }
   },
   "Dipplin": {
@@ -1345,7 +1345,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Focus Band",
-      "index": 1249
+      "index": 1251
     }
   },
   "Parasect": {
@@ -1373,7 +1373,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Iapapa Berry",
-      "index": 1015
+      "index": 1017
     }
   },
   "Beedrill": {
@@ -1401,7 +1401,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Beedrillite",
-      "index": 739
+      "index": 741
     }
   },
   "Farfetch’d": {
@@ -1444,7 +1444,7 @@ var SETDEX_SV = {
       ],
       "nature": "Bold",
       "item": "Eviolite",
-      "index": 1320
+      "index": 1322
     }
   },
   "Wishiwashi": {
@@ -1480,7 +1480,7 @@ var SETDEX_SV = {
         "sd": "31",
         "sp": "0"
       },
-      "index": 862
+      "index": 864
     }
   },
   "Chatot": {
@@ -1523,7 +1523,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Eject Pack",
-      "index": 1125
+      "index": 1127
     },
     "Adventurer Brandon": {
       "level": 99,
@@ -1536,7 +1536,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Focus Sash",
-      "index": 1597
+      "index": 1599
     }
   },
   "Girafarig": {
@@ -1579,7 +1579,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Quick Claw",
-      "index": 617
+      "index": 619
     },
     "Hideout Team Magma Grunt #8": {
       "level": 80,
@@ -1592,7 +1592,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Focus Band",
-      "index": 1089
+      "index": 1091
     }
   },
   "Sunflora": {
@@ -1620,7 +1620,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Focus Sash",
-      "index": 645
+      "index": 647
     }
   },
   "Diggersby": {
@@ -1648,7 +1648,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Rindo Berry",
-      "index": 1195
+      "index": 1197
     }
   },
   "Sawsbuck": {
@@ -1742,7 +1742,7 @@ var SETDEX_SV = {
       ],
       "nature": "Bold",
       "item": "Leftovers",
-      "index": 1354
+      "index": 1356
     }
   },
   "Leafeon": {
@@ -1767,7 +1767,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Life Orb",
-      "index": 768
+      "index": 770
     }
   },
   "Pelipper": {
@@ -1810,7 +1810,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Focus Band",
-      "index": 804
+      "index": 806
     }
   },
   "Qwilfish": {
@@ -1876,7 +1876,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Scope Lens",
-      "index": 1128
+      "index": 1130
     }
   },
   "Mawile": {
@@ -1904,7 +1904,7 @@ var SETDEX_SV = {
       ],
       "nature": "Careful",
       "item": "Leftovers",
-      "index": 770
+      "index": 772
     },
     "Cooltrainer Perseid": {
       "level": 79,
@@ -1917,7 +1917,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Mawilite",
-      "index": 937
+      "index": 939
     },
     "Superstar Tucker": {
       "level": 100,
@@ -1930,7 +1930,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Mawilite",
-      "index": 1653
+      "index": 1655
     },
     "Frontier Head Noland": {
       "level": 100,
@@ -1943,7 +1943,7 @@ var SETDEX_SV = {
       ],
       "nature": "Impish",
       "item": "Eject Button",
-      "index": 1675
+      "index": 1677
     }
   },
   "Corsola": {
@@ -1971,7 +1971,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Leftovers",
-      "index": 838
+      "index": 840
     }
   },
   "Armaldo": {
@@ -1999,7 +1999,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Heavy-Duty Boots",
-      "index": 551
+      "index": 553
     },
     "Bug Maniac Taylor": {
       "level": 73,
@@ -2012,7 +2012,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Heavy-Duty Boots",
-      "index": 730
+      "index": 732
     }
   },
   "Carbink": {
@@ -2038,7 +2038,7 @@ var SETDEX_SV = {
       ],
       "nature": "Relaxed",
       "item": "Leftovers",
-      "index": 404
+      "index": 406
     },
     "Swimmer Byonemil": {
       "level": 84,
@@ -2059,7 +2059,7 @@ var SETDEX_SV = {
         "sd": "31",
         "sp": "0"
       },
-      "index": 1168
+      "index": 1170
     },
     "Superstar Tucker": {
       "level": 99,
@@ -2072,7 +2072,7 @@ var SETDEX_SV = {
       ],
       "nature": "Relaxed",
       "item": "Covert Cloak",
-      "index": 1650
+      "index": 1652
     }
   },
   "Shuckle": {
@@ -2100,7 +2100,7 @@ var SETDEX_SV = {
       ],
       "nature": "Impish",
       "item": "Quick Claw",
-      "index": 593
+      "index": 595
     },
     "Cooltrainer Perseid": {
       "level": 78,
@@ -2113,7 +2113,7 @@ var SETDEX_SV = {
       ],
       "nature": "Relaxed",
       "item": "Custap Berry",
-      "index": 936
+      "index": 938
     }
   },
   "Golem-Alola": {
@@ -2177,7 +2177,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Choice Band",
-      "index": 1391
+      "index": 1393
     }
   },
   "Glimmet": {
@@ -2228,7 +2228,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Power Herb",
-      "index": 395
+      "index": 397
     },
     "Leader Winona2": {
       "level": 77,
@@ -2241,7 +2241,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Yache Berry",
-      "index": 909
+      "index": 911
     }
   },
   "Mareanie": {
@@ -2299,7 +2299,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Babiri Berry",
-      "index": 988
+      "index": 990
     }
   },
   "Tyranitar": {
@@ -2335,7 +2335,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Chople Berry",
-      "index": 497
+      "index": 499
     },
     "Hiker Trent": {
       "level": 69,
@@ -2347,7 +2347,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Choice Band",
-      "index": 585
+      "index": 587
     },
     "Cooltrainer Garrison": {
       "level": 73,
@@ -2360,7 +2360,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Leftovers",
-      "index": 709
+      "index": 711
     },
     "Team Aqua Grunt & Team Aqua Steve": {
       "level": 77,
@@ -2373,7 +2373,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Tyranitarite",
-      "index": 839
+      "index": 841
     },
     "Hideout Team Magma Grunt #9": {
       "level": 80,
@@ -2386,7 +2386,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Quick Claw",
-      "index": 1092
+      "index": 1094
     },
     "Team Aqua Grunt Steve2": {
       "level": 83,
@@ -2399,7 +2399,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Smooth Rock",
-      "index": 1148
+      "index": 1150
     },
     "Elite Four Drake Doubles": {
       "level": 100,
@@ -2412,7 +2412,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Iapapa Berry",
-      "index": 1730
+      "index": 1732
     }
   },
   "Solrock": {
@@ -2440,7 +2440,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Rindo Berry",
-      "index": 504
+      "index": 506
     },
     "Space Center Team Magma Grunt #5": {
       "level": 87,
@@ -2453,7 +2453,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Covert Cloak",
-      "index": 1263
+      "index": 1265
     }
   },
   "Zygarde": {
@@ -2489,7 +2489,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Zygardite",
-      "index": 1599
+      "index": 1601
     }
   },
   "Cradily": {
@@ -2517,7 +2517,7 @@ var SETDEX_SV = {
       ],
       "nature": "Bold",
       "item": "Leftovers",
-      "index": 790
+      "index": 792
     },
     "Parasol Lady Angelica": {
       "level": 78,
@@ -2530,7 +2530,7 @@ var SETDEX_SV = {
       ],
       "nature": "Bold",
       "item": "Grip Claw",
-      "index": 920
+      "index": 922
     }
   },
   "Omastar": {
@@ -2566,7 +2566,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Bright Powder",
-      "index": 1053
+      "index": 1055
     }
   },
   "Aerodactyl": {
@@ -2594,7 +2594,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Power Herb",
-      "index": 376
+      "index": 378
     },
     "Leader Winona1": {
       "level": 77,
@@ -2607,7 +2607,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Yache Berry",
-      "index": 902
+      "index": 904
     },
     "Team Magma Grunt Grintoul": {
       "level": 80,
@@ -2620,7 +2620,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Mirror Herb",
-      "index": 1077
+      "index": 1079
     },
     "Kindler Kos": {
       "level": 96,
@@ -2633,7 +2633,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Aerodactylite",
-      "index": 1535
+      "index": 1537
     },
     "Elite Four Drake Singles": {
       "level": 100,
@@ -2646,7 +2646,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Focus Sash",
-      "index": 1721
+      "index": 1723
     }
   },
   "Aerodactyl-Mega": {
@@ -2673,8 +2673,8 @@ var SETDEX_SV = {
         "Fire Fang"
       ],
       "nature": "Jolly",
-      "item": "heldItem",
-      "index": 1536
+      "item": "Aerodactylite",
+      "index": 1538
     }
   },
   "Pidgeot": {
@@ -2731,7 +2731,7 @@ var SETDEX_SV = {
         "sd": "30",
         "sp": "30"
       },
-      "index": 1106
+      "index": 1108
     }
   },
   "Linoone": {
@@ -2759,7 +2759,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Toxic Orb",
-      "index": 454
+      "index": 456
     }
   },
   "Wigglytuff": {
@@ -2787,7 +2787,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Throat Spray",
-      "index": 1459
+      "index": 1461
     }
   },
   "Venomoth": {
@@ -2815,7 +2815,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Bug Gem",
-      "index": 1002
+      "index": 1004
     }
   },
   "Wormadam-Sandy": {
@@ -2858,7 +2858,7 @@ var SETDEX_SV = {
       ],
       "nature": "Quiet",
       "item": "Rindo Berry",
-      "index": 471
+      "index": 473
     },
     "Hideout Team Aqua Grunt #2": {
       "level": 82,
@@ -2871,7 +2871,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Focus Band",
-      "index": 1131
+      "index": 1133
     }
   },
   "Kleavor": {
@@ -2899,7 +2899,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Assault Vest",
-      "index": 877
+      "index": 879
     },
     "Naturalist Greta": {
       "level": 99,
@@ -2912,7 +2912,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Rock Gem",
-      "index": 1611
+      "index": 1613
     }
   },
   "Primeape": {
@@ -3039,7 +3039,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Soft Sand",
-      "index": 479
+      "index": 481
     }
   },
   "Persian": {
@@ -3067,7 +3067,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Mirror Herb",
-      "index": 423
+      "index": 425
     }
   },
   "Chimecho": {
@@ -3123,7 +3123,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Focus Sash",
-      "index": 1511
+      "index": 1513
     }
   },
   "Stunfisk": {
@@ -3151,7 +3151,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Bright Powder",
-      "index": 798
+      "index": 800
     }
   },
   "Mightyena": {
@@ -3179,7 +3179,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Focus Sash",
-      "index": 1042
+      "index": 1044
     }
   },
   "Slowbro-Galar": {
@@ -3207,7 +3207,7 @@ var SETDEX_SV = {
       ],
       "nature": "Brave",
       "item": "Quick Claw",
-      "index": 1044
+      "index": 1046
     },
     "Psychic Preston & Psychic Maura": {
       "level": 85,
@@ -3220,7 +3220,7 @@ var SETDEX_SV = {
       ],
       "nature": "Quiet",
       "item": "Psychic Seed",
-      "index": 1193
+      "index": 1195
     },
     "Seafloor Team Aqua Grunt #3": {
       "level": 89,
@@ -3233,7 +3233,7 @@ var SETDEX_SV = {
       ],
       "nature": "Careful",
       "item": "Quick Claw",
-      "index": 1319
+      "index": 1321
     }
   },
   "Wormadam": {
@@ -3261,7 +3261,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Grass Gem",
-      "index": 476
+      "index": 478
     }
   },
   "Phione": {
@@ -3289,7 +3289,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Focus Band",
-      "index": 1045
+      "index": 1047
     }
   },
   "Bellibolt": {
@@ -3317,7 +3317,7 @@ var SETDEX_SV = {
       ],
       "nature": "Calm",
       "item": "Shuca Berry",
-      "index": 1543
+      "index": 1545
     }
   },
   "Cinderace": {
@@ -3345,7 +3345,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Expert Belt",
-      "index": 320
+      "index": 322
     },
     "Battle Girl Danielle & Kindler Cole": {
       "level": 71,
@@ -3358,7 +3358,7 @@ var SETDEX_SV = {
       ],
       "nature": "Naive",
       "item": "King's Rock",
-      "index": 642
+      "index": 644
     },
     "Bridge Rival Chespin": {
       "level": 77,
@@ -3371,7 +3371,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Life Orb",
-      "index": 818
+      "index": 820
     },
     "Lilycove Rival Chespin": {
       "level": 79,
@@ -3384,7 +3384,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Life Orb",
-      "index": 967
+      "index": 969
     },
     "Hideout Team Magma Grunt #1": {
       "level": 81,
@@ -3397,7 +3397,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Focus Band",
-      "index": 1060
+      "index": 1062
     },
     "Space Center Team Magma Elite Grunt": {
       "level": 87,
@@ -3410,7 +3410,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "King's Rock",
-      "index": 1252
+      "index": 1254
     }
   },
   "Lucario": {
@@ -3464,7 +3464,7 @@ var SETDEX_SV = {
       ],
       "nature": "Hasty",
       "item": "Lum Berry",
-      "index": 319
+      "index": 321
     },
     "Cycling Road Rival Fennekin": {
       "level": 64,
@@ -3477,7 +3477,7 @@ var SETDEX_SV = {
       ],
       "nature": "Hasty",
       "item": "Lum Berry",
-      "index": 325
+      "index": 327
     },
     "Cycling Road Rival Froakie": {
       "level": 64,
@@ -3490,7 +3490,7 @@ var SETDEX_SV = {
       ],
       "nature": "Hasty",
       "item": "Lum Berry",
-      "index": 331
+      "index": 333
     },
     "Partner Rival": {
       "level": 78,
@@ -3503,7 +3503,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Lucarionite",
-      "index": 845
+      "index": 847
     },
     "Ninja Boy Alex": {
       "level": 77,
@@ -3516,7 +3516,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Life Orb",
-      "index": 927
+      "index": 929
     },
     "Lilycove Rival Chespin": {
       "level": 80,
@@ -3529,7 +3529,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Lucarionite",
-      "index": 970
+      "index": 972
     },
     "Lilycove Rival Fennekin": {
       "level": 80,
@@ -3542,7 +3542,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Lucarionite",
-      "index": 977
+      "index": 979
     },
     "Lilycove Rival Froakie": {
       "level": 80,
@@ -3555,7 +3555,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Lucarionite",
-      "index": 984
+      "index": 986
     },
     "Expert Niklas": {
       "level": 98,
@@ -3568,7 +3568,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Lucarionite Z",
-      "index": 1529
+      "index": 1531
     },
     "Elite Four Rival Singles": {
       "level": 100,
@@ -3581,7 +3581,7 @@ var SETDEX_SV = {
       ],
       "nature": "Naive",
       "item": "Lucarionite",
-      "index": 1712
+      "index": 1714
     },
     "Elite Four Rival Doubles": {
       "level": 100,
@@ -3594,7 +3594,7 @@ var SETDEX_SV = {
       ],
       "nature": "Naive",
       "item": "Lucarionite",
-      "index": 1719
+      "index": 1721
     }
   },
   "Alomomola": {
@@ -3635,7 +3635,7 @@ var SETDEX_SV = {
       ],
       "nature": "Sassy",
       "item": "Focus Band",
-      "index": 806
+      "index": 808
     },
     "Hideout Team Aqua Grunt #5": {
       "level": 83,
@@ -3648,7 +3648,7 @@ var SETDEX_SV = {
       ],
       "nature": "Careful",
       "item": "Leftovers",
-      "index": 1146
+      "index": 1148
     }
   },
   "Cacturne": {
@@ -3689,7 +3689,7 @@ var SETDEX_SV = {
       ],
       "nature": "Brave",
       "item": "Bright Powder",
-      "index": 469
+      "index": 471
     }
   },
   "Type: Null": {
@@ -3743,7 +3743,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Eviolite",
-      "index": 323
+      "index": 325
     },
     "Cycling Road Rival Fennekin": {
       "level": 64,
@@ -3756,7 +3756,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Eviolite",
-      "index": 329
+      "index": 331
     },
     "Cycling Road Rival Froakie": {
       "level": 64,
@@ -3769,7 +3769,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Eviolite",
-      "index": 335
+      "index": 337
     }
   },
   "Electrode-Hisui": {
@@ -3797,7 +3797,7 @@ var SETDEX_SV = {
       ],
       "nature": "Hasty",
       "item": "Expert Belt",
-      "index": 769
+      "index": 771
     }
   },
   "Greninja": {
@@ -3825,7 +3825,7 @@ var SETDEX_SV = {
       ],
       "nature": "Hasty",
       "item": "Expert Belt",
-      "index": 326
+      "index": 328
     },
     "Fisherman Andrew": {
       "level": 63,
@@ -3838,7 +3838,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Mystic Water",
-      "index": 351
+      "index": 353
     },
     "Ninja Boy Lao": {
       "level": 69,
@@ -3851,7 +3851,7 @@ var SETDEX_SV = {
       ],
       "nature": "Naive",
       "item": "Flying Gem",
-      "index": 522
+      "index": 524
     },
     "Kindler Nathan": {
       "level": 72,
@@ -3872,7 +3872,7 @@ var SETDEX_SV = {
         "sd": "31",
         "sp": "30"
       },
-      "index": 637
+      "index": 639
     },
     "Bridge Rival Fennekin": {
       "level": 77,
@@ -3885,7 +3885,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Life Orb",
-      "index": 824
+      "index": 826
     },
     "Parasol Lady Angelica": {
       "level": 77,
@@ -3898,7 +3898,7 @@ var SETDEX_SV = {
       ],
       "nature": "Naive",
       "item": "Greninjite",
-      "index": 923
+      "index": 925
     },
     "Lilycove Rival Fennekin": {
       "level": 79,
@@ -3911,7 +3911,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Life Orb",
-      "index": 974
+      "index": 976
     },
     "Pyre Team Aqua Grunt #2": {
       "level": 81,
@@ -3924,7 +3924,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Life Orb",
-      "index": 1036
+      "index": 1038
     },
     "Team Aqua Grunt Gren": {
       "level": 91,
@@ -3937,7 +3937,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Bright Powder",
-      "index": 1331
+      "index": 1333
     },
     "Elite Four Sidney Singles": {
       "level": 100,
@@ -3950,7 +3950,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Greninjite",
-      "index": 1679
+      "index": 1681
     }
   },
   "Salazzle": {
@@ -3999,7 +3999,7 @@ var SETDEX_SV = {
         "sd": "31",
         "sp": "31"
       },
-      "index": 338
+      "index": 340
     },
     "Leader Flannery": {
       "level": 71,
@@ -4012,7 +4012,7 @@ var SETDEX_SV = {
       ],
       "nature": "Calm",
       "item": "Passho Berry",
-      "index": 658
+      "index": 660
     },
     "Hideout Team Magma Grunt #8": {
       "level": 81,
@@ -4025,7 +4025,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Bright Powder",
-      "index": 1088
+      "index": 1090
     }
   },
   "Raichu": {
@@ -4053,7 +4053,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Raichunite Y",
-      "index": 311
+      "index": 312
     }
   },
   "Meowscarada": {
@@ -4081,7 +4081,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Expert Belt",
-      "index": 332
+      "index": 334
     },
     "Triathlete Cutie": {
       "level": 65,
@@ -4093,7 +4093,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Choice Band",
-      "index": 390
+      "index": 392
     },
     "Bridge Rival Froakie": {
       "level": 77,
@@ -4106,7 +4106,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Life Orb",
-      "index": 830
+      "index": 832
     },
     "Lilycove Rival Froakie": {
       "level": 79,
@@ -4119,7 +4119,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Life Orb",
-      "index": 981
+      "index": 983
     },
     "Pokefan Bethany": {
       "level": 95,
@@ -4132,7 +4132,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Life Orb",
-      "index": 1457
+      "index": 1459
     },
     "Natural Guru Spenser": {
       "level": 99,
@@ -4145,7 +4145,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Focus Sash",
-      "index": 1624
+      "index": 1626
     }
   },
   "Seaking": {
@@ -4173,7 +4173,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Quick Claw",
-      "index": 1032
+      "index": 1034
     },
     "Swimmer Stem": {
       "level": 95,
@@ -4186,7 +4186,7 @@ var SETDEX_SV = {
       ],
       "nature": "Hasty",
       "item": "Water Gem",
-      "index": 1378
+      "index": 1380
     }
   },
   "Lanturn": {
@@ -4214,7 +4214,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Blunder Policy",
-      "index": 1474
+      "index": 1476
     }
   },
   "Lapras": {
@@ -4239,7 +4239,7 @@ var SETDEX_SV = {
       ],
       "nature": "Bold",
       "item": "Expert Belt",
-      "index": 693
+      "index": 695
     },
     "Triathlete Rydia": {
       "level": 93,
@@ -4252,7 +4252,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Assault Vest",
-      "index": 1394
+      "index": 1396
     }
   },
   "Clefairy": {
@@ -4303,7 +4303,7 @@ var SETDEX_SV = {
         "sd": "31",
         "sp": "31"
       },
-      "index": 1222
+      "index": 1224
     }
   },
   "Charjabug": {
@@ -4361,7 +4361,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "White Herb",
-      "index": 359
+      "index": 361
     },
     "Aroma Lady Rose": {
       "level": 73,
@@ -4374,7 +4374,7 @@ var SETDEX_SV = {
       ],
       "nature": "Bold",
       "item": "White Herb",
-      "index": 716
+      "index": 718
     }
   },
   "Tauros-Paldea-Combat": {
@@ -4438,7 +4438,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Salac Berry",
-      "index": 572
+      "index": 574
     },
     "Gentleman Andreas & Hex Maniac Tina": {
       "level": 86,
@@ -4451,7 +4451,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Focus Sash",
-      "index": 1216
+      "index": 1218
     }
   },
   "Tropius": {
@@ -4583,7 +4583,7 @@ var SETDEX_SV = {
         "sd": "31",
         "sp": "31"
       },
-      "index": 1513
+      "index": 1515
     }
   },
   "Togedemaru": {
@@ -4611,7 +4611,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Steel Gem",
-      "index": 1022
+      "index": 1024
     }
   },
   "Breloom": {
@@ -4639,7 +4639,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Toxic Orb",
-      "index": 461
+      "index": 463
     },
     "Ranger Nick": {
       "level": 75,
@@ -4652,7 +4652,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Loaded Dice",
-      "index": 760
+      "index": 762
     }
   },
   "Hitmonchan": {
@@ -4771,7 +4771,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Binding Band",
-      "index": 509
+      "index": 511
     },
     "Parasol Lady Angelica": {
       "level": 78,
@@ -4784,7 +4784,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Spell Tag",
-      "index": 919
+      "index": 921
     },
     "Superstar Tucker": {
       "level": 100,
@@ -4797,7 +4797,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Life Orb",
-      "index": 1655
+      "index": 1657
     }
   },
   "Toxicroak": {
@@ -4825,7 +4825,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Life Orb",
-      "index": 785
+      "index": 787
     },
     "Swimmer Stem": {
       "level": 92,
@@ -4838,7 +4838,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Life Orb",
-      "index": 1381
+      "index": 1383
     }
   },
   "Scrafty": {
@@ -4866,7 +4866,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Scraftinite",
-      "index": 316
+      "index": 318
     },
     "Elite Four Sidney Doubles": {
       "level": 100,
@@ -4887,7 +4887,7 @@ var SETDEX_SV = {
         "sd": "31",
         "sp": "15"
       },
-      "index": 1686
+      "index": 1688
     }
   },
   "Poliwrath": {
@@ -4915,7 +4915,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Mystic Water",
-      "index": 321
+      "index": 323
     },
     "Ranger Catherine": {
       "level": 74,
@@ -4928,7 +4928,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Rindo Berry",
-      "index": 754
+      "index": 756
     },
     "Pyre Team Aqua Grunt #4": {
       "level": 80,
@@ -4941,7 +4941,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Leftovers",
-      "index": 1046
+      "index": 1048
     },
     "Pokefan Bobertclef": {
       "level": 95,
@@ -4954,7 +4954,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Sitrus Berry",
-      "index": 1467
+      "index": 1469
     }
   },
   "Lopunny": {
@@ -4982,7 +4982,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Lopunnite",
-      "index": 1256
+      "index": 1258
     }
   },
   "Morpeko": {
@@ -5010,7 +5010,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Air Balloon",
-      "index": 1242
+      "index": 1244
     }
   },
   "Tauros-Paldea-Blaze": {
@@ -5038,7 +5038,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Passho Berry",
-      "index": 603
+      "index": 605
     },
     "Cooltrainer Ruben": {
       "level": 87,
@@ -5051,7 +5051,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Clear Amulet",
-      "index": 1289
+      "index": 1291
     }
   },
   "Medicham": {
@@ -5095,7 +5095,7 @@ var SETDEX_SV = {
         "sd": "31",
         "sp": "30"
       },
-      "index": 467
+      "index": 469
     }
   },
   "Hariyama": {
@@ -5131,7 +5131,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "White Herb",
-      "index": 1322
+      "index": 1324
     }
   },
   "Hitmontop": {
@@ -5159,7 +5159,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Muscle Band",
-      "index": 959
+      "index": 961
     },
     "Pokefan Annika": {
       "level": 95,
@@ -5172,7 +5172,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Eject Button",
-      "index": 1438
+      "index": 1440
     }
   },
   "Doublade": {
@@ -5228,7 +5228,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Leppa Berry",
-      "index": 1096
+      "index": 1098
     },
     "Seafloor Team Aqua Grunt #4": {
       "level": 91,
@@ -5241,7 +5241,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Leppa Berry",
-      "index": 1329
+      "index": 1331
     }
   },
   "Zamazenta-Crowned": {
@@ -5277,7 +5277,7 @@ var SETDEX_SV = {
         "sd": "14",
         "sp": "31"
       },
-      "index": 1273
+      "index": 1275
     }
   },
   "Heracross": {
@@ -5313,7 +5313,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Liechi Berry",
-      "index": 410
+      "index": 412
     },
     "Institute Team Aqua Grunt #2": {
       "level": 75,
@@ -5326,7 +5326,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Bright Powder",
-      "index": 793
+      "index": 795
     },
     "Team Aqua Admin Shelly1": {
       "level": 77,
@@ -5339,7 +5339,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Heracronite",
-      "index": 816
+      "index": 818
     }
   },
   "Heracross-Mega": {
@@ -5374,8 +5374,8 @@ var SETDEX_SV = {
         "Rock Blast"
       ],
       "nature": "Adamant",
-      "item": "heldItem",
-      "index": 817
+      "item": "Heracronite",
+      "index": 819
     }
   },
   "Stunfisk-Galar": {
@@ -5403,7 +5403,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Misty Seed",
-      "index": 1019
+      "index": 1021
     }
   },
   "Carnivine": {
@@ -5431,7 +5431,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Focus Band",
-      "index": 1103
+      "index": 1105
     }
   },
   "Mothim": {
@@ -5459,7 +5459,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Expert Belt",
-      "index": 1402
+      "index": 1404
     }
   },
   "Wugtrio": {
@@ -5487,7 +5487,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Mystic Water",
-      "index": 584
+      "index": 586
     },
     "Institute Team Aqua Grunt #4": {
       "level": 75,
@@ -5498,7 +5498,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Choice Band",
-      "index": 802
+      "index": 804
     },
     "Team Aqua Grunt Steve3": {
       "level": 90,
@@ -5511,7 +5511,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Bright Powder",
-      "index": 1347
+      "index": 1349
     }
   },
   "Simisage": {
@@ -5569,7 +5569,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Expert Belt",
-      "index": 1180
+      "index": 1182
     }
   },
   "Aromatisse": {
@@ -5597,7 +5597,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Custap Berry",
-      "index": 1016
+      "index": 1018
     },
     "Seafloor Team Aqua Grunt #4": {
       "level": 89,
@@ -5607,7 +5607,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Choice Specs",
-      "index": 1325
+      "index": 1327
     }
   },
   "Marowak": {
@@ -5635,7 +5635,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Thick Club",
-      "index": 1006
+      "index": 1008
     },
     "Elite Four Phoebe Singles": {
       "level": 100,
@@ -5648,7 +5648,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Thick Club",
-      "index": 1698
+      "index": 1700
     },
     "Elite Four Phoebe Doubles": {
       "level": 100,
@@ -5661,7 +5661,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Thick Club",
-      "index": 1705
+      "index": 1707
     }
   },
   "Veluza": {
@@ -5689,7 +5689,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Sitrus Berry",
-      "index": 704
+      "index": 706
     }
   },
   "Machamp": {
@@ -5732,7 +5732,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Focus Sash",
-      "index": 1435
+      "index": 1437
     }
   },
   "Dachsbun": {
@@ -5760,7 +5760,7 @@ var SETDEX_SV = {
       ],
       "nature": "Careful",
       "item": "Scope Lens",
-      "index": 1070
+      "index": 1072
     }
   },
   "Purugly": {
@@ -5803,7 +5803,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Rocky Helmet",
-      "index": 893
+      "index": 895
     }
   },
   "Kingler": {
@@ -5831,7 +5831,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Life Orb",
-      "index": 690
+      "index": 692
     }
   },
   "Palossand": {
@@ -5859,7 +5859,7 @@ var SETDEX_SV = {
       ],
       "nature": "Sassy",
       "item": "Bright Powder",
-      "index": 1141
+      "index": 1143
     }
   },
   "Meganium": {
@@ -5887,7 +5887,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Meganiumite",
-      "index": 714
+      "index": 716
     }
   },
   "Wyrdeer": {
@@ -5915,7 +5915,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Throat Spray",
-      "index": 559
+      "index": 561
     },
     "Lilycove Rival Chespin": {
       "level": 78,
@@ -5928,7 +5928,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Leftovers",
-      "index": 969
+      "index": 971
     },
     "Pokemaniac Symes & Bug Maniac Connor": {
       "level": 86,
@@ -5941,7 +5941,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Covert Cloak",
-      "index": 1198
+      "index": 1200
     }
   },
   "Zebstrika": {
@@ -5999,7 +5999,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Payapa Berry",
-      "index": 1636
+      "index": 1638
     }
   },
   "Liepard": {
@@ -6057,7 +6057,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Enigma Berry",
-      "index": 822
+      "index": 824
     }
   },
   "Tentacruel": {
@@ -6085,7 +6085,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Black Sludge",
-      "index": 761
+      "index": 763
     },
     "Team Aqua Grunt Soph": {
       "level": 82,
@@ -6098,7 +6098,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Focus Band",
-      "index": 1123
+      "index": 1125
     },
     "Seafloor Team Aqua Grunt #3": {
       "level": 91,
@@ -6111,7 +6111,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Metronome",
-      "index": 1323
+      "index": 1325
     }
   },
   "Banette": {
@@ -6139,7 +6139,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Ghost Gem",
-      "index": 1012
+      "index": 1014
     }
   },
   "Banette-Mega": {
@@ -6197,7 +6197,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Charcoal",
-      "index": 649
+      "index": 651
     }
   },
   "Avalugg-Hisui": {
@@ -6238,7 +6238,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Crabominite",
-      "index": 515
+      "index": 517
     },
     "Sailor Duncan": {
       "level": 73,
@@ -6259,7 +6259,7 @@ var SETDEX_SV = {
         "sd": "31",
         "sp": "0"
       },
-      "index": 682
+      "index": 684
     }
   },
   "Abomasnow": {
@@ -6287,7 +6287,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Abomasite",
-      "index": 556
+      "index": 558
     }
   },
   "Sandslash-Alola": {
@@ -6315,7 +6315,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Jaboca Berry",
-      "index": 1284
+      "index": 1286
     }
   },
   "Reuniclus": {
@@ -6351,7 +6351,7 @@ var SETDEX_SV = {
         "sd": "31",
         "sp": "0"
       },
-      "index": 683
+      "index": 685
     }
   },
   "Dewgong": {
@@ -6379,7 +6379,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Leftovers",
-      "index": 800
+      "index": 802
     }
   },
   "Altaria": {
@@ -6407,7 +6407,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Altarianite",
-      "index": 904
+      "index": 906
     },
     "Leader Winona2": {
       "level": 78,
@@ -6420,7 +6420,7 @@ var SETDEX_SV = {
       ],
       "nature": "Quiet",
       "item": "Altarianite",
-      "index": 911
+      "index": 913
     }
   },
   "Froslass": {
@@ -6448,7 +6448,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Froslassite",
-      "index": 1017
+      "index": 1019
     },
     "Space Center Team Magma Grunt #4": {
       "level": 86,
@@ -6461,7 +6461,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Eject Button",
-      "index": 1254
+      "index": 1256
     }
   },
   "Sneasel": {
@@ -6504,7 +6504,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Focus Band",
-      "index": 1238
+      "index": 1240
     }
   },
   "Walrein": {
@@ -6562,7 +6562,7 @@ var SETDEX_SV = {
       ],
       "nature": "Bold",
       "item": "Heavy-Duty Boots",
-      "index": 1674
+      "index": 1676
     }
   },
   "Arctovish": {
@@ -6590,7 +6590,7 @@ var SETDEX_SV = {
       ],
       "nature": "Naive",
       "item": "Light Clay",
-      "index": 1166
+      "index": 1168
     },
     "Ex Elite Four Glacia2": {
       "level": 99,
@@ -6603,7 +6603,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Mystic Water",
-      "index": 1563
+      "index": 1565
     }
   },
   "Piloswine": {
@@ -6661,7 +6661,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Throat Spray",
-      "index": 613
+      "index": 615
     },
     "Ex Elite Four Glacia2": {
       "level": 99,
@@ -6674,7 +6674,7 @@ var SETDEX_SV = {
       ],
       "nature": "Naive",
       "item": "Sitrus Berry",
-      "index": 1564
+      "index": 1566
     }
   },
   "Glalie": {
@@ -6702,7 +6702,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Leftovers",
-      "index": 1326
+      "index": 1328
     },
     "Ex Elite Four Glacia2": {
       "level": 99,
@@ -6715,7 +6715,7 @@ var SETDEX_SV = {
       ],
       "nature": "Hasty",
       "item": "Glalitite",
-      "index": 1559
+      "index": 1561
     }
   },
   "Glalie-Mega": {
@@ -6742,8 +6742,8 @@ var SETDEX_SV = {
         "Explosion"
       ],
       "nature": "Hasty",
-      "item": "heldItem",
-      "index": 1560
+      "item": "Glalitite",
+      "index": 1562
     }
   },
   "Lycanroc-Midnight": {
@@ -6771,7 +6771,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Mental Herb",
-      "index": 1021
+      "index": 1023
     }
   },
   "Marowak-Alola": {
@@ -6799,7 +6799,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Thick Club",
-      "index": 648
+      "index": 650
     },
     "Hideout Team Magma Grunt #10": {
       "level": 80,
@@ -6812,7 +6812,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Thick Club",
-      "index": 1098
+      "index": 1100
     },
     "Psychic Virgil & Psychic Nate": {
       "level": 86,
@@ -6833,7 +6833,7 @@ var SETDEX_SV = {
         "sd": "31",
         "sp": "0"
       },
-      "index": 1206
+      "index": 1208
     }
   },
   "Ampharos": {
@@ -6861,7 +6861,7 @@ var SETDEX_SV = {
       ],
       "nature": "Quiet",
       "item": "Ampharosite",
-      "index": 407
+      "index": 409
     },
     "Expert Makayla": {
       "level": 95,
@@ -6874,7 +6874,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Ampharosite",
-      "index": 1423
+      "index": 1425
     }
   },
   "Gourgeist-Small": {
@@ -6902,7 +6902,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Colbur Berry",
-      "index": 1007
+      "index": 1009
     }
   },
   "Krookodile": {
@@ -6930,7 +6930,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Rocky Helmet",
-      "index": 610
+      "index": 612
     },
     "Triathlete Talia": {
       "level": 94,
@@ -6943,7 +6943,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Focus Sash",
-      "index": 1400
+      "index": 1402
     }
   },
   "Hatterene": {
@@ -6979,7 +6979,7 @@ var SETDEX_SV = {
         "sd": "31",
         "sp": "0"
       },
-      "index": 860
+      "index": 862
     },
     "Pyre Team Aqua Grunt #2": {
       "level": 80,
@@ -6992,7 +6992,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Quick Claw",
-      "index": 1037
+      "index": 1039
     },
     "Psychic Virgil & Psychic Nate": {
       "level": 85,
@@ -7013,7 +7013,7 @@ var SETDEX_SV = {
         "sd": "31",
         "sp": "0"
       },
-      "index": 1201
+      "index": 1203
     }
   },
   "Fearow": {
@@ -7054,7 +7054,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "None",
-      "index": 913
+      "index": 915
     },
     "Ninja Boy Alex": {
       "level": 78,
@@ -7067,7 +7067,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Rocky Helmet",
-      "index": 925
+      "index": 927
     },
     "Pyre Team Aqua Grunt #5": {
       "level": 80,
@@ -7080,7 +7080,7 @@ var SETDEX_SV = {
       ],
       "nature": "Sassy",
       "item": "Rocky Helmet",
-      "index": 1051
+      "index": 1053
     }
   },
   "Jynx": {
@@ -7138,7 +7138,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Starf Berry",
-      "index": 1004
+      "index": 1006
     }
   },
   "Beheeyem": {
@@ -7166,7 +7166,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Life Orb",
-      "index": 394
+      "index": 396
     },
     "Hex Maniac Valerie": {
       "level": 79,
@@ -7179,7 +7179,7 @@ var SETDEX_SV = {
       ],
       "nature": "Quiet",
       "item": "Life Orb",
-      "index": 1014
+      "index": 1016
     }
   },
   "Araquanid": {
@@ -7207,7 +7207,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Coba Berry",
-      "index": 734
+      "index": 736
     },
     "Swimmer Kara": {
       "level": 93,
@@ -7220,7 +7220,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Leftovers",
-      "index": 1405
+      "index": 1407
     }
   },
   "Lurantis": {
@@ -7278,7 +7278,7 @@ var SETDEX_SV = {
       ],
       "nature": "Careful",
       "item": "Quick Claw",
-      "index": 1508
+      "index": 1510
     }
   },
   "Volbeat": {
@@ -7321,7 +7321,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Kee Berry",
-      "index": 1243
+      "index": 1245
     }
   },
   "Illumise": {
@@ -7364,7 +7364,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Misty Seed",
-      "index": 1005
+      "index": 1007
     }
   },
   "Boltund": {
@@ -7407,7 +7407,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Bright Powder",
-      "index": 1506
+      "index": 1508
     }
   },
   "Furfrou": {
@@ -7450,7 +7450,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Focus Sash",
-      "index": 1376
+      "index": 1378
     }
   },
   "Houndstone": {
@@ -7478,7 +7478,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Ability Shield",
-      "index": 1154
+      "index": 1156
     },
     "Team Aqua Grunt Steve3": {
       "level": 92,
@@ -7491,7 +7491,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Clear Amulet",
-      "index": 1349
+      "index": 1351
     }
   },
   "Oricorio-Sensu": {
@@ -7557,7 +7557,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "White Herb",
-      "index": 1283
+      "index": 1285
     }
   },
   "Oricorio": {
@@ -7615,7 +7615,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Kangaskhanite",
-      "index": 452
+      "index": 454
     }
   },
   "Grapploct": {
@@ -7643,7 +7643,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Adrenaline Orb",
-      "index": 444
+      "index": 446
     },
     "Fisherman Noxie": {
       "level": 73,
@@ -7656,7 +7656,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Assault Vest",
-      "index": 744
+      "index": 746
     },
     "Cooltrainer Bazzo": {
       "level": 95,
@@ -7669,7 +7669,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Loaded Dice",
-      "index": 1427
+      "index": 1429
     }
   },
   "Granbull": {
@@ -7697,7 +7697,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Quick Claw",
-      "index": 1334
+      "index": 1336
     }
   },
   "Blaziken": {
@@ -7725,7 +7725,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "White Herb",
-      "index": 922
+      "index": 924
     },
     "Space Center Team Magma Grunt #1": {
       "level": 87,
@@ -7738,7 +7738,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Scope Lens",
-      "index": 1236
+      "index": 1238
     },
     "Triathlete Rydia": {
       "level": 94,
@@ -7751,7 +7751,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Blazikenite",
-      "index": 1396
+      "index": 1398
     },
     "Youngster Des": {
       "level": 98,
@@ -7764,7 +7764,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Blazikenite",
-      "index": 1540
+      "index": 1542
     }
   },
   "Perrserker": {
@@ -7800,7 +7800,7 @@ var SETDEX_SV = {
         "sd": "31",
         "sp": "0"
       },
-      "index": 1172
+      "index": 1174
     }
   },
   "Ralts": {
@@ -7843,7 +7843,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Air Balloon",
-      "index": 1086
+      "index": 1088
     }
   },
   "Octillery": {
@@ -7871,7 +7871,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Focus Sash",
-      "index": 634
+      "index": 636
     },
     "Hideout Team Magma Grunt #1": {
       "level": 80,
@@ -7884,7 +7884,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Quick Claw",
-      "index": 1059
+      "index": 1061
     },
     "Swimmer Susie": {
       "level": 94,
@@ -7897,7 +7897,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Water Gem",
-      "index": 1409
+      "index": 1411
     }
   },
   "Iron Hands": {
@@ -7925,7 +7925,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Sitrus Berry",
-      "index": 851
+      "index": 853
     },
     "Elite Four Rival Doubles": {
       "level": 100,
@@ -7938,7 +7938,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Assault Vest",
-      "index": 1714
+      "index": 1716
     }
   },
   "Rotom": {
@@ -7978,7 +7978,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Wise Glasses",
-      "index": 561
+      "index": 563
     }
   },
   "Rabsca": {
@@ -8006,7 +8006,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Heavy-Duty Boots",
-      "index": 737
+      "index": 739
     },
     "Cooltrainer Cristin": {
       "level": 77,
@@ -8019,7 +8019,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Leppa Berry",
-      "index": 962
+      "index": 964
     },
     "Hideout Team Magma Grunt #9": {
       "level": 81,
@@ -8032,7 +8032,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Quick Claw",
-      "index": 1094
+      "index": 1096
     }
   },
   "Galvantula": {
@@ -8090,7 +8090,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Focus Sash",
-      "index": 763
+      "index": 765
     },
     "Camper Flint & Bird Keeper Edwardo": {
       "level": 77,
@@ -8103,7 +8103,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Covert Cloak",
-      "index": 872
+      "index": 874
     },
     "Pokefan Bobertclef": {
       "level": 95,
@@ -8116,7 +8116,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Life Orb",
-      "index": 1466
+      "index": 1468
     }
   },
   "Eelektross": {
@@ -8144,7 +8144,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Eelektrossite",
-      "index": 354
+      "index": 356
     }
   },
   "Plusle": {
@@ -8187,7 +8187,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Iapapa Berry",
-      "index": 1501
+      "index": 1503
     }
   },
   "Toxtricity": {
@@ -8268,7 +8268,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Absorb Bulb",
-      "index": 1552
+      "index": 1554
     }
   },
   "Sceptile": {
@@ -8304,7 +8304,7 @@ var SETDEX_SV = {
         "sd": "31",
         "sp": "30"
       },
-      "index": 752
+      "index": 754
     },
     "Cooltrainer Melodic": {
       "level": 78,
@@ -8317,7 +8317,7 @@ var SETDEX_SV = {
       ],
       "nature": "Naive",
       "item": "Sitrus Berry",
-      "index": 930
+      "index": 932
     },
     "Psychic Preston & Psychic Maura": {
       "level": 85,
@@ -8330,7 +8330,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Eject Pack",
-      "index": 1191
+      "index": 1193
     },
     "Pokemon Trainer Leaf2": {
       "level": 99,
@@ -8343,7 +8343,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Sceptilite",
-      "index": 1548
+      "index": 1550
     },
     "Elite Four Drake Doubles": {
       "level": 100,
@@ -8356,7 +8356,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Eject Pack",
-      "index": 1728
+      "index": 1730
     }
   },
   "Sceptile-Mega": {
@@ -8383,8 +8383,8 @@ var SETDEX_SV = {
         "Shed Tail"
       ],
       "nature": "Timid",
-      "item": "heldItem",
-      "index": 1549
+      "item": "Sceptilite",
+      "index": 1551
     }
   },
   "Emolga": {
@@ -8412,7 +8412,7 @@ var SETDEX_SV = {
       ],
       "nature": "Naive",
       "item": "Focus Sash",
-      "index": 695
+      "index": 697
     }
   },
   "Arctozolt": {
@@ -8440,7 +8440,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Quick Claw",
-      "index": 794
+      "index": 796
     },
     "Swimmer Webe & Swimmer D. K": {
       "level": 84,
@@ -8453,7 +8453,7 @@ var SETDEX_SV = {
       ],
       "nature": "Hasty",
       "item": "Chople Berry",
-      "index": 1165
+      "index": 1167
     }
   },
   "Iron Thorns": {
@@ -8489,7 +8489,7 @@ var SETDEX_SV = {
         "sd": "31",
         "sp": "0"
       },
-      "index": 861
+      "index": 863
     }
   },
   "Manectric": {
@@ -8533,7 +8533,7 @@ var SETDEX_SV = {
         "sd": "31",
         "sp": "31"
       },
-      "index": 595
+      "index": 597
     },
     "Hideout Team Magma Grunt #10": {
       "level": 81,
@@ -8554,7 +8554,7 @@ var SETDEX_SV = {
         "sd": "31",
         "sp": "31"
       },
-      "index": 1100
+      "index": 1102
     },
     "Beauty Bridget & Lady Brianna": {
       "level": 95,
@@ -8575,7 +8575,7 @@ var SETDEX_SV = {
         "sd": "31",
         "sp": "31"
       },
-      "index": 1448
+      "index": 1450
     }
   },
   "Rapidash": {
@@ -8603,7 +8603,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Heat Rock",
-      "index": 643
+      "index": 645
     },
     "Hideout Team Magma Grunt #3": {
       "level": 81,
@@ -8616,7 +8616,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "King's Rock",
-      "index": 1071
+      "index": 1073
     }
   },
   "Lilligant": {
@@ -8667,7 +8667,7 @@ var SETDEX_SV = {
         "sd": "31",
         "sp": "0"
       },
-      "index": 641
+      "index": 643
     },
     "Leader Flannery": {
       "level": 73,
@@ -8680,7 +8680,7 @@ var SETDEX_SV = {
       ],
       "nature": "Sassy",
       "item": "Heat Rock",
-      "index": 659
+      "index": 661
     },
     "Cooltrainer Chape": {
       "level": 74,
@@ -8693,7 +8693,7 @@ var SETDEX_SV = {
       ],
       "nature": "Sassy",
       "item": "Mental Herb",
-      "index": 782
+      "index": 784
     },
     "Hideout Team Magma Grunt #3": {
       "level": 80,
@@ -8706,7 +8706,7 @@ var SETDEX_SV = {
       ],
       "nature": "Quiet",
       "item": "Quick Claw",
-      "index": 1067
+      "index": 1069
     },
     "Kindler Kos": {
       "level": 96,
@@ -8719,7 +8719,7 @@ var SETDEX_SV = {
       ],
       "nature": "Sassy",
       "item": "Air Balloon",
-      "index": 1531
+      "index": 1533
     }
   },
   "Exeggutor": {
@@ -8747,7 +8747,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Tanga Berry",
-      "index": 1366
+      "index": 1368
     }
   },
   "Centiskorch": {
@@ -8775,7 +8775,7 @@ var SETDEX_SV = {
       ],
       "nature": "Impish",
       "item": "Heavy-Duty Boots",
-      "index": 1112
+      "index": 1114
     }
   },
   "Togekiss": {
@@ -8803,7 +8803,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Scope Lens",
-      "index": 419
+      "index": 421
     },
     "Leader Winona2": {
       "level": 77,
@@ -8816,7 +8816,7 @@ var SETDEX_SV = {
       ],
       "nature": "Bold",
       "item": "Kee Berry",
-      "index": 908
+      "index": 910
     },
     "Team Magma Grunt Coffee": {
       "level": 80,
@@ -8829,7 +8829,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Bug Gem",
-      "index": 1063
+      "index": 1065
     },
     "Team Aqua Grunt Gian": {
       "level": 83,
@@ -8842,7 +8842,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Bright Powder",
-      "index": 1132
+      "index": 1134
     },
     "Expert Niklas": {
       "level": 96,
@@ -8855,7 +8855,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Clear Amulet",
-      "index": 1527
+      "index": 1529
     }
   },
   "Nidoking": {
@@ -8883,7 +8883,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Life Orb",
-      "index": 604
+      "index": 606
     },
     "Kindler Kos": {
       "level": 97,
@@ -8896,7 +8896,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Life Orb",
-      "index": 1537
+      "index": 1539
     }
   },
   "Rhydon": {
@@ -8939,7 +8939,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Starf Berry",
-      "index": 964
+      "index": 966
     }
   },
   "Skuntank": {
@@ -8967,7 +8967,7 @@ var SETDEX_SV = {
       ],
       "nature": "Naive",
       "item": "Black Sludge",
-      "index": 1078
+      "index": 1080
     }
   },
   "Falinks": {
@@ -8995,7 +8995,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Falinksite",
-      "index": 679
+      "index": 681
     }
   },
   "Charizard": {
@@ -9023,7 +9023,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Charizardite Y",
-      "index": 894
+      "index": 896
     },
     "Psychic Cedric": {
       "level": 81,
@@ -9036,7 +9036,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Charizardite X",
-      "index": 1029
+      "index": 1031
     },
     "Team Magma Leader Maxie2": {
       "level": 82,
@@ -9049,7 +9049,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Charizardite Y",
-      "index": 1121
+      "index": 1123
     },
     "Triathlete Allison": {
       "level": 91,
@@ -9062,7 +9062,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Charizardite X",
-      "index": 1369
+      "index": 1371
     }
   },
   "Emboar": {
@@ -9090,7 +9090,7 @@ var SETDEX_SV = {
       ],
       "nature": "Naive",
       "item": "Emboarite",
-      "index": 380
+      "index": 382
     },
     "Space Center Team Magma Grunt #2": {
       "level": 86,
@@ -9103,7 +9103,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Quick Claw",
-      "index": 1244
+      "index": 1246
     }
   },
   "Heatmor": {
@@ -9131,7 +9131,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Power Herb",
-      "index": 1492
+      "index": 1494
     }
   },
   "Nidoqueen": {
@@ -9159,7 +9159,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Life Orb",
-      "index": 814
+      "index": 816
     },
     "Beauty Jessica": {
       "level": 78,
@@ -9172,7 +9172,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Life Orb",
-      "index": 943
+      "index": 945
     },
     "Expert Ronald": {
       "level": 95,
@@ -9185,7 +9185,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Life Orb",
-      "index": 1418
+      "index": 1420
     }
   },
   "Mabosstiff": {
@@ -9228,7 +9228,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Kebia Berry",
-      "index": 1105
+      "index": 1107
     }
   },
   "Pidgeot-Mega": {
@@ -9272,7 +9272,7 @@ var SETDEX_SV = {
         "sd": "30",
         "sp": "30"
       },
-      "index": 1107
+      "index": 1109
     }
   },
   "Camerupt": {
@@ -9300,7 +9300,7 @@ var SETDEX_SV = {
       ],
       "nature": "Quiet",
       "item": "Sitrus Berry",
-      "index": 462
+      "index": 464
     },
     "Team Magma Admin Courtney": {
       "level": 71,
@@ -9313,7 +9313,7 @@ var SETDEX_SV = {
       ],
       "nature": "Quiet",
       "item": "Cameruptite",
-      "index": 540
+      "index": 542
     },
     "Team Magma Leader Maxie2": {
       "level": 83,
@@ -9334,7 +9334,7 @@ var SETDEX_SV = {
         "sd": "31",
         "sp": "0"
       },
-      "index": 1117
+      "index": 1119
     },
     "Magma Leader Maxie & Tabitha": {
       "level": 90,
@@ -9347,7 +9347,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Cameruptite",
-      "index": 1269
+      "index": 1271
     },
     "Trainer Maxie & Trainer Archie": {
       "level": 100,
@@ -9360,7 +9360,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Cameruptite",
-      "index": 1659
+      "index": 1661
     }
   },
   "Camerupt-Mega": {
@@ -9387,8 +9387,8 @@ var SETDEX_SV = {
         "Fire Spin"
       ],
       "nature": "Quiet",
-      "item": "heldItem",
-      "index": 541
+      "item": "Cameruptite",
+      "index": 543
     },
     "Magma Leader Maxie & Tabitha": {
       "level": 90,
@@ -9400,8 +9400,8 @@ var SETDEX_SV = {
         "Protect"
       ],
       "nature": "Modest",
-      "item": "heldItem",
-      "index": 1270
+      "item": "Cameruptite",
+      "index": 1272
     },
     "Trainer Maxie & Trainer Archie": {
       "level": 100,
@@ -9413,8 +9413,8 @@ var SETDEX_SV = {
         "Fissure"
       ],
       "nature": "Modest",
-      "item": "heldItem",
-      "index": 1660
+      "item": "Cameruptite",
+      "index": 1662
     }
   },
   "Exeggutor-Alola": {
@@ -9442,7 +9442,7 @@ var SETDEX_SV = {
       ],
       "nature": "Naive",
       "item": "Sitrus Berry",
-      "index": 536
+      "index": 538
     },
     "Kindler Nathan": {
       "level": 71,
@@ -9455,7 +9455,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Sitrus Berry",
-      "index": 636
+      "index": 638
     },
     "Dragon Tamer Sora": {
       "level": 77,
@@ -9468,7 +9468,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "White Herb",
-      "index": 896
+      "index": 898
     }
   },
   "Muk": {
@@ -9496,7 +9496,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Rocky Helmet",
-      "index": 1491
+      "index": 1493
     }
   },
   "Moltres": {
@@ -9524,7 +9524,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Rock Gem",
-      "index": 535
+      "index": 537
     }
   },
   "Dusclops": {
@@ -9552,7 +9552,7 @@ var SETDEX_SV = {
       ],
       "nature": "Bold",
       "item": "Eviolite",
-      "index": 1003
+      "index": 1005
     }
   },
   "Slither Wing": {
@@ -9580,7 +9580,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Life Orb",
-      "index": 539
+      "index": 541
     }
   },
   "Claydol": {
@@ -9608,7 +9608,7 @@ var SETDEX_SV = {
       ],
       "nature": "Relaxed",
       "item": "Colbur Berry",
-      "index": 512
+      "index": 514
     }
   },
   "Noctowl": {
@@ -9648,7 +9648,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Petaya Berry",
-      "index": 430
+      "index": 432
     },
     "Beauty Thalia": {
       "level": 73,
@@ -9661,7 +9661,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Light Clay",
-      "index": 676
+      "index": 678
     },
     "Gentleman Clifford & Psychic Macey": {
       "level": 86,
@@ -9674,7 +9674,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Weakness Policy",
-      "index": 1228
+      "index": 1230
     }
   },
   "Gallade": {
@@ -9702,7 +9702,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Galladite",
-      "index": 1217
+      "index": 1219
     },
     "Rival Wally2": {
       "level": 100,
@@ -9715,7 +9715,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Galladite",
-      "index": 1578
+      "index": 1580
     }
   },
   "Sandaconda": {
@@ -9743,7 +9743,7 @@ var SETDEX_SV = {
       ],
       "nature": "Careful",
       "item": "Chesto Berry",
-      "index": 1499
+      "index": 1501
     }
   },
   "Vileplume": {
@@ -9771,7 +9771,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Black Sludge",
-      "index": 1157
+      "index": 1159
     }
   },
   "Dodrio": {
@@ -9796,7 +9796,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Choice Band",
-      "index": 1072
+      "index": 1074
     }
   },
   "Stantler": {
@@ -9839,7 +9839,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Sitrus Berry",
-      "index": 555
+      "index": 557
     }
   },
   "Delibird": {
@@ -9857,6 +9857,21 @@ var SETDEX_SV = {
       "index": 308
     }
   },
+  "Raichu-Mega-X": {
+    "Triathlete Benjamin & Triathlete Alyssa": {
+      "level": 63,
+      "ability": "Motor Drive",
+      "moves": [
+        "Fake Out",
+        "Fake Tears",
+        "Nuzzle",
+        "Knock Off"
+      ],
+      "nature": "Impish",
+      "item": "Raichunite X",
+      "index": 310
+    }
+  },
   "Ninetales-Alola": {
     "Triathlete Benjamin & Triathlete Alyssa": {
       "level": 62,
@@ -9869,7 +9884,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Icy Rock",
-      "index": 310
+      "index": 311
     },
     "Swimmer Webe & Swimmer D. K": {
       "level": 84,
@@ -9882,7 +9897,22 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Icy Rock",
-      "index": 1162
+      "index": 1164
+    }
+  },
+  "Raichu-Mega-Y": {
+    "Triathlete Benjamin & Triathlete Alyssa": {
+      "level": 63,
+      "ability": "Volt Absorb",
+      "moves": [
+        "Thunderbolt",
+        "Discharge",
+        "Grass Knot",
+        "Signal Beam"
+      ],
+      "nature": "Timid",
+      "item": "Raichunite Y",
+      "index": 313
     }
   },
   "Whimsicott": {
@@ -9905,7 +9935,7 @@ var SETDEX_SV = {
         "sd": "31",
         "sp": "31"
       },
-      "index": 312
+      "index": 314
     },
     "Expert Cash": {
       "level": 87,
@@ -9918,7 +9948,7 @@ var SETDEX_SV = {
       ],
       "nature": "Calm",
       "item": "Leftovers",
-      "index": 1179
+      "index": 1181
     }
   },
   "Flamigo": {
@@ -9933,7 +9963,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Flying Gem",
-      "index": 313
+      "index": 315
     },
     "Camper Flint & Bird Keeper Edwardo": {
       "level": 76,
@@ -9946,7 +9976,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Muscle Band",
-      "index": 873
+      "index": 875
     },
     "Sis And Bro Reli & Ian": {
       "level": 88,
@@ -9959,7 +9989,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Flying Gem",
-      "index": 1302
+      "index": 1304
     }
   },
   "Absol": {
@@ -9974,7 +10004,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Covert Cloak",
-      "index": 314
+      "index": 316
     },
     "Beauty Jessica": {
       "level": 80,
@@ -9987,7 +10017,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Absolite",
-      "index": 946
+      "index": 948
     },
     "Psychic Kayla": {
       "level": 80,
@@ -10000,7 +10030,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Scope Lens",
-      "index": 999
+      "index": 1001
     },
     "Pokemon Trainer Leaf1": {
       "level": 85,
@@ -10013,7 +10043,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Absolite Z",
-      "index": 1183
+      "index": 1185
     }
   },
   "Arcanine": {
@@ -10028,7 +10058,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Life Orb",
-      "index": 315
+      "index": 317
     },
     "Cooltrainer Garrison": {
       "level": 73,
@@ -10041,7 +10071,7 @@ var SETDEX_SV = {
       ],
       "nature": "Hasty",
       "item": "Covert Cloak",
-      "index": 707
+      "index": 709
     },
     "Elite Four Drake Doubles": {
       "level": 100,
@@ -10054,7 +10084,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Life Orb",
-      "index": 1732
+      "index": 1734
     }
   },
   "Scrafty-Mega": {
@@ -10069,7 +10099,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Scraftinite",
-      "index": 317
+      "index": 319
     }
   },
   "Mew": {
@@ -10084,7 +10114,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Rocky Helmet",
-      "index": 318
+      "index": 320
     },
     "Cycling Road Rival Fennekin": {
       "level": 63,
@@ -10097,7 +10127,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Rocky Helmet",
-      "index": 324
+      "index": 326
     },
     "Cycling Road Rival Froakie": {
       "level": 63,
@@ -10110,7 +10140,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Rocky Helmet",
-      "index": 330
+      "index": 332
     },
     "Bridge Rival Chespin": {
       "level": 76,
@@ -10123,7 +10153,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Leftovers",
-      "index": 821
+      "index": 823
     },
     "Bridge Rival Fennekin": {
       "level": 76,
@@ -10136,7 +10166,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Leftovers",
-      "index": 827
+      "index": 829
     },
     "Bridge Rival Froakie": {
       "level": 76,
@@ -10149,7 +10179,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Leftovers",
-      "index": 833
+      "index": 835
     }
   },
   "Rotom-Mow": {
@@ -10164,7 +10194,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Sitrus Berry",
-      "index": 322
+      "index": 324
     },
     "Ranger Nick": {
       "level": 73,
@@ -10177,7 +10207,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "White Herb",
-      "index": 758
+      "index": 760
     }
   },
   "Rotom-Heat": {
@@ -10192,7 +10222,7 @@ var SETDEX_SV = {
       ],
       "nature": "Calm",
       "item": "Sitrus Berry",
-      "index": 328
+      "index": 330
     },
     "Team Magma Admin Tabitha1": {
       "level": 71,
@@ -10205,7 +10235,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Leftovers",
-      "index": 605
+      "index": 607
     },
     "Trainer Maxie & Trainer Archie": {
       "level": 100,
@@ -10218,7 +10248,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Covert Cloak",
-      "index": 1658
+      "index": 1660
     }
   },
   "Pyroar": {
@@ -10233,7 +10263,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Power Herb",
-      "index": 333
+      "index": 335
     },
     "Cooltrainer Alexia (Confusion Room)": {
       "level": 65,
@@ -10246,7 +10276,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Heavy-Duty Boots",
-      "index": 425
+      "index": 427
     },
     "Tuber Jani": {
       "level": 73,
@@ -10259,7 +10289,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Pyroarite",
-      "index": 691
+      "index": 693
     }
   },
   "Rotom-Wash": {
@@ -10274,7 +10304,7 @@ var SETDEX_SV = {
       ],
       "nature": "Bold",
       "item": "Sitrus Berry",
-      "index": 334
+      "index": 336
     },
     "Cooltrainer June": {
       "level": 70,
@@ -10295,7 +10325,7 @@ var SETDEX_SV = {
         "sd": "31",
         "sp": "31"
       },
-      "index": 550
+      "index": 552
     },
     "Team Aqua Admin Shelly1": {
       "level": 75,
@@ -10308,7 +10338,7 @@ var SETDEX_SV = {
       ],
       "nature": "Bold",
       "item": "Chesto Berry",
-      "index": 815
+      "index": 817
     }
   },
   "Leavanny": {
@@ -10323,7 +10353,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Focus Sash",
-      "index": 336
+      "index": 338
     },
     "Bug Maniac Brent": {
       "level": 73,
@@ -10336,7 +10366,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Life Orb",
-      "index": 736
+      "index": 738
     },
     "Naturalist Greta": {
       "level": 99,
@@ -10349,7 +10379,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Charti Berry",
-      "index": 1608
+      "index": 1610
     }
   },
   "Gorebyss": {
@@ -10364,7 +10394,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Wacan Berry",
-      "index": 337
+      "index": 339
     },
     "Institute Team Aqua Elite Grunt": {
       "level": 75,
@@ -10377,7 +10407,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "White Herb",
-      "index": 809
+      "index": 811
     },
     "Swimmer Reed": {
       "level": 92,
@@ -10390,7 +10420,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Throat Spray",
-      "index": 1363
+      "index": 1365
     }
   },
   "Donphan": {
@@ -10405,7 +10435,7 @@ var SETDEX_SV = {
       ],
       "nature": "Careful",
       "item": "Iapapa Berry",
-      "index": 339
+      "index": 341
     },
     "Expert Ronald": {
       "level": 94,
@@ -10418,7 +10448,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Red Card",
-      "index": 1414
+      "index": 1416
     }
   },
   "Huntail": {
@@ -10433,7 +10463,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Rindo Berry",
-      "index": 340
+      "index": 342
     }
   },
   "Mr. Mime": {
@@ -10448,7 +10478,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Enigma Berry",
-      "index": 341
+      "index": 343
     }
   },
   "Chesnaught": {
@@ -10463,7 +10493,7 @@ var SETDEX_SV = {
       ],
       "nature": "Impish",
       "item": "Leftovers",
-      "index": 343
+      "index": 345
     },
     "Cooltrainer Marcel": {
       "level": 80,
@@ -10476,7 +10506,7 @@ var SETDEX_SV = {
       ],
       "nature": "Careful",
       "item": "Chesnaughtite",
-      "index": 955
+      "index": 957
     },
     "Twins Ame & Yuki": {
       "level": 98,
@@ -10489,7 +10519,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Iapapa Berry",
-      "index": 1557
+      "index": 1559
     }
   },
   "Duraludon": {
@@ -10504,7 +10534,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Eviolite",
-      "index": 344
+      "index": 346
     },
     "Team Aqua Grunt Gian": {
       "level": 84,
@@ -10517,7 +10547,7 @@ var SETDEX_SV = {
       ],
       "nature": "Impish",
       "item": "Eviolite",
-      "index": 1137
+      "index": 1139
     }
   },
   "Sirfetch’d": {
@@ -10532,7 +10562,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Fighting Gem",
-      "index": 345
+      "index": 347
     },
     "Bird Keeper Jared": {
       "level": 77,
@@ -10545,7 +10575,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Fighting Gem",
-      "index": 888
+      "index": 890
     }
   },
   "Regigigas": {
@@ -10560,7 +10590,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Leftovers",
-      "index": 346
+      "index": 348
     }
   },
   "Smeargle": {
@@ -10575,7 +10605,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Focus Sash",
-      "index": 347
+      "index": 349
     }
   },
   "Ambipom": {
@@ -10590,7 +10620,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "King's Rock",
-      "index": 348
+      "index": 350
     },
     "Pokemon Trainer Leaf1": {
       "level": 85,
@@ -10603,7 +10633,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Salac Berry",
-      "index": 1181
+      "index": 1183
     }
   },
   "Audino": {
@@ -10618,7 +10648,7 @@ var SETDEX_SV = {
       ],
       "nature": "Bold",
       "item": "Audinite",
-      "index": 349
+      "index": 351
     }
   },
   "Audino-Mega": {
@@ -10633,7 +10663,7 @@ var SETDEX_SV = {
       ],
       "nature": "Bold",
       "item": "Audinite",
-      "index": 350
+      "index": 352
     }
   },
   "Toxapex": {
@@ -10648,7 +10678,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Life Orb",
-      "index": 352
+      "index": 354
     }
   },
   "Simipour": {
@@ -10663,7 +10693,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Starf Berry",
-      "index": 353
+      "index": 355
     }
   },
   "Eelektross-Mega": {
@@ -10678,7 +10708,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Eelektrossite",
-      "index": 355
+      "index": 357
     }
   },
   "Eldegoss": {
@@ -10693,7 +10723,7 @@ var SETDEX_SV = {
       ],
       "nature": "Bold",
       "item": "Eject Button",
-      "index": 356
+      "index": 358
     }
   },
   "Tsareena": {
@@ -10708,7 +10738,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Muscle Band",
-      "index": 357
+      "index": 359
     },
     "Teacher Anabel": {
       "level": 100,
@@ -10721,7 +10751,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Heavy-Duty Boots",
-      "index": 1667
+      "index": 1669
     }
   },
   "Florges": {
@@ -10736,7 +10766,7 @@ var SETDEX_SV = {
       ],
       "nature": "Bold",
       "item": "Leftovers",
-      "index": 358
+      "index": 360
     },
     "Cooltrainer Greg": {
       "level": 76,
@@ -10749,7 +10779,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Leftovers",
-      "index": 849
+      "index": 851
     },
     "Psychic Hannah & Hex Maniac Sylvia": {
       "level": 86,
@@ -10762,7 +10792,7 @@ var SETDEX_SV = {
       ],
       "nature": "Bold",
       "item": "Assault Vest",
-      "index": 1209
+      "index": 1211
     }
   },
   "Pachirisu": {
@@ -10777,7 +10807,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Light Clay",
-      "index": 360
+      "index": 362
     }
   },
   "Shaymin": {
@@ -10792,7 +10822,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Leftovers",
-      "index": 361
+      "index": 363
     }
   },
   "Tatsugiri": {
@@ -10807,7 +10837,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Salac Berry",
-      "index": 362
+      "index": 364
     },
     "Fisherman Ordeaux": {
       "level": 72,
@@ -10820,7 +10850,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Tatsugirinite",
-      "index": 668
+      "index": 670
     },
     "Cooltrainer Carolina & Sailor Cory": {
       "level": 72,
@@ -10833,7 +10863,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Sitrus Berry",
-      "index": 670
+      "index": 672
     }
   },
   "Accelgor": {
@@ -10848,7 +10878,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Lum Berry",
-      "index": 363
+      "index": 365
     },
     "Ninja Boy Lao": {
       "level": 68,
@@ -10861,7 +10891,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Starf Berry",
-      "index": 523
+      "index": 525
     },
     "Sr. And Jr. Tyra & Ivy": {
       "level": 69,
@@ -10874,7 +10904,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Focus Sash",
-      "index": 558
+      "index": 560
     }
   },
   "Meowstic-F": {
@@ -10889,7 +10919,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Choice Specs",
-      "index": 364
+      "index": 366
     }
   },
   "Goodra": {
@@ -10904,7 +10934,7 @@ var SETDEX_SV = {
       ],
       "nature": "Bold",
       "item": "Leftovers",
-      "index": 365
+      "index": 367
     },
     "Hideout Team Aqua Grunt #2": {
       "level": 83,
@@ -10917,7 +10947,7 @@ var SETDEX_SV = {
       ],
       "nature": "Impish",
       "item": "Leftovers",
-      "index": 1129
+      "index": 1131
     }
   },
   "Ninetales": {
@@ -10932,7 +10962,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Sitrus Berry",
-      "index": 366
+      "index": 368
     },
     "Camper Derek": {
       "level": 68,
@@ -10945,7 +10975,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Heat Rock",
-      "index": 501
+      "index": 503
     },
     "Hiker Eli": {
       "level": 70,
@@ -10958,7 +10988,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Heat Rock",
-      "index": 627
+      "index": 629
     }
   },
   "Gogoat": {
@@ -10973,7 +11003,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Leftovers",
-      "index": 367
+      "index": 369
     },
     "Cooltrainer Chape": {
       "level": 75,
@@ -10986,7 +11016,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Grassy Seed",
-      "index": 784
+      "index": 786
     },
     "Team Rocket Grunt #1": {
       "level": 95,
@@ -10999,7 +11029,7 @@ var SETDEX_SV = {
       ],
       "nature": "Impish",
       "item": "Leftovers",
-      "index": 1493
+      "index": 1495
     }
   },
   "Umbreon": {
@@ -11014,7 +11044,7 @@ var SETDEX_SV = {
       ],
       "nature": "Bold",
       "item": "Leftovers",
-      "index": 369
+      "index": 371
     },
     "Hex Maniac Leah": {
       "level": 80,
@@ -11027,7 +11057,7 @@ var SETDEX_SV = {
       ],
       "nature": "Impish",
       "item": "Misty Seed",
-      "index": 991
+      "index": 993
     }
   },
   "Orbeetle": {
@@ -11042,7 +11072,7 @@ var SETDEX_SV = {
       ],
       "nature": "Bold",
       "item": "Colbur Berry",
-      "index": 370
+      "index": 372
     },
     "Psychic Preston & Psychic Maura": {
       "level": 85,
@@ -11055,7 +11085,7 @@ var SETDEX_SV = {
       ],
       "nature": "Bold",
       "item": "Iapapa Berry",
-      "index": 1188
+      "index": 1190
     },
     "Bird Keeper Aidan & Ranger Jmash": {
       "level": 87,
@@ -11068,7 +11098,7 @@ var SETDEX_SV = {
       ],
       "nature": "Bold",
       "item": "Colbur Berry",
-      "index": 1281
+      "index": 1283
     }
   },
   "Samurott": {
@@ -11083,7 +11113,7 @@ var SETDEX_SV = {
       ],
       "nature": "Naive",
       "item": "Starf Berry",
-      "index": 371
+      "index": 373
     },
     "Bird Keeper Aidan & Ranger Jmash": {
       "level": 87,
@@ -11096,7 +11126,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Covert Cloak",
-      "index": 1285
+      "index": 1287
     }
   },
   "Espeon": {
@@ -11111,7 +11141,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Flame Orb",
-      "index": 373
+      "index": 375
     },
     "Pokemon Trainer Leaf1": {
       "level": 86,
@@ -11124,7 +11154,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Focus Sash",
-      "index": 1186
+      "index": 1188
     }
   },
   "Barbaracle": {
@@ -11139,7 +11169,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "White Herb",
-      "index": 375
+      "index": 377
     },
     "Pyre Team Aqua Grunt #4": {
       "level": 80,
@@ -11152,7 +11182,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Barbaracite",
-      "index": 1048
+      "index": 1050
     }
   },
   "Garganacl": {
@@ -11167,7 +11197,7 @@ var SETDEX_SV = {
       ],
       "nature": "Impish",
       "item": "Leftovers",
-      "index": 377
+      "index": 379
     },
     "Ranger Nick": {
       "level": 73,
@@ -11180,7 +11210,7 @@ var SETDEX_SV = {
       ],
       "nature": "Sassy",
       "item": "Utility Umbrella",
-      "index": 759
+      "index": 761
     }
   },
   "Typhlosion-Hisui": {
@@ -11195,7 +11225,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Power Herb",
-      "index": 378
+      "index": 380
     },
     "Expert Qspec": {
       "level": 89,
@@ -11208,7 +11238,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Focus Sash",
-      "index": 1297
+      "index": 1299
     }
   },
   "Decidueye": {
@@ -11223,7 +11253,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Mental Herb",
-      "index": 379
+      "index": 381
     },
     "Bird Keeper Dayton": {
       "level": 75,
@@ -11236,7 +11266,7 @@ var SETDEX_SV = {
       ],
       "nature": "Naughty",
       "item": "Leftovers",
-      "index": 775
+      "index": 777
     }
   },
   "Emboar-Mega": {
@@ -11251,7 +11281,7 @@ var SETDEX_SV = {
       ],
       "nature": "Naive",
       "item": "Emboarite",
-      "index": 381
+      "index": 383
     }
   },
   "Primarina": {
@@ -11265,7 +11295,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Metronome",
-      "index": 382
+      "index": 384
     },
     "Sr. And Jr. Tyra & Ivy": {
       "level": 70,
@@ -11278,7 +11308,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Throat Spray",
-      "index": 560
+      "index": 562
     },
     "Seafloor Team Aqua Grunt #4": {
       "level": 90,
@@ -11291,7 +11321,7 @@ var SETDEX_SV = {
       ],
       "nature": "Bold",
       "item": "Fairy Gem",
-      "index": 1328
+      "index": 1330
     },
     "Superstar Tucker": {
       "level": 100,
@@ -11304,7 +11334,7 @@ var SETDEX_SV = {
       ],
       "nature": "Bold",
       "item": "Kebia Berry",
-      "index": 1652
+      "index": 1654
     },
     "Elite Four Drake Singles": {
       "level": 100,
@@ -11317,7 +11347,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Throat Spray",
-      "index": 1724
+      "index": 1726
     }
   },
   "Quaquaval": {
@@ -11332,7 +11362,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Flying Gem",
-      "index": 383
+      "index": 385
     },
     "Cooltrainer Cristin": {
       "level": 80,
@@ -11345,7 +11375,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Salac Berry",
-      "index": 963
+      "index": 965
     }
   },
   "Xatu": {
@@ -11360,7 +11390,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Twisted Spoon",
-      "index": 384
+      "index": 386
     },
     "Bird Keeper Narth": {
       "level": 77,
@@ -11373,7 +11403,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Psychic Gem",
-      "index": 874
+      "index": 876
     }
   },
   "Slowking-Galar": {
@@ -11388,7 +11418,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Twisted Spoon",
-      "index": 385
+      "index": 387
     },
     "Pyre Team Aqua Grunt #5": {
       "level": 80,
@@ -11401,7 +11431,7 @@ var SETDEX_SV = {
       ],
       "nature": "Bold",
       "item": "Black Sludge",
-      "index": 1054
+      "index": 1056
     }
   },
   "Whiscash": {
@@ -11416,7 +11446,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Ground Gem",
-      "index": 386
+      "index": 388
     },
     "Cooltrainer Chape": {
       "level": 74,
@@ -11429,7 +11459,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Ability Shield",
-      "index": 783
+      "index": 785
     },
     "Seafloor Team Aqua Grunt #1": {
       "level": 91,
@@ -11442,7 +11472,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Iapapa Berry",
-      "index": 1306
+      "index": 1308
     }
   },
   "Slowbro": {
@@ -11457,7 +11487,7 @@ var SETDEX_SV = {
       ],
       "nature": "Sassy",
       "item": "Psychic Gem",
-      "index": 387
+      "index": 389
     },
     "Psychic Virgil & Psychic Nate": {
       "level": 86,
@@ -11478,7 +11508,7 @@ var SETDEX_SV = {
         "sd": "31",
         "sp": "0"
       },
-      "index": 1203
+      "index": 1205
     },
     "Triathlete Rydia": {
       "level": 93,
@@ -11491,7 +11521,7 @@ var SETDEX_SV = {
       ],
       "nature": "Calm",
       "item": "Leftovers",
-      "index": 1395
+      "index": 1397
     }
   },
   "Jumpluff": {
@@ -11506,7 +11536,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Leftovers",
-      "index": 388
+      "index": 390
     },
     "Cooltrainer Melodic": {
       "level": 78,
@@ -11519,7 +11549,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Eject Pack",
-      "index": 934
+      "index": 936
     }
   },
   "Hawlucha": {
@@ -11534,7 +11564,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Fighting Gem",
-      "index": 389
+      "index": 391
     },
     "Bird Keeper Specter": {
       "level": 76,
@@ -11547,7 +11577,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Hawluchanite",
-      "index": 863
+      "index": 865
     },
     "Psychic Kayla": {
       "level": 79,
@@ -11560,7 +11590,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Misty Seed",
-      "index": 1000
+      "index": 1002
     },
     "Hideout Team Aqua Grunt #4": {
       "level": 83,
@@ -11573,7 +11603,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Electric Seed",
-      "index": 1139
+      "index": 1141
     },
     "Pokemon Trainer Leaf1": {
       "level": 85,
@@ -11586,7 +11616,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Psychic Seed",
-      "index": 1185
+      "index": 1187
     }
   },
   "Sylveon": {
@@ -11601,7 +11631,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Leftovers",
-      "index": 391
+      "index": 393
     },
     "Beauty Jessica": {
       "level": 78,
@@ -11614,7 +11644,7 @@ var SETDEX_SV = {
       ],
       "nature": "Bold",
       "item": "Wiki Berry",
-      "index": 942
+      "index": 944
     }
   },
   "Floette-Eternal": {
@@ -11629,7 +11659,7 @@ var SETDEX_SV = {
       ],
       "nature": "Bold",
       "item": "Iapapa Berry",
-      "index": 393
+      "index": 395
     },
     "Cooltrainer Yoru": {
       "level": 96,
@@ -11642,7 +11672,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Floettite",
-      "index": 1520
+      "index": 1522
     }
   },
   "Weezing": {
@@ -11657,7 +11687,7 @@ var SETDEX_SV = {
       ],
       "nature": "Calm",
       "item": "Black Sludge",
-      "index": 396
+      "index": 398
     },
     "Team Rocket Grunt #2": {
       "level": 95,
@@ -11670,7 +11700,7 @@ var SETDEX_SV = {
       ],
       "nature": "Sassy",
       "item": "Black Sludge",
-      "index": 1498
+      "index": 1500
     }
   },
   "Runerigus": {
@@ -11685,7 +11715,7 @@ var SETDEX_SV = {
       ],
       "nature": "Careful",
       "item": "Colbur Berry",
-      "index": 397
+      "index": 399
     },
     "Blackbelt Tyrone": {
       "level": 80,
@@ -11698,7 +11728,7 @@ var SETDEX_SV = {
       ],
       "nature": "Careful",
       "item": "Assault Vest",
-      "index": 992
+      "index": 994
     }
   },
   "Grafaiai": {
@@ -11713,7 +11743,7 @@ var SETDEX_SV = {
       ],
       "nature": "Impish",
       "item": "Mental Herb",
-      "index": 398
+      "index": 400
     },
     "Expert Cash": {
       "level": 86,
@@ -11726,7 +11756,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Eject Button",
-      "index": 1175
+      "index": 1177
     }
   },
   "Golisopod": {
@@ -11741,7 +11771,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Red Card",
-      "index": 399
+      "index": 401
     },
     "Team Aqua Grunt & Team Aqua Steve": {
       "level": 75,
@@ -11754,7 +11784,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Flying Gem",
-      "index": 837
+      "index": 839
     },
     "Team Rocket Grunt #1": {
       "level": 96,
@@ -11767,7 +11797,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Golisopite",
-      "index": 1495
+      "index": 1497
     },
     "Naturalist Greta": {
       "level": 100,
@@ -11780,7 +11810,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Golisopite",
-      "index": 1612
+      "index": 1614
     }
   },
   "Archeops": {
@@ -11795,7 +11825,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Muscle Band",
-      "index": 400
+      "index": 402
     },
     "Cooltrainer Irie": {
       "level": 73,
@@ -11808,7 +11838,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Flying Gem",
-      "index": 694
+      "index": 696
     },
     "Blackbelt Tyrone": {
       "level": 78,
@@ -11821,7 +11851,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Flying Gem",
-      "index": 995
+      "index": 997
     },
     "Leader Steven": {
       "level": 95,
@@ -11834,7 +11864,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Power Herb",
-      "index": 1477
+      "index": 1479
     }
   },
   "Durant": {
@@ -11849,7 +11879,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Focus Sash",
-      "index": 401
+      "index": 403
     },
     "Beauty Thalia": {
       "level": 74,
@@ -11862,7 +11892,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Muscle Band",
-      "index": 678
+      "index": 680
     }
   },
   "Rampardos": {
@@ -11877,7 +11907,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Liechi Berry",
-      "index": 402
+      "index": 404
     },
     "Swimmer Kara": {
       "level": 94,
@@ -11890,7 +11920,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Rock Gem",
-      "index": 1404
+      "index": 1406
     }
   },
   "Diancie": {
@@ -11905,7 +11935,7 @@ var SETDEX_SV = {
       ],
       "nature": "Relaxed",
       "item": "Babiri Berry",
-      "index": 403
+      "index": 405
     },
     "Pokefan Bobertclef": {
       "level": 95,
@@ -11918,7 +11948,7 @@ var SETDEX_SV = {
       ],
       "nature": "Naughty",
       "item": "Diancite",
-      "index": 1468
+      "index": 1470
     },
     "Champion Wallace": {
       "level": 100,
@@ -11931,7 +11961,7 @@ var SETDEX_SV = {
       ],
       "nature": "Naive",
       "item": "Diancite",
-      "index": 1739
+      "index": 1741
     }
   },
   "Armarouge": {
@@ -11946,7 +11976,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "White Herb",
-      "index": 405
+      "index": 407
     },
     "Team Magma Admin Tabitha1": {
       "level": 71,
@@ -11959,7 +11989,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Eject Pack",
-      "index": 602
+      "index": 604
     },
     "Team Magma Admin Tabitha2": {
       "level": 82,
@@ -11972,7 +12002,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "White Herb",
-      "index": 1113
+      "index": 1115
     },
     "Magma Leader Maxie & Tabitha": {
       "level": 89,
@@ -11993,7 +12023,7 @@ var SETDEX_SV = {
         "sd": "30",
         "sp": "30"
       },
-      "index": 1274
+      "index": 1276
     }
   },
   "Jellicent": {
@@ -12008,7 +12038,7 @@ var SETDEX_SV = {
       ],
       "nature": "Quiet",
       "item": "Water Gem",
-      "index": 406
+      "index": 408
     },
     "Sailor Duncan": {
       "level": 73,
@@ -12029,7 +12059,7 @@ var SETDEX_SV = {
         "sd": "31",
         "sp": "0"
       },
-      "index": 681
+      "index": 683
     },
     "Bird Keeper Phil & Parasol Lady Rachel": {
       "level": 75,
@@ -12042,7 +12072,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Sitrus Berry",
-      "index": 767
+      "index": 769
     },
     "Team Aqua Grunt Soph": {
       "level": 82,
@@ -12055,7 +12085,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Quick Claw",
-      "index": 1124
+      "index": 1126
     }
   },
   "Ampharos-Mega": {
@@ -12070,7 +12100,7 @@ var SETDEX_SV = {
       ],
       "nature": "Quiet",
       "item": "Ampharosite",
-      "index": 408
+      "index": 410
     },
     "Expert Makayla": {
       "level": 95,
@@ -12082,8 +12112,8 @@ var SETDEX_SV = {
         "Focus Blast"
       ],
       "nature": "Timid",
-      "item": "heldItem",
-      "index": 1424
+      "item": "Ampharosite",
+      "index": 1426
     }
   },
   "Cyclizar": {
@@ -12096,7 +12126,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Dragon Gem",
-      "index": 409
+      "index": 411
     },
     "Cooltrainer Reyna": {
       "level": 97,
@@ -12109,7 +12139,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Sitrus Berry",
-      "index": 1512
+      "index": 1514
     }
   },
   "Bewear": {
@@ -12124,7 +12154,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Expert Belt",
-      "index": 411
+      "index": 413
     },
     "Hex Maniac Valerie": {
       "level": 79,
@@ -12137,7 +12167,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Expert Belt",
-      "index": 1013
+      "index": 1015
     }
   },
   "Staraptor": {
@@ -12152,7 +12182,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Life Orb",
-      "index": 412
+      "index": 414
     },
     "Bird Keeper Narth": {
       "level": 76,
@@ -12165,7 +12195,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Staraptite",
-      "index": 875
+      "index": 877
     }
   },
   "Greedent": {
@@ -12180,7 +12210,7 @@ var SETDEX_SV = {
       ],
       "nature": "Impish",
       "item": "Starf Berry",
-      "index": 413
+      "index": 415
     }
   },
   "Mudsdale": {
@@ -12195,7 +12225,7 @@ var SETDEX_SV = {
       ],
       "nature": "Impish",
       "item": "Maranga Berry",
-      "index": 414
+      "index": 416
     },
     "Team Aqua Grunt & Team Aqua Steve": {
       "level": 75,
@@ -12208,7 +12238,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Assault Vest",
-      "index": 842
+      "index": 844
     },
     "Team Aqua Grunt Steve2": {
       "level": 83,
@@ -12221,7 +12251,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Assault Vest",
-      "index": 1150
+      "index": 1152
     }
   },
   "Dubwool": {
@@ -12236,7 +12266,7 @@ var SETDEX_SV = {
       ],
       "nature": "Impish",
       "item": "Sitrus Berry",
-      "index": 415
+      "index": 417
     }
   },
   "Braviary": {
@@ -12251,7 +12281,7 @@ var SETDEX_SV = {
       ],
       "nature": "Careful",
       "item": "Leftovers",
-      "index": 416
+      "index": 418
     },
     "Rival Wally2": {
       "level": 99,
@@ -12264,7 +12294,7 @@ var SETDEX_SV = {
       ],
       "nature": "Careful",
       "item": "Leftovers",
-      "index": 1574
+      "index": 1576
     }
   },
   "Unfezant": {
@@ -12279,7 +12309,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Muscle Band",
-      "index": 417
+      "index": 419
     }
   },
   "Snorlax": {
@@ -12294,7 +12324,7 @@ var SETDEX_SV = {
       ],
       "nature": "Impish",
       "item": "Lansat Berry",
-      "index": 418
+      "index": 420
     },
     "Teacher Anabel": {
       "level": 100,
@@ -12307,7 +12337,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Custap Berry",
-      "index": 1669
+      "index": 1671
     }
   },
   "Decidueye-Hisui": {
@@ -12322,7 +12352,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Razor Claw",
-      "index": 420
+      "index": 422
     },
     "Psychic Cedric": {
       "level": 79,
@@ -12335,7 +12365,7 @@ var SETDEX_SV = {
       ],
       "nature": "Impish",
       "item": "Leftovers",
-      "index": 1026
+      "index": 1028
     }
   },
   "Drapion": {
@@ -12350,7 +12380,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Sitrus Berry",
-      "index": 421
+      "index": 423
     },
     "Bug Maniac Taylor": {
       "level": 73,
@@ -12363,7 +12393,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Black Sludge",
-      "index": 729
+      "index": 731
     }
   },
   "Spinda": {
@@ -12378,7 +12408,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Chople Berry",
-      "index": 422
+      "index": 424
     }
   },
   "Pecharunt": {
@@ -12393,7 +12423,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Leftovers",
-      "index": 424
+      "index": 426
     }
   },
   "Ditto": {
@@ -12406,7 +12436,7 @@ var SETDEX_SV = {
       ],
       "nature": "Bold",
       "item": "Metal Powder",
-      "index": 426
+      "index": 428
     },
     "Lady Daphne": {
       "level": 96,
@@ -12417,7 +12447,7 @@ var SETDEX_SV = {
       ],
       "nature": "Impish",
       "item": "Eject Button",
-      "index": 1447
+      "index": 1449
     }
   },
   "Ninjask": {
@@ -12432,7 +12462,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Focus Sash",
-      "index": 427
+      "index": 429
     },
     "Ninja Boy Lao": {
       "level": 69,
@@ -12445,7 +12475,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Liechi Berry",
-      "index": 521
+      "index": 523
     }
   },
   "Exploud": {
@@ -12460,7 +12490,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Normal Gem",
-      "index": 428
+      "index": 430
     },
     "Hiker Jotaro": {
       "level": 70,
@@ -12473,7 +12503,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Choice Specs",
-      "index": 573
+      "index": 575
     },
     "Lorekeeper Zinnia": {
       "level": 98,
@@ -12486,7 +12516,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Life Orb",
-      "index": 1484
+      "index": 1486
     }
   },
   "Bouffalant": {
@@ -12501,7 +12531,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Sitrus Berry",
-      "index": 429
+      "index": 431
     },
     "Sailor Duncan": {
       "level": 73,
@@ -12522,7 +12552,7 @@ var SETDEX_SV = {
         "sd": "31",
         "sp": "0"
       },
-      "index": 684
+      "index": 686
     }
   },
   "Drampa": {
@@ -12537,7 +12567,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Yache Berry",
-      "index": 431
+      "index": 433
     },
     "Camper Flint & Bird Keeper Edwardo": {
       "level": 76,
@@ -12550,7 +12580,7 @@ var SETDEX_SV = {
       ],
       "nature": "Brave",
       "item": "Drampanite",
-      "index": 870
+      "index": 872
     },
     "Lorekeeper Zinnia": {
       "level": 95,
@@ -12563,7 +12593,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Quick Claw",
-      "index": 1483
+      "index": 1485
     }
   },
   "Rillaboom": {
@@ -12578,7 +12608,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Terrain Extender",
-      "index": 432
+      "index": 434
     },
     "Natural Guru Spenser": {
       "level": 99,
@@ -12591,7 +12621,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Terrain Extender",
-      "index": 1622
+      "index": 1624
     }
   },
   "Miltank": {
@@ -12606,7 +12636,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Chople Berry",
-      "index": 433
+      "index": 435
     }
   },
   "Meloetta": {
@@ -12621,7 +12651,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Clear Amulet",
-      "index": 434
+      "index": 436
     },
     "Cooltrainer Kya (Psychic Room)": {
       "level": 64,
@@ -12634,7 +12664,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Metronome",
-      "index": 439
+      "index": 441
     },
     "Rival Wally3": {
       "level": 97,
@@ -12647,7 +12677,7 @@ var SETDEX_SV = {
       ],
       "nature": "Bold",
       "item": "Expert Belt",
-      "index": 1584
+      "index": 1586
     }
   },
   "Toucannon": {
@@ -12662,7 +12692,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Grass Gem",
-      "index": 436
+      "index": 438
     },
     "Bird Keeper Perry": {
       "level": 73,
@@ -12675,7 +12705,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Power Herb",
-      "index": 724
+      "index": 726
     },
     "Bird Keeper Aidan & Ranger Jmash": {
       "level": 88,
@@ -12688,7 +12718,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Flying Gem",
-      "index": 1282
+      "index": 1284
     }
   },
   "Indeedee": {
@@ -12703,7 +12733,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Terrain Extender",
-      "index": 437
+      "index": 439
     }
   },
   "Bisharp": {
@@ -12718,7 +12748,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Eviolite",
-      "index": 438
+      "index": 440
     }
   },
   "Delphox": {
@@ -12733,7 +12763,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Colbur Berry",
-      "index": 440
+      "index": 442
     },
     "Expert Keegan": {
       "level": 72,
@@ -12746,7 +12776,7 @@ var SETDEX_SV = {
       ],
       "nature": "Bold",
       "item": "Charcoal",
-      "index": 654
+      "index": 656
     },
     "Cooltrainer Melodic": {
       "level": 79,
@@ -12759,7 +12789,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Delphoxite",
-      "index": 931
+      "index": 933
     },
     "Hideout Team Magma Elite Grunt": {
       "level": 80,
@@ -12772,7 +12802,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Life Orb",
-      "index": 1102
+      "index": 1104
     }
   },
   "Terapagos": {
@@ -12787,7 +12817,7 @@ var SETDEX_SV = {
       ],
       "nature": "Lonely",
       "item": "Leftovers",
-      "index": 442
+      "index": 444
     },
     "Cooltrainer Reyna": {
       "level": 96,
@@ -12800,7 +12830,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Leftovers",
-      "index": 1516
+      "index": 1518
     }
   },
   "Porygon-Z": {
@@ -12823,7 +12853,7 @@ var SETDEX_SV = {
         "sd": "31",
         "sp": "17"
       },
-      "index": 443
+      "index": 445
     },
     "Sr. And Jr. Kate & Joy": {
       "level": 78,
@@ -12836,7 +12866,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Focus Sash",
-      "index": 950
+      "index": 952
     }
   },
   "Squawkabilly": {
@@ -12851,7 +12881,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Flame Orb",
-      "index": 445
+      "index": 447
     }
   },
   "Malamar": {
@@ -12866,7 +12896,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Heavy-Duty Boots",
-      "index": 446
+      "index": 448
     },
     "Fisherman Noxie": {
       "level": 73,
@@ -12879,7 +12909,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Focus Sash",
-      "index": 742
+      "index": 744
     },
     "Pyre Team Aqua Grunt #2": {
       "level": 80,
@@ -12892,7 +12922,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Malamarite",
-      "index": 1039
+      "index": 1041
     },
     "Seafloor Team Aqua Grunt #2": {
       "level": 90,
@@ -12905,7 +12935,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Quick Claw",
-      "index": 1315
+      "index": 1317
     }
   },
   "Silvally-Fighting": {
@@ -12920,7 +12950,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Fighting Memory",
-      "index": 447
+      "index": 449
     }
   },
   "Slaking": {
@@ -12935,7 +12965,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Eject Button",
-      "index": 448
+      "index": 450
     },
     "Blackbelt Tyrone": {
       "level": 79,
@@ -12948,7 +12978,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Chople Berry",
-      "index": 993
+      "index": 995
     },
     "Frontier Head Noland": {
       "level": 100,
@@ -12961,7 +12991,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Normal Gem",
-      "index": 1676
+      "index": 1678
     }
   },
   "Maushold": {
@@ -12976,7 +13006,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "King's Rock",
-      "index": 449
+      "index": 451
     },
     "Leader Tate & Liza": {
       "level": 86,
@@ -12989,7 +13019,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Mental Herb",
-      "index": 1234
+      "index": 1236
     }
   },
   "Farigiraf": {
@@ -13004,7 +13034,7 @@ var SETDEX_SV = {
       ],
       "nature": "Relaxed",
       "item": "Life Orb",
-      "index": 450
+      "index": 452
     },
     "Sr. And Jr. Kate & Joy": {
       "level": 79,
@@ -13017,7 +13047,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Colbur Berry",
-      "index": 951
+      "index": 953
     }
   },
   "Zoroark-Hisui": {
@@ -13032,7 +13062,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Expert Belt",
-      "index": 451
+      "index": 453
     },
     "Pokefan Annika": {
       "level": 95,
@@ -13045,7 +13075,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Spell Tag",
-      "index": 1437
+      "index": 1439
     },
     "Elite Four Phoebe Singles": {
       "level": 100,
@@ -13058,7 +13088,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Focus Sash",
-      "index": 1693
+      "index": 1695
     }
   },
   "Kangaskhan-Mega": {
@@ -13073,7 +13103,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Kangaskhanite",
-      "index": 453
+      "index": 455
     }
   },
   "Obstagoon": {
@@ -13088,7 +13118,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Flame Orb",
-      "index": 455
+      "index": 457
     },
     "Rival Wally1": {
       "level": 100,
@@ -13101,7 +13131,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Choice Band",
-      "index": 1566
+      "index": 1568
     },
     "Rival Wally2": {
       "level": 100,
@@ -13114,7 +13144,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Choice Scarf",
-      "index": 1573
+      "index": 1575
     },
     "Rival Wally3": {
       "level": 100,
@@ -13127,7 +13157,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Assault Vest",
-      "index": 1580
+      "index": 1582
     }
   },
   "Roserade": {
@@ -13142,7 +13172,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Grass Gem",
-      "index": 456
+      "index": 458
     },
     "Aroma Lady Rose": {
       "level": 72,
@@ -13163,7 +13193,7 @@ var SETDEX_SV = {
         "sd": "31",
         "sp": "30"
       },
-      "index": 717
+      "index": 719
     },
     "Rival Wally1": {
       "level": 98,
@@ -13184,7 +13214,7 @@ var SETDEX_SV = {
         "sd": "31",
         "sp": "30"
       },
-      "index": 1570
+      "index": 1572
     },
     "Rival Wally2": {
       "level": 98,
@@ -13205,7 +13235,7 @@ var SETDEX_SV = {
         "sd": "31",
         "sp": "30"
       },
-      "index": 1577
+      "index": 1579
     },
     "Rival Wally3": {
       "level": 98,
@@ -13226,7 +13256,7 @@ var SETDEX_SV = {
         "sd": "31",
         "sp": "30"
       },
-      "index": 1585
+      "index": 1587
     }
   },
   "Blissey": {
@@ -13241,7 +13271,7 @@ var SETDEX_SV = {
       ],
       "nature": "Bold",
       "item": "Leftovers",
-      "index": 457
+      "index": 459
     }
   },
   "Vespiquen": {
@@ -13256,7 +13286,7 @@ var SETDEX_SV = {
       ],
       "nature": "Relaxed",
       "item": "Leftovers",
-      "index": 458
+      "index": 460
     }
   },
   "Vigoroth": {
@@ -13268,7 +13298,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Choice Band",
-      "index": 463
+      "index": 465
     }
   },
   "Lilligant-Hisui": {
@@ -13283,7 +13313,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Wide Lens",
-      "index": 464
+      "index": 466
     },
     "Battle Girl Danielle & Kindler Cole": {
       "level": 72,
@@ -13296,7 +13326,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Sitrus Berry",
-      "index": 639
+      "index": 641
     },
     "Cooltrainer Ruben": {
       "level": 87,
@@ -13309,7 +13339,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Blunder Policy",
-      "index": 1290
+      "index": 1292
     },
     "Triathlete Rydia": {
       "level": 94,
@@ -13322,7 +13352,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "White Herb",
-      "index": 1393
+      "index": 1395
     }
   },
   "Vaporeon": {
@@ -13337,7 +13367,7 @@ var SETDEX_SV = {
       ],
       "nature": "Relaxed",
       "item": "Leftovers",
-      "index": 465
+      "index": 467
     }
   },
   "Victini": {
@@ -13352,7 +13382,7 @@ var SETDEX_SV = {
       ],
       "nature": "Hasty",
       "item": "Bug Gem",
-      "index": 466
+      "index": 468
     },
     "Hideout Magma Grunt #6 & #7": {
       "level": 80,
@@ -13365,7 +13395,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Shuca Berry",
-      "index": 1083
+      "index": 1085
     },
     "Space Center Team Magma Grunt #2": {
       "level": 87,
@@ -13378,7 +13408,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "White Herb",
-      "index": 1246
+      "index": 1248
     }
   },
   "Medicham-Mega": {
@@ -13401,7 +13431,7 @@ var SETDEX_SV = {
         "sd": "31",
         "sp": "30"
       },
-      "index": 468
+      "index": 470
     }
   },
   "Dracozolt": {
@@ -13416,7 +13446,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Heavy-Duty Boots",
-      "index": 470
+      "index": 472
     },
     "Cooltrainer Marcel": {
       "level": 79,
@@ -13429,7 +13459,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Blunder Policy",
-      "index": 957
+      "index": 959
     },
     "Hideout Team Magma Grunt #8": {
       "level": 81,
@@ -13442,7 +13472,7 @@ var SETDEX_SV = {
       ],
       "nature": "Brave",
       "item": "Quick Claw",
-      "index": 1091
+      "index": 1093
     }
   },
   "Sigilyph": {
@@ -13457,7 +13487,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Life Orb",
-      "index": 472
+      "index": 474
     },
     "Bird Keeper Dayton": {
       "level": 75,
@@ -13470,7 +13500,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Choice Specs",
-      "index": 773
+      "index": 775
     }
   },
   "Excadrill": {
@@ -13485,7 +13515,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Clear Amulet",
-      "index": 473
+      "index": 475
     },
     "Team Aqua Grunt & Team Aqua Steve": {
       "level": 76,
@@ -13498,7 +13528,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Muscle Band",
-      "index": 841
+      "index": 843
     },
     "Team Aqua Grunt Steve2": {
       "level": 84,
@@ -13511,7 +13541,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Chople Berry",
-      "index": 1151
+      "index": 1153
     },
     "Expert Qspec": {
       "level": 89,
@@ -13524,7 +13554,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Excadrite",
-      "index": 1298
+      "index": 1300
     }
   },
   "Mandibuzz": {
@@ -13539,7 +13569,7 @@ var SETDEX_SV = {
       ],
       "nature": "Relaxed",
       "item": "Leftovers",
-      "index": 474
+      "index": 476
     },
     "Rival Wally1": {
       "level": 99,
@@ -13552,7 +13582,7 @@ var SETDEX_SV = {
       ],
       "nature": "Careful",
       "item": "Leftovers",
-      "index": 1567
+      "index": 1569
     }
   },
   "Lycanroc": {
@@ -13564,7 +13594,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Choice Band",
-      "index": 475
+      "index": 477
     }
   },
   "Bastiodon": {
@@ -13579,7 +13609,7 @@ var SETDEX_SV = {
       ],
       "nature": "Careful",
       "item": "Red Card",
-      "index": 477
+      "index": 479
     }
   },
   "Torterra": {
@@ -13594,7 +13624,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Yache Berry",
-      "index": 480
+      "index": 482
     },
     "Swimmer Susie": {
       "level": 94,
@@ -13607,7 +13637,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Life Orb",
-      "index": 1410
+      "index": 1412
     }
   },
   "Steelix": {
@@ -13630,7 +13660,7 @@ var SETDEX_SV = {
         "sd": "31",
         "sp": "0"
       },
-      "index": 481
+      "index": 483
     },
     "Dragon Tamer Sora": {
       "level": 77,
@@ -13643,7 +13673,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Weakness Policy",
-      "index": 897
+      "index": 899
     }
   },
   "Steelix-Mega": {
@@ -13666,7 +13696,7 @@ var SETDEX_SV = {
         "sd": "31",
         "sp": "0"
       },
-      "index": 482
+      "index": 484
     },
     "Team Aqua Grunt Steve3": {
       "level": 90,
@@ -13687,7 +13717,7 @@ var SETDEX_SV = {
         "sd": "31",
         "sp": "0"
       },
-      "index": 1346
+      "index": 1348
     }
   },
   "Dracovish": {
@@ -13702,7 +13732,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Water Gem",
-      "index": 483
+      "index": 485
     },
     "Cooltrainer Carolina & Sailor Cory": {
       "level": 72,
@@ -13715,7 +13745,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Mystic Water",
-      "index": 671
+      "index": 673
     },
     "Parasol Lady Angelica": {
       "level": 77,
@@ -13728,7 +13758,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Choice Scarf",
-      "index": 921
+      "index": 923
     },
     "Team Aqua Grunt Steve2": {
       "level": 83,
@@ -13741,7 +13771,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Mystic Water",
-      "index": 1149
+      "index": 1151
     }
   },
   "Carracosta": {
@@ -13756,7 +13786,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Leftovers",
-      "index": 484
+      "index": 486
     },
     "Seafloor Team Aqua Grunt #2": {
       "level": 89,
@@ -13769,7 +13799,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Red Card",
-      "index": 1312
+      "index": 1314
     }
   },
   "Tyrantrum": {
@@ -13784,7 +13814,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Razor Fang",
-      "index": 485
+      "index": 487
     },
     "Team Magma Admin Tabitha2": {
       "level": 81,
@@ -13797,7 +13827,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Sitrus Berry",
-      "index": 1114
+      "index": 1116
     }
   },
   "Aurorus": {
@@ -13812,7 +13842,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Ice Gem",
-      "index": 486
+      "index": 488
     },
     "Cooltrainer Chape": {
       "level": 74,
@@ -13825,7 +13855,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Rock Gem",
-      "index": 786
+      "index": 788
     },
     "Breeder Gabrielle": {
       "level": 79,
@@ -13838,7 +13868,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Choice Specs",
-      "index": 1023
+      "index": 1025
     },
     "Team Aqua Admin Shelly2": {
       "level": 90,
@@ -13851,7 +13881,7 @@ var SETDEX_SV = {
       ],
       "nature": "Bold",
       "item": "Heavy-Duty Boots",
-      "index": 1342
+      "index": 1344
     }
   },
   "Stonjourner": {
@@ -13866,7 +13896,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Assault Vest",
-      "index": 487
+      "index": 489
     }
   },
   "Flygon": {
@@ -13881,7 +13911,7 @@ var SETDEX_SV = {
       ],
       "nature": "Hasty",
       "item": "Sitrus Berry",
-      "index": 488
+      "index": 490
     },
     "Expert Makayla": {
       "level": 94,
@@ -13894,7 +13924,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Bug Gem",
-      "index": 1419
+      "index": 1421
     },
     "Rival Wally1": {
       "level": 97,
@@ -13907,7 +13937,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Life Orb",
-      "index": 1568
+      "index": 1570
     },
     "Rival Wally2": {
       "level": 97,
@@ -13920,7 +13950,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Life Orb",
-      "index": 1575
+      "index": 1577
     }
   },
   "Stoutland": {
@@ -13935,7 +13965,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Normal Gem",
-      "index": 489
+      "index": 491
     },
     "Team Rocket Grunt #2": {
       "level": 95,
@@ -13946,7 +13976,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Choice Band",
-      "index": 1500
+      "index": 1502
     }
   },
   "Arcanine-Hisui": {
@@ -13961,7 +13991,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Leftovers",
-      "index": 490
+      "index": 492
     },
     "Space Center Team Magma Grunt #6": {
       "level": 86,
@@ -13974,7 +14004,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Choice Scarf",
-      "index": 1264
+      "index": 1266
     },
     "Triathlete Barron & Stephin": {
       "level": 92,
@@ -13987,7 +14017,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Life Orb",
-      "index": 1375
+      "index": 1377
     }
   },
   "Zygarde-10%": {
@@ -14002,7 +14032,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Soft Sand",
-      "index": 491
+      "index": 493
     }
   },
   "Probopass": {
@@ -14017,7 +14047,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Chople Berry",
-      "index": 492
+      "index": 494
     }
   },
   "Brambleghast": {
@@ -14032,7 +14062,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Safety Goggles",
-      "index": 493
+      "index": 495
     },
     "Camper Flint & Bird Keeper Edwardo": {
       "level": 76,
@@ -14045,7 +14075,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Yache Berry",
-      "index": 869
+      "index": 871
     },
     "Swimmer Kara": {
       "level": 94,
@@ -14058,7 +14088,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Clear Amulet",
-      "index": 1406
+      "index": 1408
     }
   },
   "Golurk": {
@@ -14073,7 +14103,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Punching Glove",
-      "index": 494
+      "index": 496
     },
     "Ranger Frank Josh": {
       "level": 77,
@@ -14086,7 +14116,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Golurkite",
-      "index": 881
+      "index": 883
     }
   },
   "Hippowdon": {
@@ -14109,7 +14139,7 @@ var SETDEX_SV = {
         "sd": "31",
         "sp": "0"
       },
-      "index": 495
+      "index": 497
     },
     "Expert Niklas": {
       "level": 97,
@@ -14122,7 +14152,7 @@ var SETDEX_SV = {
       ],
       "nature": "Careful",
       "item": "White Herb",
-      "index": 1528
+      "index": 1530
     }
   },
   "Gigalith": {
@@ -14145,7 +14175,7 @@ var SETDEX_SV = {
         "sd": "31",
         "sp": "0"
       },
-      "index": 496
+      "index": 498
     }
   },
   "Musharna": {
@@ -14168,7 +14198,7 @@ var SETDEX_SV = {
         "sd": "31",
         "sp": "0"
       },
-      "index": 498
+      "index": 500
     }
   },
   "Braviary-Hisui": {
@@ -14183,7 +14213,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Safety Goggles",
-      "index": 499
+      "index": 501
     },
     "Swimmer Byonemil": {
       "level": 84,
@@ -14204,7 +14234,7 @@ var SETDEX_SV = {
         "sd": "31",
         "sp": "0"
       },
-      "index": 1170
+      "index": 1172
     }
   },
   "Dusknoir": {
@@ -14227,7 +14257,7 @@ var SETDEX_SV = {
         "sd": "31",
         "sp": "0"
       },
-      "index": 500
+      "index": 502
     },
     "Lilycove Rival Froakie": {
       "level": 78,
@@ -14240,7 +14270,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Leftovers",
-      "index": 983
+      "index": 985
     }
   },
   "Maractus": {
@@ -14255,7 +14285,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Life Orb",
-      "index": 502
+      "index": 504
     }
   },
   "Great Tusk": {
@@ -14270,7 +14300,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Clear Amulet",
-      "index": 503
+      "index": 505
     },
     "Expert Qspec": {
       "level": 88,
@@ -14283,7 +14313,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Booster Energy",
-      "index": 1295
+      "index": 1297
     },
     "Adventurer Brandon": {
       "level": 99,
@@ -14296,7 +14326,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Booster Energy",
-      "index": 1595
+      "index": 1597
     },
     "Elite Four Rival Singles": {
       "level": 100,
@@ -14309,7 +14339,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Leftovers",
-      "index": 1709
+      "index": 1711
     }
   },
   "Solgaleo": {
@@ -14324,7 +14354,7 @@ var SETDEX_SV = {
       ],
       "nature": "Naughty",
       "item": "Utility Umbrella",
-      "index": 505
+      "index": 507
     }
   },
   "Pinsir": {
@@ -14339,7 +14369,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Bug Gem",
-      "index": 506
+      "index": 508
     },
     "Bug Maniac Taylor": {
       "level": 74,
@@ -14352,7 +14382,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Pinsirite",
-      "index": 732
+      "index": 734
     }
   },
   "Wormadam-Trash": {
@@ -14367,7 +14397,7 @@ var SETDEX_SV = {
       ],
       "nature": "Relaxed",
       "item": "Sitrus Berry",
-      "index": 507
+      "index": 509
     }
   },
   "Lokix": {
@@ -14382,7 +14412,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Muscle Band",
-      "index": 508
+      "index": 510
     },
     "Cooltrainer Reyna": {
       "level": 95,
@@ -14395,7 +14425,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Life Orb",
-      "index": 1514
+      "index": 1516
     }
   },
   "Kabutops": {
@@ -14410,7 +14440,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Choice Band",
-      "index": 510
+      "index": 512
     },
     "Bug Maniac Brent": {
       "level": 73,
@@ -14423,7 +14453,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Lum Berry",
-      "index": 735
+      "index": 737
     },
     "Cooltrainer Ruben": {
       "level": 87,
@@ -14436,7 +14466,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "White Herb",
-      "index": 1291
+      "index": 1293
     }
   },
   "Tauros-Paldea-Aqua": {
@@ -14451,7 +14481,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Black Belt",
-      "index": 511
+      "index": 513
     },
     "Team Aqua Admin Shelly1": {
       "level": 75,
@@ -14464,7 +14494,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Salac Berry",
-      "index": 813
+      "index": 815
     },
     "Hideout Team Aqua Grunt #2": {
       "level": 82,
@@ -14477,7 +14507,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Bright Powder",
-      "index": 1127
+      "index": 1129
     }
   },
   "Gothitelle": {
@@ -14492,7 +14522,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Heavy-Duty Boots",
-      "index": 513
+      "index": 515
     }
   },
   "Honchkrow": {
@@ -14507,7 +14537,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Dark Gem",
-      "index": 514
+      "index": 516
     },
     "Leader Winona2": {
       "level": 77,
@@ -14520,7 +14550,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Focus Sash",
-      "index": 910
+      "index": 912
     },
     "Hideout Team Magma Grunt #4": {
       "level": 80,
@@ -14533,7 +14563,7 @@ var SETDEX_SV = {
       ],
       "nature": "Brave",
       "item": "Quick Claw",
-      "index": 1074
+      "index": 1076
     }
   },
   "Crabominable-Mega": {
@@ -14548,7 +14578,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Crabominite",
-      "index": 516
+      "index": 518
     }
   },
   "Grimmsnarl": {
@@ -14563,7 +14593,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Mirror Herb",
-      "index": 517
+      "index": 519
     },
     "Sr. And Jr. Kate & Joy": {
       "level": 77,
@@ -14576,7 +14606,7 @@ var SETDEX_SV = {
       ],
       "nature": "Impish",
       "item": "Iapapa Berry",
-      "index": 948
+      "index": 950
     },
     "Elite Four Sidney Singles": {
       "level": 100,
@@ -14589,7 +14619,7 @@ var SETDEX_SV = {
       ],
       "nature": "Impish",
       "item": "Light Clay",
-      "index": 1682
+      "index": 1684
     }
   },
   "Luxray": {
@@ -14604,7 +14634,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Lum Berry",
-      "index": 518
+      "index": 520
     },
     "Cooltrainer Perseid": {
       "level": 80,
@@ -14617,7 +14647,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Air Balloon",
-      "index": 939
+      "index": 941
     },
     "Lilycove Rival Fennekin": {
       "level": 78,
@@ -14630,7 +14660,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Leftovers",
-      "index": 976
+      "index": 978
     }
   },
   "Ceruledge": {
@@ -14645,7 +14675,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Lum Berry",
-      "index": 519
+      "index": 521
     },
     "Team Aqua Admin Shelly1": {
       "level": 75,
@@ -14658,7 +14688,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "White Herb",
-      "index": 812
+      "index": 814
     },
     "Hex Maniac Valerie": {
       "level": 79,
@@ -14671,7 +14701,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Colbur Berry",
-      "index": 1011
+      "index": 1013
     },
     "Team Aqua Admin Shelly2": {
       "level": 91,
@@ -14684,7 +14714,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Heavy-Duty Boots",
-      "index": 1340
+      "index": 1342
     }
   },
   "Houndoom": {
@@ -14699,7 +14729,7 @@ var SETDEX_SV = {
       ],
       "nature": "Naive",
       "item": "Lum Berry",
-      "index": 520
+      "index": 522
     },
     "Leader Flannery": {
       "level": 72,
@@ -14712,7 +14742,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Houndoominite",
-      "index": 663
+      "index": 665
     },
     "Hideout Team Magma Grunt #4": {
       "level": 80,
@@ -14725,7 +14755,7 @@ var SETDEX_SV = {
       ],
       "nature": "Hasty",
       "item": "Expert Belt",
-      "index": 1075
+      "index": 1077
     }
   },
   "Vikavolt": {
@@ -14740,7 +14770,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Salac Berry",
-      "index": 524
+      "index": 526
     },
     "Bug Maniac Taylor": {
       "level": 73,
@@ -14753,7 +14783,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Electric Gem",
-      "index": 727
+      "index": 729
     },
     "Bird Keeper Narth": {
       "level": 76,
@@ -14766,7 +14796,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Covert Cloak",
-      "index": 878
+      "index": 880
     },
     "Naturalist Greta": {
       "level": 99,
@@ -14779,7 +14809,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Occa Berry",
-      "index": 1601
+      "index": 1603
     }
   },
   "Trevenant": {
@@ -14794,7 +14824,7 @@ var SETDEX_SV = {
       ],
       "nature": "Impish",
       "item": "Occa Berry",
-      "index": 525
+      "index": 527
     },
     "Triathlete Talia": {
       "level": 93,
@@ -14807,7 +14837,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Starf Berry",
-      "index": 1399
+      "index": 1401
     }
   },
   "Chandelure": {
@@ -14822,7 +14852,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Choice Scarf",
-      "index": 526
+      "index": 528
     },
     "Team Magma Grunt Coffee": {
       "level": 81,
@@ -14835,7 +14865,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Chandelurite",
-      "index": 1065
+      "index": 1067
     },
     "Cooltrainer Reyna": {
       "level": 95,
@@ -14848,7 +14878,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Ghost Gem",
-      "index": 1515
+      "index": 1517
     },
     "Elite Four Phoebe Singles": {
       "level": 100,
@@ -14869,7 +14899,7 @@ var SETDEX_SV = {
         "sd": "30",
         "sp": "31"
       },
-      "index": 1694
+      "index": 1696
     }
   },
   "Revavroom": {
@@ -14884,7 +14914,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Black Sludge",
-      "index": 527
+      "index": 529
     },
     "Cooltrainer Melodic": {
       "level": 78,
@@ -14897,7 +14927,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Air Balloon",
-      "index": 933
+      "index": 935
     },
     "Lady Daphne": {
       "level": 95,
@@ -14910,7 +14940,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Metal Coat",
-      "index": 1445
+      "index": 1447
     }
   },
   "Gengar": {
@@ -14925,7 +14955,7 @@ var SETDEX_SV = {
       ],
       "nature": "Hasty",
       "item": "Focus Sash",
-      "index": 528
+      "index": 530
     },
     "Blackbelt Tyrone": {
       "level": 79,
@@ -14938,7 +14968,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Gengarite",
-      "index": 997
+      "index": 999
     },
     "Expert Ronald": {
       "level": 95,
@@ -14951,7 +14981,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Colbur Berry",
-      "index": 1417
+      "index": 1419
     },
     "Battle Queen Lucy": {
       "level": 100,
@@ -14964,7 +14994,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Gengarite",
-      "index": 1640
+      "index": 1642
     },
     "Elite Four Phoebe Doubles": {
       "level": 100,
@@ -14977,7 +15007,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Gengarite",
-      "index": 1701
+      "index": 1703
     }
   },
   "Gliscor": {
@@ -14992,7 +15022,7 @@ var SETDEX_SV = {
       ],
       "nature": "Careful",
       "item": "Toxic Orb",
-      "index": 529
+      "index": 531
     },
     "Ninja Boy Alex": {
       "level": 78,
@@ -15005,7 +15035,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Yache Berry",
-      "index": 928
+      "index": 930
     }
   },
   "Overqwil": {
@@ -15020,7 +15050,7 @@ var SETDEX_SV = {
       ],
       "nature": "Careful",
       "item": "Adrenaline Orb",
-      "index": 530
+      "index": 532
     },
     "Bridge Rival Fennekin": {
       "level": 75,
@@ -15033,7 +15063,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Electric Seed",
-      "index": 825
+      "index": 827
     },
     "Hideout Team Aqua Grunt #5": {
       "level": 83,
@@ -15046,7 +15076,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Muscle Band",
-      "index": 1144
+      "index": 1146
     },
     "Swimmer Katie & Swimmer Santiago": {
       "level": 92,
@@ -15059,7 +15089,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Covert Cloak",
-      "index": 1387
+      "index": 1389
     },
     "Elite Four Sidney Singles": {
       "level": 100,
@@ -15072,7 +15102,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Assault Vest",
-      "index": 1681
+      "index": 1683
     },
     "Elite Four Sidney Doubles": {
       "level": 100,
@@ -15085,7 +15115,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Assault Vest",
-      "index": 1688
+      "index": 1690
     }
   },
   "Crobat": {
@@ -15100,7 +15130,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Poison Gem",
-      "index": 531
+      "index": 533
     },
     "Ranger Frank Josh": {
       "level": 77,
@@ -15113,7 +15143,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Heavy-Duty Boots",
-      "index": 883
+      "index": 885
     },
     "Battle Queen Lucy": {
       "level": 100,
@@ -15126,7 +15156,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Life Orb",
-      "index": 1638
+      "index": 1640
     }
   },
   "Samurott-Hisui": {
@@ -15141,7 +15171,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Salac Berry",
-      "index": 532
+      "index": 534
     },
     "Pokefan Annika": {
       "level": 95,
@@ -15154,7 +15184,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Assault Vest",
-      "index": 1440
+      "index": 1442
     },
     "Elite Four Rival Singles": {
       "level": 100,
@@ -15167,7 +15197,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Focus Sash",
-      "index": 1707
+      "index": 1709
     }
   },
   "Necrozma": {
@@ -15182,7 +15212,7 @@ var SETDEX_SV = {
       ],
       "nature": "Sassy",
       "item": "Leftovers",
-      "index": 533
+      "index": 535
     }
   },
   "Hydreigon": {
@@ -15197,7 +15227,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Heavy-Duty Boots",
-      "index": 534
+      "index": 536
     },
     "Cooltrainer Irie": {
       "level": 73,
@@ -15210,7 +15240,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Roseli Berry",
-      "index": 696
+      "index": 698
     },
     "Leader Winona1": {
       "level": 76,
@@ -15223,7 +15253,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Lum Berry",
-      "index": 900
+      "index": 902
     },
     "Lilycove Rival Chespin": {
       "level": 78,
@@ -15236,7 +15266,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Dragon Gem",
-      "index": 968
+      "index": 970
     },
     "Twins Ame & Yuki": {
       "level": 99,
@@ -15249,7 +15279,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Pecha Berry",
-      "index": 1556
+      "index": 1558
     }
   },
   "Rhyperior": {
@@ -15264,7 +15294,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Enigma Berry",
-      "index": 537
+      "index": 539
     },
     "Cooltrainer Bazzo": {
       "level": 94,
@@ -15277,7 +15307,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Leftovers",
-      "index": 1429
+      "index": 1431
     }
   },
   "Iron Moth": {
@@ -15292,7 +15322,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Heavy-Duty Boots",
-      "index": 538
+      "index": 540
     },
     "Bridge Rival Froakie": {
       "level": 75,
@@ -15305,7 +15335,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Booster Energy",
-      "index": 832
+      "index": 834
     },
     "Cooltrainer Yoru": {
       "level": 96,
@@ -15318,7 +15348,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Air Balloon",
-      "index": 1522
+      "index": 1524
     }
   },
   "Blastoise": {
@@ -15341,7 +15371,7 @@ var SETDEX_SV = {
         "sd": "31",
         "sp": "31"
       },
-      "index": 542
+      "index": 544
     },
     "Cooltrainer Garrison": {
       "level": 74,
@@ -15354,7 +15384,7 @@ var SETDEX_SV = {
       ],
       "nature": "Bold",
       "item": "Sitrus Berry",
-      "index": 711
+      "index": 713
     },
     "Fisherman Noxie": {
       "level": 74,
@@ -15367,7 +15397,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Blastoisinite",
-      "index": 746
+      "index": 748
     },
     "Hideout Team Aqua Grunt #4": {
       "level": 83,
@@ -15380,7 +15410,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "White Herb",
-      "index": 1140
+      "index": 1142
     },
     "Swimmer Stem": {
       "level": 92,
@@ -15393,7 +15423,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Blastoisinite",
-      "index": 1382
+      "index": 1384
     }
   },
   "Feraligatr": {
@@ -15408,7 +15438,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Life Orb",
-      "index": 543
+      "index": 545
     },
     "Cooltrainer Carolina & Sailor Cory": {
       "level": 72,
@@ -15421,7 +15451,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Feraligite",
-      "index": 673
+      "index": 675
     }
   },
   "Dragalge": {
@@ -15436,7 +15466,7 @@ var SETDEX_SV = {
       ],
       "nature": "Bold",
       "item": "Expert Belt",
-      "index": 544
+      "index": 546
     },
     "Bug Catcher Kent": {
       "level": 73,
@@ -15449,7 +15479,7 @@ var SETDEX_SV = {
       ],
       "nature": "Relaxed",
       "item": "Dragalgite",
-      "index": 750
+      "index": 752
     }
   },
   "Golduck": {
@@ -15464,7 +15494,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Damp Rock",
-      "index": 545
+      "index": 547
     },
     "Seafloor Team Aqua Grunt #3": {
       "level": 90,
@@ -15477,7 +15507,7 @@ var SETDEX_SV = {
       ],
       "nature": "Naive",
       "item": "Water Gem",
-      "index": 1321
+      "index": 1323
     }
   },
   "Seismitoad": {
@@ -15492,7 +15522,7 @@ var SETDEX_SV = {
       ],
       "nature": "Naive",
       "item": "Rindo Berry",
-      "index": 546
+      "index": 548
     },
     "Sis And Bro Reli & Ian": {
       "level": 89,
@@ -15505,7 +15535,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Salac Berry",
-      "index": 1305
+      "index": 1307
     }
   },
   "Politoed": {
@@ -15520,7 +15550,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Eject Button",
-      "index": 547
+      "index": 549
     },
     "Institute Team Aqua Grunt #1": {
       "level": 75,
@@ -15533,7 +15563,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Focus Band",
-      "index": 788
+      "index": 790
     },
     "Hideout Team Aqua Grunt #5": {
       "level": 83,
@@ -15546,7 +15576,7 @@ var SETDEX_SV = {
       ],
       "nature": "Bold",
       "item": "Damp Rock",
-      "index": 1143
+      "index": 1145
     },
     "Team Rocket Grunt #1": {
       "level": 95,
@@ -15559,7 +15589,7 @@ var SETDEX_SV = {
       ],
       "nature": "Relaxed",
       "item": "Rowap Berry",
-      "index": 1494
+      "index": 1496
     }
   },
   "Ludicolo": {
@@ -15574,7 +15604,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Eject Pack",
-      "index": 548
+      "index": 550
     },
     "Bird Keeper Phil & Parasol Lady Rachel": {
       "level": 74,
@@ -15587,7 +15617,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Life Orb",
-      "index": 766
+      "index": 768
     }
   },
   "Kingdra": {
@@ -15602,7 +15632,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Grip Claw",
-      "index": 549
+      "index": 551
     },
     "Pyre Team Aqua Grunt #2": {
       "level": 80,
@@ -15615,7 +15645,7 @@ var SETDEX_SV = {
       ],
       "nature": "Hasty",
       "item": "Scope Lens",
-      "index": 1038
+      "index": 1040
     },
     "Seafloor Team Aqua Grunt #1": {
       "level": 90,
@@ -15628,7 +15658,7 @@ var SETDEX_SV = {
       ],
       "nature": "Hasty",
       "item": "Yache Berry",
-      "index": 1308
+      "index": 1310
     },
     "Ex Leader Juan": {
       "level": 96,
@@ -15641,7 +15671,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Chesto Berry",
-      "index": 1471
+      "index": 1473
     },
     "Elite Four Drake Doubles": {
       "level": 100,
@@ -15654,7 +15684,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Scope Lens",
-      "index": 1729
+      "index": 1731
     }
   },
   "Vanilluxe": {
@@ -15669,7 +15699,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Icy Rock",
-      "index": 552
+      "index": 554
     }
   },
   "Cetitan": {
@@ -15684,7 +15714,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "White Herb",
-      "index": 553
+      "index": 555
     }
   },
   "Cloyster": {
@@ -15699,7 +15729,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Assault Vest",
-      "index": 554
+      "index": 556
     },
     "Cooltrainer Greg": {
       "level": 76,
@@ -15712,7 +15742,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Wacan Berry",
-      "index": 848
+      "index": 850
     },
     "Lass Andrea": {
       "level": 95,
@@ -15725,7 +15755,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "White Herb",
-      "index": 1433
+      "index": 1435
     }
   },
   "Abomasnow-Mega": {
@@ -15740,7 +15770,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Abomasite",
-      "index": 557
+      "index": 559
     }
   },
   "Mismagius": {
@@ -15755,7 +15785,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Lum Berry",
-      "index": 562
+      "index": 564
     },
     "Psychic Kayla": {
       "level": 79,
@@ -15768,7 +15798,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Expert Belt",
-      "index": 1001
+      "index": 1003
     },
     "Pokemon Trainer Leaf2": {
       "level": 97,
@@ -15781,7 +15811,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Focus Sash",
-      "index": 1547
+      "index": 1549
     },
     "Teacher Anabel": {
       "level": 100,
@@ -15794,7 +15824,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Life Orb",
-      "index": 1668
+      "index": 1670
     }
   },
   "Komala": {
@@ -15809,7 +15839,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Choice Band",
-      "index": 563
+      "index": 565
     }
   },
   "Appletun": {
@@ -15824,7 +15854,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Petaya Berry",
-      "index": 564
+      "index": 566
     }
   },
   "Typhlosion": {
@@ -15839,7 +15869,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Lum Berry",
-      "index": 565
+      "index": 567
     }
   },
   "Scovillain": {
@@ -15854,7 +15884,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Leftovers",
-      "index": 567
+      "index": 569
     },
     "Hiker Eli": {
       "level": 71,
@@ -15867,7 +15897,7 @@ var SETDEX_SV = {
       ],
       "nature": "Hasty",
       "item": "Scovillainite",
-      "index": 630
+      "index": 632
     },
     "Team Magma Grunt Grintoul": {
       "level": 80,
@@ -15880,7 +15910,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Leftovers",
-      "index": 1079
+      "index": 1081
     },
     "Team Magma Leader Maxie2": {
       "level": 82,
@@ -15893,7 +15923,7 @@ var SETDEX_SV = {
       ],
       "nature": "Hasty",
       "item": "Focus Sash",
-      "index": 1118
+      "index": 1120
     },
     "Magma Leader Maxie & Tabitha": {
       "level": 89,
@@ -15906,7 +15936,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "White Herb",
-      "index": 1272
+      "index": 1274
     },
     "Swimmer Susie": {
       "level": 94,
@@ -15927,7 +15957,7 @@ var SETDEX_SV = {
         "sd": "31",
         "sp": "31"
       },
-      "index": 1412
+      "index": 1414
     }
   },
   "Skarmory": {
@@ -15942,7 +15972,7 @@ var SETDEX_SV = {
       ],
       "nature": "Careful",
       "item": "Mental Herb",
-      "index": 568
+      "index": 570
     },
     "Bird Keeper Jared": {
       "level": 76,
@@ -15955,7 +15985,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Skarmorite",
-      "index": 889
+      "index": 891
     }
   },
   "Bruxish": {
@@ -15970,7 +16000,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Water Gem",
-      "index": 569
+      "index": 571
     },
     "Institute Team Aqua Elite Grunt": {
       "level": 75,
@@ -15983,7 +16013,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Bright Powder",
-      "index": 805
+      "index": 807
     },
     "Beauty Bridget & Lady Brianna": {
       "level": 95,
@@ -15996,7 +16026,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Focus Sash",
-      "index": 1450
+      "index": 1452
     }
   },
   "Gardevoir": {
@@ -16011,7 +16041,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Lum Berry",
-      "index": 570
+      "index": 572
     },
     "Psychic Hannah & Hex Maniac Sylvia": {
       "level": 86,
@@ -16024,7 +16054,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Gardevoirite",
-      "index": 1210
+      "index": 1212
     },
     "Rival Wally1": {
       "level": 100,
@@ -16045,7 +16075,7 @@ var SETDEX_SV = {
         "sd": "31",
         "sp": "29"
       },
-      "index": 1571
+      "index": 1573
     }
   },
   "Milotic": {
@@ -16060,7 +16090,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Flame Orb",
-      "index": 571
+      "index": 573
     },
     "Beauty Jessica": {
       "level": 78,
@@ -16073,7 +16103,7 @@ var SETDEX_SV = {
       ],
       "nature": "Relaxed",
       "item": "Leftovers",
-      "index": 945
+      "index": 947
     },
     "Champion Wallace": {
       "level": 100,
@@ -16086,7 +16116,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Power Herb",
-      "index": 1741
+      "index": 1743
     }
   },
   "Mienshao": {
@@ -16101,7 +16131,7 @@ var SETDEX_SV = {
       ],
       "nature": "Hasty",
       "item": "Eject Button",
-      "index": 574
+      "index": 576
     },
     "Partner Rival": {
       "level": 77,
@@ -16122,7 +16152,7 @@ var SETDEX_SV = {
         "sd": "31",
         "sp": "1"
       },
-      "index": 843
+      "index": 845
     }
   },
   "Conkeldurr": {
@@ -16137,7 +16167,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Flame Orb",
-      "index": 575
+      "index": 577
     }
   },
   "Floatzel": {
@@ -16152,7 +16182,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Black Belt",
-      "index": 576
+      "index": 578
     },
     "Institute Team Aqua Grunt #3": {
       "level": 75,
@@ -16165,7 +16195,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Focus Band",
-      "index": 797
+      "index": 799
     },
     "Team Aqua Leader Archie2": {
       "level": 91,
@@ -16178,7 +16208,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Life Orb",
-      "index": 1351
+      "index": 1353
     }
   },
   "Unown": {
@@ -16190,7 +16220,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Choice Specs",
-      "index": 577
+      "index": 579
     }
   },
   "Meowstic": {
@@ -16205,7 +16235,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Meowsticite",
-      "index": 578
+      "index": 580
     },
     "Ninja Boy Hideo": {
       "level": 75,
@@ -16226,7 +16256,7 @@ var SETDEX_SV = {
         "sd": "31",
         "sp": "0"
       },
-      "index": 857
+      "index": 859
     },
     "Gentleman Andreas & Hex Maniac Tina": {
       "level": 86,
@@ -16239,7 +16269,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Jaboca Berry",
-      "index": 1219
+      "index": 1221
     }
   },
   "Meowstic-Mega": {
@@ -16254,7 +16284,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Meowsticite",
-      "index": 579
+      "index": 581
     }
   },
   "Mr. Rime": {
@@ -16269,7 +16299,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Sitrus Berry",
-      "index": 580
+      "index": 582
     },
     "Hideout Team Magma Grunt #4": {
       "level": 81,
@@ -16282,7 +16312,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Berserk Gene",
-      "index": 1076
+      "index": 1078
     }
   },
   "Starmie": {
@@ -16297,7 +16327,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Petaya Berry",
-      "index": 581
+      "index": 583
     },
     "Pyre Team Aqua Grunt #1": {
       "level": 79,
@@ -16310,7 +16340,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Expert Belt",
-      "index": 1034
+      "index": 1036
     },
     "Pokemaniac Symes & Bug Maniac Connor": {
       "level": 86,
@@ -16323,7 +16353,7 @@ var SETDEX_SV = {
       ],
       "nature": "Naive",
       "item": "Starminite",
-      "index": 1196
+      "index": 1198
     },
     "Gentleman Andreas & Hex Maniac Tina": {
       "level": 86,
@@ -16336,7 +16366,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Life Orb",
-      "index": 1220
+      "index": 1222
     },
     "Seafloor Team Aqua Grunt #2": {
       "level": 89,
@@ -16349,7 +16379,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Life Orb",
-      "index": 1314
+      "index": 1316
     },
     "Leader Steven": {
       "level": 95,
@@ -16362,7 +16392,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Heavy-Duty Boots",
-      "index": 1479
+      "index": 1481
     }
   },
   "Alakazam": {
@@ -16377,7 +16407,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Flame Orb",
-      "index": 582
+      "index": 584
     },
     "Cooltrainer Garrison": {
       "level": 73,
@@ -16390,7 +16420,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Alakazite",
-      "index": 712
+      "index": 714
     },
     "Cooltrainer Abobo": {
       "level": 77,
@@ -16403,7 +16433,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Focus Sash",
-      "index": 914
+      "index": 916
     },
     "Gentleman Clifford & Psychic Macey": {
       "level": 86,
@@ -16416,7 +16446,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Alakazite",
-      "index": 1224
+      "index": 1226
     }
   },
   "Forretress": {
@@ -16431,7 +16461,7 @@ var SETDEX_SV = {
       ],
       "nature": "Sassy",
       "item": "Mental Herb",
-      "index": 583
+      "index": 585
     }
   },
   "Dugtrio": {
@@ -16446,7 +16476,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Ground Gem",
-      "index": 586
+      "index": 588
     },
     "Cooltrainer Abobo": {
       "level": 78,
@@ -16459,7 +16489,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Ground Gem",
-      "index": 917
+      "index": 919
     }
   },
   "Bronzong": {
@@ -16482,7 +16512,7 @@ var SETDEX_SV = {
         "sd": "31",
         "sp": "0"
       },
-      "index": 587
+      "index": 589
     }
   },
   "Aggron": {
@@ -16505,7 +16535,7 @@ var SETDEX_SV = {
         "sd": "31",
         "sp": "0"
       },
-      "index": 588
+      "index": 590
     },
     "Cooltrainer Irie": {
       "level": 73,
@@ -16518,7 +16548,7 @@ var SETDEX_SV = {
       ],
       "nature": "Careful",
       "item": "Aggronite",
-      "index": 697
+      "index": 699
     },
     "Triathlete Barron & Stephin": {
       "level": 93,
@@ -16531,7 +16561,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Custap Berry",
-      "index": 1373
+      "index": 1375
     }
   },
   "Copperajah": {
@@ -16554,7 +16584,7 @@ var SETDEX_SV = {
         "sd": "31",
         "sp": "0"
       },
-      "index": 589
+      "index": 591
     },
     "Cooltrainer Ruben": {
       "level": 88,
@@ -16567,7 +16597,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Assault Vest",
-      "index": 1292
+      "index": 1294
     }
   },
   "Celesteela": {
@@ -16582,7 +16612,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Assault Vest",
-      "index": 590
+      "index": 592
     }
   },
   "Thievul": {
@@ -16597,7 +16627,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Expert Belt",
-      "index": 591
+      "index": 593
     },
     "Hideout Team Magma Grunt #1": {
       "level": 80,
@@ -16610,7 +16640,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Rawst Berry",
-      "index": 1057
+      "index": 1059
     }
   },
   "Cofagrigus": {
@@ -16625,7 +16655,7 @@ var SETDEX_SV = {
       ],
       "nature": "Sassy",
       "item": "Focus Band",
-      "index": 592
+      "index": 594
     },
     "Blackbelt Tyrone": {
       "level": 79,
@@ -16638,7 +16668,7 @@ var SETDEX_SV = {
       ],
       "nature": "Careful",
       "item": "Sitrus Berry",
-      "index": 994
+      "index": 996
     }
   },
   "Swalot": {
@@ -16653,7 +16683,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Starf Berry",
-      "index": 594
+      "index": 596
     },
     "Team Rocket Grunt #3": {
       "level": 95,
@@ -16666,7 +16696,7 @@ var SETDEX_SV = {
       ],
       "nature": "Naive",
       "item": "Starf Berry",
-      "index": 1505
+      "index": 1507
     }
   },
   "Manectric-Mega": {
@@ -16689,7 +16719,7 @@ var SETDEX_SV = {
         "sd": "31",
         "sp": "31"
       },
-      "index": 596
+      "index": 598
     },
     "Beauty Bridget & Lady Brianna": {
       "level": 95,
@@ -16710,7 +16740,7 @@ var SETDEX_SV = {
         "sd": "31",
         "sp": "31"
       },
-      "index": 1449
+      "index": 1451
     }
   },
   "Noivern": {
@@ -16725,7 +16755,7 @@ var SETDEX_SV = {
       ],
       "nature": "Hasty",
       "item": "Bug Gem",
-      "index": 597
+      "index": 599
     },
     "Pyre Team Aqua Grunt #5": {
       "level": 80,
@@ -16738,7 +16768,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Choice Specs",
-      "index": 1052
+      "index": 1054
     },
     "Swimmer Katie & Swimmer Santiago": {
       "level": 93,
@@ -16751,7 +16781,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Life Orb",
-      "index": 1385
+      "index": 1387
     }
   },
   "Incineroar": {
@@ -16766,7 +16796,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Muscle Band",
-      "index": 599
+      "index": 601
     },
     "Hiker Eli": {
       "level": 71,
@@ -16779,7 +16809,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Assault Vest",
-      "index": 629
+      "index": 631
     },
     "Space Center Team Magma Elite Grunt": {
       "level": 86,
@@ -16792,7 +16822,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Mental Herb",
-      "index": 1247
+      "index": 1249
     },
     "Elite Four Rival Doubles": {
       "level": 100,
@@ -16805,7 +16835,7 @@ var SETDEX_SV = {
       ],
       "nature": "Careful",
       "item": "Heavy-Duty Boots",
-      "index": 1716
+      "index": 1718
     }
   },
   "Lickilicky": {
@@ -16820,7 +16850,7 @@ var SETDEX_SV = {
       ],
       "nature": "Relaxed",
       "item": "Assault Vest",
-      "index": 600
+      "index": 602
     }
   },
   "Latias": {
@@ -16835,7 +16865,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Fire Gem",
-      "index": 601
+      "index": 603
     },
     "Team Magma Admin Tabitha2": {
       "level": 82,
@@ -16848,7 +16878,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Latiasite",
-      "index": 1109
+      "index": 1111
     }
   },
   "Scizor": {
@@ -16863,7 +16893,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Scizorite",
-      "index": 606
+      "index": 608
     },
     "Ranger Frank Josh": {
       "level": 76,
@@ -16876,7 +16906,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Muscle Band",
-      "index": 880
+      "index": 882
     },
     "Team Magma Admin Tabitha2": {
       "level": 82,
@@ -16889,7 +16919,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Leftovers",
-      "index": 1111
+      "index": 1113
     },
     "Magma Leader Maxie & Tabitha": {
       "level": 90,
@@ -16902,7 +16932,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Scizorite",
-      "index": 1275
+      "index": 1277
     },
     "Seafloor Team Aqua Grunt #1": {
       "level": 89,
@@ -16915,7 +16945,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Choice Band",
-      "index": 1307
+      "index": 1309
     },
     "Naturalist Greta": {
       "level": 99,
@@ -16928,7 +16958,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Silver Powder",
-      "index": 1610
+      "index": 1612
     }
   },
   "Scizor-Mega": {
@@ -16943,7 +16973,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Scizorite",
-      "index": 607
+      "index": 609
     },
     "Magma Leader Maxie & Tabitha": {
       "level": 90,
@@ -16955,8 +16985,8 @@ var SETDEX_SV = {
         "Tailwind"
       ],
       "nature": "Adamant",
-      "item": "heldItem",
-      "index": 1276
+      "item": "Scizorite",
+      "index": 1278
     },
     "Naturalist Greta": {
       "level": 99,
@@ -16968,8 +16998,8 @@ var SETDEX_SV = {
         "Swords Dance"
       ],
       "nature": "Jolly",
-      "item": "heldItem",
-      "index": 1604
+      "item": "Scizorite",
+      "index": 1606
     }
   },
   "Koraidon": {
@@ -16984,7 +17014,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Fire Gem",
-      "index": 608
+      "index": 610
     },
     "Team Magma Leader Maxie2": {
       "level": 82,
@@ -16997,7 +17027,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Eject Button",
-      "index": 1119
+      "index": 1121
     },
     "Magma Leader Maxie & Tabitha": {
       "level": 90,
@@ -17010,7 +17040,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Life Orb",
-      "index": 1271
+      "index": 1273
     }
   },
   "Garbodor": {
@@ -17025,7 +17055,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Shuca Berry",
-      "index": 609
+      "index": 611
     }
   },
   "Escavalier": {
@@ -17040,7 +17070,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Assault Vest",
-      "index": 611
+      "index": 613
     },
     "Bridge Rival Froakie": {
       "level": 76,
@@ -17053,7 +17083,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Enigma Berry",
-      "index": 834
+      "index": 836
     }
   },
   "Avalugg": {
@@ -17068,7 +17098,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Iapapa Berry",
-      "index": 612
+      "index": 614
     }
   },
   "Victreebel": {
@@ -17083,7 +17113,7 @@ var SETDEX_SV = {
       ],
       "nature": "Naughty",
       "item": "Victreebelite",
-      "index": 614
+      "index": 616
     },
     "Bridge Rival Chespin": {
       "level": 75,
@@ -17096,7 +17126,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Grassy Seed",
-      "index": 819
+      "index": 821
     }
   },
   "Victreebel-Mega": {
@@ -17111,7 +17141,7 @@ var SETDEX_SV = {
       ],
       "nature": "Naughty",
       "item": "Victreebelite",
-      "index": 615
+      "index": 617
     }
   },
   "Gourgeist": {
@@ -17126,7 +17156,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Occa Berry",
-      "index": 616
+      "index": 618
     },
     "Hex Maniac Tasha": {
       "level": 79,
@@ -17139,7 +17169,7 @@ var SETDEX_SV = {
       ],
       "nature": "Impish",
       "item": "Kasib Berry",
-      "index": 1009
+      "index": 1011
     }
   },
   "Shiftry": {
@@ -17154,7 +17184,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Focus Band",
-      "index": 618
+      "index": 620
     },
     "Camper Flint & Bird Keeper Edwardo": {
       "level": 77,
@@ -17167,7 +17197,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Sitrus Berry",
-      "index": 868
+      "index": 870
     },
     "Hideout Team Magma Grunt #3": {
       "level": 80,
@@ -17180,7 +17210,7 @@ var SETDEX_SV = {
       ],
       "nature": "Hasty",
       "item": "Bright Powder",
-      "index": 1068
+      "index": 1070
     },
     "Natural Guru Spenser": {
       "level": 99,
@@ -17193,7 +17223,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Focus Sash",
-      "index": 1617
+      "index": 1619
     }
   },
   "Cinccino": {
@@ -17208,7 +17238,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Loaded Dice",
-      "index": 619
+      "index": 621
     },
     "Beauty Thalia": {
       "level": 73,
@@ -17221,7 +17251,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Clear Amulet",
-      "index": 677
+      "index": 679
     }
   },
   "Tinkaton": {
@@ -17236,7 +17266,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Sitrus Berry",
-      "index": 620
+      "index": 622
     },
     "Team Magma Grunt Grintoul": {
       "level": 80,
@@ -17249,7 +17279,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Berserk Gene",
-      "index": 1080
+      "index": 1082
     }
   },
   "Rotom-Fan": {
@@ -17264,7 +17294,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Leftovers",
-      "index": 621
+      "index": 623
     },
     "Bird Keeper Dayton": {
       "level": 75,
@@ -17277,7 +17307,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Iapapa Berry",
-      "index": 772
+      "index": 774
     }
   },
   "Ribombee": {
@@ -17292,7 +17322,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Heavy-Duty Boots",
-      "index": 622
+      "index": 624
     },
     "Cooltrainer Abobo": {
       "level": 78,
@@ -17305,7 +17335,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Coba Berry",
-      "index": 918
+      "index": 920
     }
   },
   "Relicanth": {
@@ -17319,7 +17349,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Custap Berry",
-      "index": 623
+      "index": 625
     },
     "Triathlete Allison": {
       "level": 92,
@@ -17332,7 +17362,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Rindo Berry",
-      "index": 1364
+      "index": 1366
     }
   },
   "Amoonguss": {
@@ -17347,7 +17377,7 @@ var SETDEX_SV = {
       ],
       "nature": "Bold",
       "item": "Black Sludge",
-      "index": 624
+      "index": 626
     }
   },
   "Tauros": {
@@ -17362,7 +17392,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Chople Berry",
-      "index": 625
+      "index": 627
     },
     "Team Rocket Grunt #3": {
       "level": 95,
@@ -17375,7 +17405,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Normal Gem",
-      "index": 1507
+      "index": 1509
     }
   },
   "Lycanroc-Dusk": {
@@ -17390,7 +17420,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Expert Belt",
-      "index": 626
+      "index": 628
     }
   },
   "Sandy Shocks": {
@@ -17405,7 +17435,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Heavy-Duty Boots",
-      "index": 628
+      "index": 630
     },
     "Team Magma Leader Maxie2": {
       "level": 81,
@@ -17418,7 +17448,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Fire Gem",
-      "index": 1120
+      "index": 1122
     }
   },
   "Scovillain-Mega": {
@@ -17433,7 +17463,7 @@ var SETDEX_SV = {
       ],
       "nature": "Hasty",
       "item": "Scovillainite",
-      "index": 631
+      "index": 633
     },
     "Swimmer Susie": {
       "level": 94,
@@ -17454,7 +17484,7 @@ var SETDEX_SV = {
         "sd": "31",
         "sp": "31"
       },
-      "index": 1413
+      "index": 1415
     }
   },
   "Haxorus": {
@@ -17469,7 +17499,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Fire Gem",
-      "index": 632
+      "index": 634
     },
     "Cooltrainer Irie": {
       "level": 74,
@@ -17482,7 +17512,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Blunder Policy",
-      "index": 699
+      "index": 701
     }
   },
   "Infernape": {
@@ -17497,7 +17527,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Punching Glove",
-      "index": 633
+      "index": 635
     },
     "Hideout Magma Grunt #6 & #7": {
       "level": 81,
@@ -17510,7 +17540,7 @@ var SETDEX_SV = {
       ],
       "nature": "Naive",
       "item": "Covert Cloak",
-      "index": 1084
+      "index": 1086
     },
     "Elite Four Phoebe Doubles": {
       "level": 100,
@@ -17523,7 +17553,7 @@ var SETDEX_SV = {
       ],
       "nature": "Hasty",
       "item": "Eject Pack",
-      "index": 1700
+      "index": 1702
     }
   },
   "Magmortar": {
@@ -17538,7 +17568,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Assault Vest",
-      "index": 635
+      "index": 637
     },
     "Hideout Magma Grunt #6 & #7": {
       "level": 80,
@@ -17551,7 +17581,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Choice Specs",
-      "index": 1082
+      "index": 1084
     }
   },
   "Cherrim": {
@@ -17566,7 +17596,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Focus Sash",
-      "index": 638
+      "index": 640
     },
     "Triathlete Barron & Stephin": {
       "level": 92,
@@ -17579,7 +17609,7 @@ var SETDEX_SV = {
       ],
       "nature": "Bold",
       "item": "Covert Cloak",
-      "index": 1371
+      "index": 1373
     }
   },
   "Tangrowth": {
@@ -17594,7 +17624,7 @@ var SETDEX_SV = {
       ],
       "nature": "Hasty",
       "item": "Occa Berry",
-      "index": 640
+      "index": 642
     },
     "Ninja Boy Terror": {
       "level": 75,
@@ -17607,7 +17637,7 @@ var SETDEX_SV = {
       ],
       "nature": "Sassy",
       "item": "Assault Vest",
-      "index": 780
+      "index": 782
     }
   },
   "Dragapult": {
@@ -17622,7 +17652,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Wise Glasses",
-      "index": 644
+      "index": 646
     },
     "Psychic Cedric": {
       "level": 80,
@@ -17635,7 +17665,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Leftovers",
-      "index": 1028
+      "index": 1030
     },
     "Seafloor Team Aqua Grunt #2": {
       "level": 90,
@@ -17648,7 +17678,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Binding Band",
-      "index": 1316
+      "index": 1318
     },
     "Expert Makayla": {
       "level": 94,
@@ -17661,7 +17691,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Spell Tag",
-      "index": 1421
+      "index": 1423
     }
   },
   "Volcarona": {
@@ -17676,7 +17706,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Heavy-Duty Boots",
-      "index": 646
+      "index": 648
     },
     "Ranger Nick": {
       "level": 74,
@@ -17697,7 +17727,7 @@ var SETDEX_SV = {
         "sd": "31",
         "sp": "30"
       },
-      "index": 762
+      "index": 764
     },
     "Hideout Team Magma Grunt #9": {
       "level": 81,
@@ -17710,7 +17740,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Bright Powder",
-      "index": 1095
+      "index": 1097
     },
     "Kindler Kos": {
       "level": 98,
@@ -17723,7 +17753,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Heavy-Duty Boots",
-      "index": 1533
+      "index": 1535
     }
   },
   "Darmanitan-Galar": {
@@ -17738,7 +17768,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Life Orb",
-      "index": 650
+      "index": 652
     },
     "Hideout Team Magma Grunt #3": {
       "level": 80,
@@ -17751,7 +17781,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Focus Band",
-      "index": 1069
+      "index": 1071
     },
     "Pokefan Annika": {
       "level": 95,
@@ -17764,7 +17794,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Choice Scarf",
-      "index": 1441
+      "index": 1443
     }
   },
   "Silvally-Ice": {
@@ -17779,7 +17809,7 @@ var SETDEX_SV = {
       ],
       "nature": "Naive",
       "item": "Ice Memory",
-      "index": 651
+      "index": 653
     }
   },
   "Flareon": {
@@ -17794,7 +17824,7 @@ var SETDEX_SV = {
       ],
       "nature": "Naive",
       "item": "Ice Gem",
-      "index": 652
+      "index": 654
     },
     "Hideout Team Magma Elite Grunt": {
       "level": 80,
@@ -17807,7 +17837,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Fire Gem",
-      "index": 1104
+      "index": 1106
     },
     "Triathlete Talia": {
       "level": 94,
@@ -17818,7 +17848,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Choice Band",
-      "index": 1401
+      "index": 1403
     }
   },
   "Weezing-Galar": {
@@ -17833,7 +17863,7 @@ var SETDEX_SV = {
       ],
       "nature": "Careful",
       "item": "Terrain Extender",
-      "index": 653
+      "index": 655
     }
   },
   "Turtonator": {
@@ -17848,7 +17878,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Misty Seed",
-      "index": 655
+      "index": 657
     },
     "Space Center Team Magma Grunt #5": {
       "level": 86,
@@ -17858,7 +17888,7 @@ var SETDEX_SV = {
       ],
       "nature": "Brave",
       "item": "Quick Claw",
-      "index": 1260
+      "index": 1262
     }
   },
   "Drifblim": {
@@ -17873,7 +17903,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Flame Orb",
-      "index": 656
+      "index": 658
     },
     "Gentleman Clifford & Psychic Macey": {
       "level": 86,
@@ -17886,7 +17916,7 @@ var SETDEX_SV = {
       ],
       "nature": "Naive",
       "item": "Weakness Policy",
-      "index": 1227
+      "index": 1229
     }
   },
   "Volcanion": {
@@ -17901,7 +17931,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Heavy-Duty Boots",
-      "index": 657
+      "index": 659
     },
     "Champion Wallace": {
       "level": 100,
@@ -17914,7 +17944,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Assault Vest",
-      "index": 1738
+      "index": 1740
     }
   },
   "Ho-Oh": {
@@ -17929,7 +17959,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Heavy-Duty Boots",
-      "index": 660
+      "index": 662
     },
     "Space Center Team Magma Grunt #1": {
       "level": 86,
@@ -17942,7 +17972,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Bright Powder",
-      "index": 1240
+      "index": 1242
     }
   },
   "Brute Bonnet": {
@@ -17957,7 +17987,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Utility Umbrella",
-      "index": 661
+      "index": 663
     }
   },
   "Skeledirge": {
@@ -17972,7 +18002,7 @@ var SETDEX_SV = {
       ],
       "nature": "Calm",
       "item": "Weakness Policy",
-      "index": 662
+      "index": 664
     },
     "Swimmer Byonemil": {
       "level": 85,
@@ -17993,7 +18023,7 @@ var SETDEX_SV = {
         "sd": "31",
         "sp": "0"
       },
-      "index": 1169
+      "index": 1171
     }
   },
   "Houndoom-Mega": {
@@ -18008,7 +18038,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Houndoominite",
-      "index": 664
+      "index": 666
     }
   },
   "Empoleon": {
@@ -18023,7 +18053,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Custap Berry",
-      "index": 665
+      "index": 667
     },
     "Pokefan Bobertclef": {
       "level": 95,
@@ -18036,7 +18066,7 @@ var SETDEX_SV = {
       ],
       "nature": "Bold",
       "item": "Binding Band",
-      "index": 1464
+      "index": 1466
     }
   },
   "Dragonite": {
@@ -18051,7 +18081,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Binding Band",
-      "index": 666
+      "index": 668
     },
     "Cooltrainer Melodic": {
       "level": 80,
@@ -18064,7 +18094,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Weakness Policy",
-      "index": 935
+      "index": 937
     },
     "Lilycove Rival Fennekin": {
       "level": 78,
@@ -18077,7 +18107,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Dragon Gem",
-      "index": 975
+      "index": 977
     },
     "Space Center Team Magma Grunt #4": {
       "level": 86,
@@ -18090,7 +18120,7 @@ var SETDEX_SV = {
       ],
       "nature": "Impish",
       "item": "Heavy-Duty Boots",
-      "index": 1255
+      "index": 1257
     },
     "Swimmer Reed": {
       "level": 91,
@@ -18103,7 +18133,7 @@ var SETDEX_SV = {
       ],
       "nature": "Naive",
       "item": "Dragoninite",
-      "index": 1361
+      "index": 1363
     },
     "Elite Four Drake Singles": {
       "level": 100,
@@ -18116,7 +18146,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Dragoninite",
-      "index": 1726
+      "index": 1728
     }
   },
   "Dhelmise": {
@@ -18131,7 +18161,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Grip Claw",
-      "index": 667
+      "index": 669
     },
     "Psychic Cedric": {
       "level": 79,
@@ -18144,7 +18174,7 @@ var SETDEX_SV = {
       ],
       "nature": "Brave",
       "item": "Steel Gem",
-      "index": 1027
+      "index": 1029
     },
     "Champion Wallace": {
       "level": 100,
@@ -18157,7 +18187,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Binding Band",
-      "index": 1736
+      "index": 1738
     }
   },
   "Tatsugiri-Mega": {
@@ -18172,7 +18202,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Tatsugirinite",
-      "index": 669
+      "index": 671
     }
   },
   "Dondozo": {
@@ -18187,7 +18217,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Covert Cloak",
-      "index": 672
+      "index": 674
     },
     "Fisherman Noxie": {
       "level": 73,
@@ -18200,7 +18230,7 @@ var SETDEX_SV = {
       ],
       "nature": "Careful",
       "item": "Leftovers",
-      "index": 743
+      "index": 745
     },
     "Sis And Bro Reli & Ian": {
       "level": 90,
@@ -18213,7 +18243,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Covert Cloak",
-      "index": 1300
+      "index": 1302
     }
   },
   "Feraligatr-Mega": {
@@ -18228,7 +18258,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Feraligite",
-      "index": 674
+      "index": 676
     }
   },
   "Porygon2": {
@@ -18243,7 +18273,7 @@ var SETDEX_SV = {
       ],
       "nature": "Bold",
       "item": "Eviolite",
-      "index": 675
+      "index": 677
     }
   },
   "Falinks-Mega": {
@@ -18258,7 +18288,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Falinksite",
-      "index": 680
+      "index": 682
     }
   },
   "Scolipede": {
@@ -18281,7 +18311,7 @@ var SETDEX_SV = {
         "sd": "31",
         "sp": "0"
       },
-      "index": 685
+      "index": 687
     },
     "Bug Maniac Taylor": {
       "level": 73,
@@ -18294,7 +18324,7 @@ var SETDEX_SV = {
       ],
       "nature": "Careful",
       "item": "Rocky Helmet",
-      "index": 728
+      "index": 730
     },
     "Cooltrainer Yoru": {
       "level": 95,
@@ -18307,7 +18337,7 @@ var SETDEX_SV = {
       ],
       "nature": "Careful",
       "item": "Starf Berry",
-      "index": 1518
+      "index": 1520
     }
   },
   "Scolipede-Mega": {
@@ -18330,7 +18360,7 @@ var SETDEX_SV = {
         "sd": "31",
         "sp": "0"
       },
-      "index": 686
+      "index": 688
     }
   },
   "Spiritomb": {
@@ -18345,7 +18375,7 @@ var SETDEX_SV = {
       ],
       "nature": "Careful",
       "item": "Leftovers",
-      "index": 687
+      "index": 689
     }
   },
   "Aegislash-Shield": {
@@ -18360,7 +18390,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Leftovers",
-      "index": 688
+      "index": 690
     },
     "Beauty Bridget & Lady Brianna": {
       "level": 95,
@@ -18373,7 +18403,7 @@ var SETDEX_SV = {
       ],
       "nature": "Quiet",
       "item": "Leftovers",
-      "index": 1451
+      "index": 1453
     }
   },
   "Okidogi": {
@@ -18388,7 +18418,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Clear Amulet",
-      "index": 689
+      "index": 691
     }
   },
   "Pyroar-Mega": {
@@ -18403,7 +18433,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Pyroarite",
-      "index": 692
+      "index": 694
     }
   },
   "Aggron-Mega": {
@@ -18418,7 +18448,7 @@ var SETDEX_SV = {
       ],
       "nature": "Careful",
       "item": "Aggronite",
-      "index": 698
+      "index": 700
     }
   },
   "Glimmora": {
@@ -18433,7 +18463,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Air Balloon",
-      "index": 700
+      "index": 702
     },
     "Expert Cash": {
       "level": 87,
@@ -18446,7 +18476,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Glimmoranite",
-      "index": 1177
+      "index": 1179
     },
     "Space Center Team Magma Grunt #1": {
       "level": 86,
@@ -18459,7 +18489,7 @@ var SETDEX_SV = {
       ],
       "nature": "Quiet",
       "item": "Quick Claw",
-      "index": 1235
+      "index": 1237
     },
     "Expert Qspec": {
       "level": 88,
@@ -18472,7 +18502,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Air Balloon",
-      "index": 1293
+      "index": 1295
     }
   },
   "Sableye-Mega": {
@@ -18487,7 +18517,7 @@ var SETDEX_SV = {
       ],
       "nature": "Sassy",
       "item": "Sablenite",
-      "index": 702
+      "index": 704
     }
   },
   "Hydrapple": {
@@ -18502,7 +18532,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Maranga Berry",
-      "index": 703
+      "index": 705
     },
     "Cooltrainer Marcel": {
       "level": 78,
@@ -18515,7 +18545,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Roseli Berry",
-      "index": 958
+      "index": 960
     },
     "Expert Niklas": {
       "level": 96,
@@ -18528,7 +18558,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Binding Band",
-      "index": 1525
+      "index": 1527
     }
   },
   "Annihilape": {
@@ -18543,7 +18573,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Salac Berry",
-      "index": 705
+      "index": 707
     },
     "Expert Ronald": {
       "level": 94,
@@ -18556,7 +18586,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Iapapa Berry",
-      "index": 1415
+      "index": 1417
     }
   },
   "Kingambit": {
@@ -18571,7 +18601,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Dark Gem",
-      "index": 706
+      "index": 708
     },
     "Hideout Team Magma Grunt #4": {
       "level": 80,
@@ -18584,7 +18614,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Dark Gem",
-      "index": 1073
+      "index": 1075
     },
     "Youngster Des": {
       "level": 96,
@@ -18597,7 +18627,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Life Orb",
-      "index": 1539
+      "index": 1541
     },
     "Elite Four Sidney Singles": {
       "level": 100,
@@ -18610,7 +18640,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Chople Berry",
-      "index": 1685
+      "index": 1687
     },
     "Elite Four Sidney Doubles": {
       "level": 100,
@@ -18623,7 +18653,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Chople Berry",
-      "index": 1692
+      "index": 1694
     }
   },
   "Oranguru": {
@@ -18638,7 +18668,7 @@ var SETDEX_SV = {
       ],
       "nature": "Bold",
       "item": "Light Clay",
-      "index": 708
+      "index": 710
     },
     "Leader Tate & Liza": {
       "level": 86,
@@ -18651,7 +18681,7 @@ var SETDEX_SV = {
       ],
       "nature": "Bold",
       "item": "Focus Sash",
-      "index": 1230
+      "index": 1232
     }
   },
   "Mamoswine": {
@@ -18666,7 +18696,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Rock Gem",
-      "index": 710
+      "index": 712
     },
     "Lady Daphne": {
       "level": 95,
@@ -18679,7 +18709,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Focus Sash",
-      "index": 1442
+      "index": 1444
     },
     "Ex Elite Four Glacia2": {
       "level": 99,
@@ -18692,7 +18722,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Focus Sash",
-      "index": 1561
+      "index": 1563
     }
   },
   "Alakazam-Mega": {
@@ -18707,7 +18737,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Alakazite",
-      "index": 713
+      "index": 715
     },
     "Gentleman Clifford & Psychic Macey": {
       "level": 86,
@@ -18719,8 +18749,8 @@ var SETDEX_SV = {
         "Power Split"
       ],
       "nature": "Modest",
-      "item": "heldItem",
-      "index": 1225
+      "item": "Alakazite",
+      "index": 1227
     }
   },
   "Meganium-Mega": {
@@ -18735,7 +18765,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Meganiumite",
-      "index": 715
+      "index": 717
     }
   },
   "Inteleon": {
@@ -18750,7 +18780,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Focus Sash",
-      "index": 718
+      "index": 720
     },
     "Seafloor Team Aqua Grunt #1": {
       "level": 90,
@@ -18763,7 +18793,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Scope Lens",
-      "index": 1311
+      "index": 1313
     },
     "Pokefan Bethany": {
       "level": 95,
@@ -18776,7 +18806,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Light Clay",
-      "index": 1456
+      "index": 1458
     },
     "Expert Niklas": {
       "level": 96,
@@ -18789,7 +18819,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Water Gem",
-      "index": 1524
+      "index": 1526
     }
   },
   "Swanna": {
@@ -18804,7 +18834,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Iapapa Berry",
-      "index": 719
+      "index": 721
     },
     "Rival Wally3": {
       "level": 99,
@@ -18817,7 +18847,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Ice Gem",
-      "index": 1581
+      "index": 1583
     }
   },
   "Frosmoth": {
@@ -18832,7 +18862,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Wise Glasses",
-      "index": 720
+      "index": 722
     },
     "Bridge Rival Fennekin": {
       "level": 76,
@@ -18845,7 +18875,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Enigma Berry",
-      "index": 828
+      "index": 830
     },
     "Swimmer Stem": {
       "level": 92,
@@ -18858,7 +18888,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Babiri Berry",
-      "index": 1379
+      "index": 1381
     }
   },
   "Venusaur": {
@@ -18873,7 +18903,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Luminous Moss",
-      "index": 721
+      "index": 723
     },
     "Team Aqua Grunt Gren": {
       "level": 91,
@@ -18886,7 +18916,7 @@ var SETDEX_SV = {
       ],
       "nature": "Bold",
       "item": "Venusaurite",
-      "index": 1335
+      "index": 1337
     },
     "Kindler Kos": {
       "level": 97,
@@ -18899,7 +18929,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Coba Berry",
-      "index": 1534
+      "index": 1536
     },
     "Natural Guru Spenser": {
       "level": 100,
@@ -18912,7 +18942,7 @@ var SETDEX_SV = {
       ],
       "nature": "Calm",
       "item": "Venusaurite",
-      "index": 1626
+      "index": 1628
     }
   },
   "Basculegion-F": {
@@ -18927,7 +18957,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Mystic Water",
-      "index": 722
+      "index": 724
     },
     "Team Aqua Admin Shelly2": {
       "level": 91,
@@ -18940,7 +18970,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Blunder Policy",
-      "index": 1339
+      "index": 1341
     },
     "Twins Ame & Yuki": {
       "level": 98,
@@ -18953,7 +18983,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Focus Sash",
-      "index": 1555
+      "index": 1557
     }
   },
   "Salamence": {
@@ -18968,7 +18998,7 @@ var SETDEX_SV = {
       ],
       "nature": "Hasty",
       "item": "White Herb",
-      "index": 725
+      "index": 727
     },
     "Lilycove Rival Froakie": {
       "level": 78,
@@ -18981,7 +19011,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Dragon Gem",
-      "index": 982
+      "index": 984
     },
     "Teacher Anabel": {
       "level": 100,
@@ -18994,7 +19024,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Heavy-Duty Boots",
-      "index": 1666
+      "index": 1668
     },
     "Elite Four Drake Doubles": {
       "level": 100,
@@ -19007,7 +19037,7 @@ var SETDEX_SV = {
       ],
       "nature": "Naive",
       "item": "Salamencite",
-      "index": 1733
+      "index": 1735
     }
   },
   "Corviknight": {
@@ -19022,7 +19052,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Mirror Herb",
-      "index": 726
+      "index": 728
     },
     "Leader Winona1": {
       "level": 77,
@@ -19035,7 +19065,7 @@ var SETDEX_SV = {
       ],
       "nature": "Careful",
       "item": "Leftovers",
-      "index": 901
+      "index": 903
     }
   },
   "Pinsir-Mega": {
@@ -19050,7 +19080,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Pinsirite",
-      "index": 733
+      "index": 735
     }
   },
   "Genesect-Shock": {
@@ -19065,7 +19095,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Shock Drive",
-      "index": 738
+      "index": 740
     }
   },
   "Beedrill-Mega": {
@@ -19080,7 +19110,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Beedrillite",
-      "index": 740
+      "index": 742
     }
   },
   "Mantine": {
@@ -19095,7 +19125,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Heavy-Duty Boots",
-      "index": 741
+      "index": 743
     },
     "Swimmer Reed": {
       "level": 91,
@@ -19108,7 +19138,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Flying Gem",
-      "index": 1358
+      "index": 1360
     }
   },
   "Zeraora": {
@@ -19123,7 +19153,7 @@ var SETDEX_SV = {
       ],
       "nature": "Quiet",
       "item": "Flying Gem",
-      "index": 745
+      "index": 747
     },
     "Beauty Bridget & Lady Brianna": {
       "level": 95,
@@ -19136,7 +19166,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Zeraorite",
-      "index": 1453
+      "index": 1455
     }
   },
   "Blastoise-Mega": {
@@ -19151,7 +19181,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Blastoisinite",
-      "index": 747
+      "index": 749
     },
     "Swimmer Stem": {
       "level": 92,
@@ -19163,8 +19193,8 @@ var SETDEX_SV = {
         "Dark Pulse"
       ],
       "nature": "Timid",
-      "item": "heldItem",
-      "index": 1383
+      "item": "Blastoisinite",
+      "index": 1385
     }
   },
   "Tapu Bulu": {
@@ -19179,7 +19209,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Big Root",
-      "index": 748
+      "index": 750
     }
   },
   "Crawdaunt": {
@@ -19194,7 +19224,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Heavy-Duty Boots",
-      "index": 749
+      "index": 751
     },
     "Swimmer Byonemil": {
       "level": 85,
@@ -19215,7 +19245,7 @@ var SETDEX_SV = {
         "sd": "31",
         "sp": "0"
       },
-      "index": 1171
+      "index": 1173
     }
   },
   "Dragalge-Mega": {
@@ -19230,7 +19260,7 @@ var SETDEX_SV = {
       ],
       "nature": "Relaxed",
       "item": "Dragalgite",
-      "index": 751
+      "index": 753
     }
   },
   "Wailord": {
@@ -19245,7 +19275,7 @@ var SETDEX_SV = {
       ],
       "nature": "Hasty",
       "item": "Water Gem",
-      "index": 753
+      "index": 755
     }
   },
   "Jolteon": {
@@ -19260,7 +19290,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Leftovers",
-      "index": 755
+      "index": 757
     }
   },
   "Slurpuff": {
@@ -19275,7 +19305,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Grassy Seed",
-      "index": 756
+      "index": 758
     },
     "Swimmer Kara": {
       "level": 93,
@@ -19288,7 +19318,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Wise Glasses",
-      "index": 1403
+      "index": 1405
     }
   },
   "Serperior": {
@@ -19303,7 +19333,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Ability Shield",
-      "index": 757
+      "index": 759
     },
     "Lady Daphne": {
       "level": 95,
@@ -19324,7 +19354,7 @@ var SETDEX_SV = {
         "sd": "31",
         "sp": "30"
       },
-      "index": 1444
+      "index": 1446
     }
   },
   "Sinistcha": {
@@ -19339,7 +19369,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Grass Gem",
-      "index": 764
+      "index": 766
     },
     "Breeder Gabrielle": {
       "level": 80,
@@ -19352,7 +19382,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "White Herb",
-      "index": 1024
+      "index": 1026
     },
     "Psychic Virgil & Psychic Nate": {
       "level": 86,
@@ -19373,7 +19403,7 @@ var SETDEX_SV = {
         "sd": "31",
         "sp": "0"
       },
-      "index": 1202
+      "index": 1204
     },
     "Elite Four Phoebe Doubles": {
       "level": 100,
@@ -19386,7 +19416,7 @@ var SETDEX_SV = {
       ],
       "nature": "Calm",
       "item": "Iapapa Berry",
-      "index": 1703
+      "index": 1705
     }
   },
   "Wo-Chien": {
@@ -19401,7 +19431,7 @@ var SETDEX_SV = {
       ],
       "nature": "Bold",
       "item": "Leftovers",
-      "index": 765
+      "index": 767
     }
   },
   "Ogerpon": {
@@ -19416,7 +19446,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Kebia Berry",
-      "index": 771
+      "index": 773
     }
   },
   "Silvally-Flying": {
@@ -19431,7 +19461,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Flying Memory",
-      "index": 774
+      "index": 776
     },
     "Elite Four Rival Singles": {
       "level": 100,
@@ -19444,7 +19474,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Flying Memory",
-      "index": 1710
+      "index": 1712
     }
   },
   "Shedinja": {
@@ -19459,7 +19489,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Focus Sash",
-      "index": 776
+      "index": 778
     },
     "Pyre Team Aqua Grunt #1": {
       "level": 80,
@@ -19472,7 +19502,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Focus Band",
-      "index": 1033
+      "index": 1035
     }
   },
   "Palafin": {
@@ -19487,7 +19517,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Clear Amulet",
-      "index": 777
+      "index": 779
     },
     "Beauty Bridget & Lady Brianna": {
       "level": 95,
@@ -19500,7 +19530,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Covert Cloak",
-      "index": 1452
+      "index": 1454
     }
   },
   "Wobbuffet": {
@@ -19515,7 +19545,7 @@ var SETDEX_SV = {
       ],
       "nature": "Bold",
       "item": "Mental Herb",
-      "index": 778
+      "index": 780
     },
     "Pyre Team Aqua Grunt #2": {
       "level": 80,
@@ -19528,7 +19558,7 @@ var SETDEX_SV = {
       ],
       "nature": "Bold",
       "item": "Iapapa Berry",
-      "index": 1041
+      "index": 1043
     }
   },
   "Sharpedo": {
@@ -19543,7 +19573,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Life Orb",
-      "index": 779
+      "index": 781
     },
     "Institute Team Aqua Elite Grunt": {
       "level": 75,
@@ -19556,7 +19586,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Sharpedonite",
-      "index": 807
+      "index": 809
     },
     "Team Aqua Leader Archie2": {
       "level": 95,
@@ -19569,7 +19599,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Sharpedonite",
-      "index": 1355
+      "index": 1357
     },
     "Trainer Maxie & Trainer Archie": {
       "level": 100,
@@ -19582,7 +19612,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Sharpedonite",
-      "index": 1663
+      "index": 1665
     }
   },
   "Weavile": {
@@ -19597,7 +19627,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Never Melt Ice",
-      "index": 781
+      "index": 783
     },
     "Pyre Team Aqua Grunt #4": {
       "level": 80,
@@ -19610,7 +19640,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Bright Powder",
-      "index": 1047
+      "index": 1049
     },
     "Hideout Magma Grunt #6 & #7": {
       "level": 80,
@@ -19623,7 +19653,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Focus Band",
-      "index": 1087
+      "index": 1089
     },
     "Expert Qspec": {
       "level": 89,
@@ -19636,7 +19666,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Life Orb",
-      "index": 1294
+      "index": 1296
     },
     "Cooltrainer Bazzo": {
       "level": 94,
@@ -19649,7 +19679,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Clear Amulet",
-      "index": 1425
+      "index": 1427
     },
     "Pokemon Trainer Leaf2": {
       "level": 98,
@@ -19662,7 +19692,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Ice Gem",
-      "index": 1546
+      "index": 1548
     }
   },
   "Basculegion": {
@@ -19677,7 +19707,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Eject Button",
-      "index": 787
+      "index": 789
     },
     "Team Aqua Admin Matt": {
       "level": 84,
@@ -19690,7 +19720,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Muscle Band",
-      "index": 1158
+      "index": 1160
     },
     "Lady Daphne": {
       "level": 94,
@@ -19703,7 +19733,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Life Orb",
-      "index": 1443
+      "index": 1445
     }
   },
   "Drednaw": {
@@ -19718,7 +19748,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Bright Powder",
-      "index": 789
+      "index": 791
     },
     "Cooltrainer Perseid": {
       "level": 78,
@@ -19731,7 +19761,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Muscle Band",
-      "index": 941
+      "index": 943
     },
     "Swimmer Katie & Swimmer Santiago": {
       "level": 93,
@@ -19742,7 +19772,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Choice Band",
-      "index": 1388
+      "index": 1390
     }
   },
   "Tornadus": {
@@ -19757,7 +19787,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Scope Lens",
-      "index": 791
+      "index": 793
     }
   },
   "Cramorant": {
@@ -19772,7 +19802,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Bright Powder",
-      "index": 792
+      "index": 794
     },
     "Team Aqua Grunt Gian": {
       "level": 83,
@@ -19785,7 +19815,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Focus Band",
-      "index": 1133
+      "index": 1135
     },
     "Team Aqua Grunt Gren": {
       "level": 90,
@@ -19798,7 +19828,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Focus Band",
-      "index": 1332
+      "index": 1334
     }
   },
   "Thundurus": {
@@ -19813,7 +19843,7 @@ var SETDEX_SV = {
       ],
       "nature": "Naive",
       "item": "Flying Gem",
-      "index": 795
+      "index": 797
     }
   },
   "Landorus": {
@@ -19836,7 +19866,7 @@ var SETDEX_SV = {
         "sd": "30",
         "sp": "30"
       },
-      "index": 799
+      "index": 801
     },
     "Expert Cash": {
       "level": 86,
@@ -19849,7 +19879,7 @@ var SETDEX_SV = {
       ],
       "nature": "Hasty",
       "item": "Life Orb",
-      "index": 1176
+      "index": 1178
     },
     "Cooltrainer Bazzo": {
       "level": 95,
@@ -19862,7 +19892,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Life Orb",
-      "index": 1426
+      "index": 1428
     }
   },
   "Ferrothorn": {
@@ -19877,7 +19907,7 @@ var SETDEX_SV = {
       ],
       "nature": "Sassy",
       "item": "Quick Claw",
-      "index": 801
+      "index": 803
     },
     "Seafloor Team Aqua Grunt #4": {
       "level": 90,
@@ -19890,7 +19920,7 @@ var SETDEX_SV = {
       ],
       "nature": "Sassy",
       "item": "Quick Claw",
-      "index": 1327
+      "index": 1329
     },
     "Swimmer Stem": {
       "level": 92,
@@ -19903,7 +19933,7 @@ var SETDEX_SV = {
       ],
       "nature": "Sassy",
       "item": "Leftovers",
-      "index": 1377
+      "index": 1379
     }
   },
   "Cursola": {
@@ -19918,7 +19948,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Quick Claw",
-      "index": 803
+      "index": 805
     },
     "Pyre Team Aqua Grunt #1": {
       "level": 80,
@@ -19931,7 +19961,7 @@ var SETDEX_SV = {
       ],
       "nature": "Bold",
       "item": "Kasib Berry",
-      "index": 1035
+      "index": 1037
     },
     "Cooltrainer Bazzo": {
       "level": 94,
@@ -19944,7 +19974,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Focus Sash",
-      "index": 1428
+      "index": 1430
     }
   },
   "Sharpedo-Mega": {
@@ -19959,7 +19989,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Sharpedonite",
-      "index": 808
+      "index": 810
     },
     "Team Aqua Leader Archie2": {
       "level": 95,
@@ -19971,8 +20001,8 @@ var SETDEX_SV = {
         "Flip Turn"
       ],
       "nature": "Jolly",
-      "item": "heldItem",
-      "index": 1356
+      "item": "Sharpedonite",
+      "index": 1358
     },
     "Trainer Maxie & Trainer Archie": {
       "level": 100,
@@ -19984,8 +20014,8 @@ var SETDEX_SV = {
         "Protect"
       ],
       "nature": "Jolly",
-      "item": "heldItem",
-      "index": 1664
+      "item": "Sharpedonite",
+      "index": 1666
     }
   },
   "Enamorus": {
@@ -20000,7 +20030,7 @@ var SETDEX_SV = {
       ],
       "nature": "Hasty",
       "item": "Power Herb",
-      "index": 810
+      "index": 812
     }
   },
   "Latios": {
@@ -20015,7 +20045,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Mystic Water",
-      "index": 811
+      "index": 813
     },
     "Team Aqua Admin Shelly2": {
       "level": 91,
@@ -20028,7 +20058,7 @@ var SETDEX_SV = {
       ],
       "nature": "Naive",
       "item": "Latiosite",
-      "index": 1337
+      "index": 1339
     }
   },
   "Walking Wake": {
@@ -20043,7 +20073,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Lum Berry",
-      "index": 820
+      "index": 822
     },
     "Trainer Maxie & Trainer Archie": {
       "level": 100,
@@ -20056,7 +20086,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Life Orb",
-      "index": 1661
+      "index": 1663
     }
   },
   "Silvally": {
@@ -20071,7 +20101,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Silk Scarf",
-      "index": 823
+      "index": 825
     }
   },
   "Iron Leaves": {
@@ -20086,7 +20116,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Lum Berry",
-      "index": 826
+      "index": 828
     },
     "Swimmer Katie & Swimmer Santiago": {
       "level": 94,
@@ -20099,7 +20129,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Booster Energy",
-      "index": 1386
+      "index": 1388
     }
   },
   "Silvally-Fire": {
@@ -20114,7 +20144,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Fire Memory",
-      "index": 829
+      "index": 831
     },
     "Lilycove Rival Froakie": {
       "level": 79,
@@ -20127,7 +20157,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Fire Memory",
-      "index": 979
+      "index": 981
     }
   },
   "Sneasler": {
@@ -20142,7 +20172,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Grassy Seed",
-      "index": 831
+      "index": 833
     },
     "Sr. And Jr. Kate & Joy": {
       "level": 78,
@@ -20155,7 +20185,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Covert Cloak",
-      "index": 949
+      "index": 951
     },
     "Swimmer Webe & Swimmer D. K": {
       "level": 84,
@@ -20168,7 +20198,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Focus Sash",
-      "index": 1163
+      "index": 1165
     },
     "Pokemon Trainer Leaf2": {
       "level": 98,
@@ -20181,7 +20211,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Psychic Seed",
-      "index": 1551
+      "index": 1553
     },
     "Elite Four Phoebe Singles": {
       "level": 100,
@@ -20194,7 +20224,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Fighting Gem",
-      "index": 1696
+      "index": 1698
     }
   },
   "Silvally-Water": {
@@ -20209,7 +20239,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Water Memory",
-      "index": 835
+      "index": 837
     },
     "Partner Rival": {
       "level": 77,
@@ -20222,7 +20252,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Water Memory",
-      "index": 844
+      "index": 846
     },
     "Lilycove Rival Chespin": {
       "level": 79,
@@ -20235,7 +20265,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Water Memory",
-      "index": 965
+      "index": 967
     },
     "Seafloor Team Aqua Grunt #4": {
       "level": 90,
@@ -20248,7 +20278,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Water Memory",
-      "index": 1324
+      "index": 1326
     }
   },
   "Tyranitar-Mega": {
@@ -20263,7 +20293,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Tyranitarite",
-      "index": 840
+      "index": 842
     },
     "Team Aqua Grunt Steve3": {
       "level": 92,
@@ -20276,7 +20306,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Chople Berry",
-      "index": 1344
+      "index": 1346
     }
   },
   "Lucario-Mega": {
@@ -20291,7 +20321,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Lucarionite",
-      "index": 846
+      "index": 848
     },
     "Lilycove Rival Chespin": {
       "level": 80,
@@ -20303,8 +20333,8 @@ var SETDEX_SV = {
         "Dark Pulse"
       ],
       "nature": "Timid",
-      "item": "heldItem",
-      "index": 971
+      "item": "Lucarionite",
+      "index": 973
     },
     "Lilycove Rival Fennekin": {
       "level": 80,
@@ -20316,8 +20346,8 @@ var SETDEX_SV = {
         "Crunch"
       ],
       "nature": "Jolly",
-      "item": "heldItem",
-      "index": 978
+      "item": "Lucarionite",
+      "index": 980
     },
     "Lilycove Rival Froakie": {
       "level": 80,
@@ -20329,8 +20359,8 @@ var SETDEX_SV = {
         "Dark Pulse"
       ],
       "nature": "Timid",
-      "item": "heldItem",
-      "index": 985
+      "item": "Lucarionite",
+      "index": 987
     },
     "Elite Four Rival Singles": {
       "level": 100,
@@ -20342,8 +20372,8 @@ var SETDEX_SV = {
         "Crunch"
       ],
       "nature": "Naive",
-      "item": "heldItem",
-      "index": 1713
+      "item": "Lucarionite",
+      "index": 1715
     },
     "Elite Four Rival Doubles": {
       "level": 100,
@@ -20355,8 +20385,8 @@ var SETDEX_SV = {
         "Coaching"
       ],
       "nature": "Naive",
-      "item": "heldItem",
-      "index": 1720
+      "item": "Lucarionite",
+      "index": 1722
     }
   },
   "Klefki": {
@@ -20371,7 +20401,7 @@ var SETDEX_SV = {
       ],
       "nature": "Calm",
       "item": "Mental Herb",
-      "index": 847
+      "index": 849
     },
     "Pokemon Trainer Leaf2": {
       "level": 97,
@@ -20384,7 +20414,7 @@ var SETDEX_SV = {
       ],
       "nature": "Careful",
       "item": "Mental Herb",
-      "index": 1545
+      "index": 1547
     }
   },
   "Muk-Alola": {
@@ -20399,7 +20429,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Assault Vest",
-      "index": 850
+      "index": 852
     },
     "Pokemaniac Symes & Bug Maniac Connor": {
       "level": 85,
@@ -20412,7 +20442,7 @@ var SETDEX_SV = {
       ],
       "nature": "Impish",
       "item": "Air Balloon",
-      "index": 1199
+      "index": 1201
     },
     "Battle Queen Lucy": {
       "level": 99,
@@ -20425,7 +20455,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Custap Berry",
-      "index": 1637
+      "index": 1639
     }
   },
   "Swampert": {
@@ -20440,7 +20470,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Mystic Water",
-      "index": 852
+      "index": 854
     },
     "Cooltrainer Cristin": {
       "level": 78,
@@ -20453,7 +20483,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Rindo Berry",
-      "index": 960
+      "index": 962
     },
     "Team Aqua Grunt Gian": {
       "level": 83,
@@ -20466,7 +20496,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Swampertite",
-      "index": 1135
+      "index": 1137
     },
     "Swimmer Katie & Swimmer Santiago": {
       "level": 94,
@@ -20479,7 +20509,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Swampertite",
-      "index": 1389
+      "index": 1391
     },
     "Twins Ame & Yuki": {
       "level": 98,
@@ -20492,7 +20522,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Swampertite",
-      "index": 1553
+      "index": 1555
     },
     "Adventurer Brandon": {
       "level": 99,
@@ -20505,7 +20535,7 @@ var SETDEX_SV = {
       ],
       "nature": "Relaxed",
       "item": "Rocky Helmet",
-      "index": 1598
+      "index": 1600
     }
   },
   "Gholdengo": {
@@ -20520,7 +20550,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Steel Gem",
-      "index": 853
+      "index": 855
     },
     "Pokefan Bethany": {
       "level": 95,
@@ -20533,7 +20563,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Iapapa Berry",
-      "index": 1460
+      "index": 1462
     },
     "Youngster Des": {
       "level": 96,
@@ -20546,7 +20576,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Expert Belt",
-      "index": 1542
+      "index": 1544
     }
   },
   "Magnezone": {
@@ -20569,7 +20599,7 @@ var SETDEX_SV = {
         "sd": "31",
         "sp": "30"
       },
-      "index": 854
+      "index": 856
     },
     "Cooltrainer Abobo": {
       "level": 77,
@@ -20582,7 +20612,7 @@ var SETDEX_SV = {
       ],
       "nature": "Bold",
       "item": "Expert Belt",
-      "index": 916
+      "index": 918
     },
     "Space Center Team Magma Grunt #1": {
       "level": 86,
@@ -20603,7 +20633,7 @@ var SETDEX_SV = {
         "sd": "31",
         "sp": "31"
       },
-      "index": 1237
+      "index": 1239
     }
   },
   "Barraskewda": {
@@ -20618,7 +20648,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Focus Sash",
-      "index": 855
+      "index": 857
     },
     "Seafloor Team Aqua Grunt #1": {
       "level": 89,
@@ -20631,7 +20661,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Water Gem",
-      "index": 1309
+      "index": 1311
     }
   },
   "Goodra-Hisui": {
@@ -20646,7 +20676,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Leftovers",
-      "index": 856
+      "index": 858
     },
     "Team Aqua Grunt Gren": {
       "level": 90,
@@ -20659,7 +20689,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Leftovers",
-      "index": 1333
+      "index": 1335
     }
   },
   "Iron Valiant": {
@@ -20682,7 +20712,7 @@ var SETDEX_SV = {
         "sd": "31",
         "sp": "0"
       },
-      "index": 858
+      "index": 860
     },
     "Gentleman Clifford & Psychic Macey": {
       "level": 86,
@@ -20703,7 +20733,7 @@ var SETDEX_SV = {
         "sd": "31",
         "sp": "31"
       },
-      "index": 1223
+      "index": 1225
     },
     "Rival Wally3": {
       "level": 100,
@@ -20716,7 +20746,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Booster Energy",
-      "index": 1586
+      "index": 1588
     },
     "Superstar Tucker": {
       "level": 100,
@@ -20729,7 +20759,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Booster Energy",
-      "index": 1651
+      "index": 1653
     }
   },
   "Hawlucha-Mega": {
@@ -20744,7 +20774,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Hawluchanite",
-      "index": 864
+      "index": 866
     }
   },
   "Yanmega": {
@@ -20759,7 +20789,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Rock Gem",
-      "index": 866
+      "index": 868
     },
     "Ninja Boy Alex": {
       "level": 78,
@@ -20771,7 +20801,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Choice Specs",
-      "index": 926
+      "index": 928
     }
   },
   "Metagross": {
@@ -20786,7 +20816,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Dark Gem",
-      "index": 867
+      "index": 869
     },
     "Psychic Preston & Psychic Maura": {
       "level": 85,
@@ -20799,7 +20829,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Metagrossite",
-      "index": 1189
+      "index": 1191
     },
     "Partner Steven": {
       "level": 100,
@@ -20812,7 +20842,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Metagrossite",
-      "index": 1279
+      "index": 1281
     },
     "Leader Steven": {
       "level": 100,
@@ -20825,7 +20855,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Metagrossite",
-      "index": 1481
+      "index": 1483
     },
     "Frontier Head Noland": {
       "level": 100,
@@ -20838,7 +20868,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Leftovers",
-      "index": 1673
+      "index": 1675
     }
   },
   "Drampa-Mega": {
@@ -20853,7 +20883,7 @@ var SETDEX_SV = {
       ],
       "nature": "Brave",
       "item": "Drampanite",
-      "index": 871
+      "index": 873
     }
   },
   "Staraptor-Mega": {
@@ -20868,7 +20898,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Staraptite",
-      "index": 876
+      "index": 878
     }
   },
   "Moltres-Galar": {
@@ -20883,7 +20913,7 @@ var SETDEX_SV = {
       ],
       "nature": "Bold",
       "item": "Leftovers",
-      "index": 879
+      "index": 881
     }
   },
   "Golurk-Mega": {
@@ -20898,7 +20928,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Golurkite",
-      "index": 882
+      "index": 884
     }
   },
   "Fezandipiti": {
@@ -20913,7 +20943,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Black Sludge",
-      "index": 884
+      "index": 886
     }
   },
   "Zapdos-Galar": {
@@ -20928,7 +20958,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Flying Gem",
-      "index": 885
+      "index": 887
     }
   },
   "Dudunsparce-Three-Segment": {
@@ -20943,7 +20973,7 @@ var SETDEX_SV = {
       ],
       "nature": "Careful",
       "item": "Iapapa Berry",
-      "index": 886
+      "index": 888
     }
   },
   "Skarmory-Mega": {
@@ -20958,7 +20988,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Skarmorite",
-      "index": 890
+      "index": 892
     }
   },
   "Articuno-Galar": {
@@ -20973,7 +21003,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Colbur Berry",
-      "index": 891
+      "index": 893
     }
   },
   "Charizard-Mega-Y": {
@@ -20988,7 +21018,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Charizardite Y",
-      "index": 895
+      "index": 897
     },
     "Team Magma Leader Maxie2": {
       "level": 82,
@@ -21000,8 +21030,8 @@ var SETDEX_SV = {
         "Focus Blast"
       ],
       "nature": "Timid",
-      "item": "heldItem",
-      "index": 1122
+      "item": "Charizardite Y",
+      "index": 1124
     }
   },
   "Baxcalibur": {
@@ -21016,7 +21046,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Loaded Dice",
-      "index": 898
+      "index": 900
     },
     "Pokefan Bethany": {
       "level": 95,
@@ -21029,7 +21059,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Baxcalibrite",
-      "index": 1461
+      "index": 1463
     }
   },
   "Lugia": {
@@ -21044,7 +21074,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Light Clay",
-      "index": 899
+      "index": 901
     },
     "Leader Winona2": {
       "level": 77,
@@ -21057,7 +21087,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Leftovers",
-      "index": 906
+      "index": 908
     }
   },
   "Landorus-Therian": {
@@ -21072,7 +21102,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Assault Vest",
-      "index": 903
+      "index": 905
     },
     "Space Center Team Magma Elite Grunt": {
       "level": 86,
@@ -21085,7 +21115,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Covert Cloak",
-      "index": 1250
+      "index": 1252
     }
   },
   "Altaria-Mega": {
@@ -21100,7 +21130,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Altarianite",
-      "index": 905
+      "index": 907
     },
     "Leader Winona2": {
       "level": 78,
@@ -21112,8 +21142,8 @@ var SETDEX_SV = {
         "Tailwind"
       ],
       "nature": "Quiet",
-      "item": "heldItem",
-      "index": 912
+      "item": "Altarianite",
+      "index": 914
     }
   },
   "Garchomp": {
@@ -21128,7 +21158,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Lum Berry",
-      "index": 907
+      "index": 909
     },
     "Team Aqua Grunt Steve2": {
       "level": 84,
@@ -21141,7 +21171,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Garchompite",
-      "index": 1152
+      "index": 1154
     },
     "Team Rocket Grunt #2": {
       "level": 96,
@@ -21154,7 +21184,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Garchompite Z",
-      "index": 1502
+      "index": 1504
     },
     "Youngster Des": {
       "level": 99,
@@ -21167,7 +21197,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Rocky Helmet",
-      "index": 1544
+      "index": 1546
     },
     "Rival Wally3": {
       "level": 97,
@@ -21188,7 +21218,7 @@ var SETDEX_SV = {
         "sd": "31",
         "sp": "31"
       },
-      "index": 1582
+      "index": 1584
     }
   },
   "Swellow": {
@@ -21203,7 +21233,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Life Orb",
-      "index": 915
+      "index": 917
     }
   },
   "Greninja-Mega": {
@@ -21218,7 +21248,7 @@ var SETDEX_SV = {
       ],
       "nature": "Naive",
       "item": "Greninjite",
-      "index": 924
+      "index": 926
     },
     "Elite Four Sidney Singles": {
       "level": 100,
@@ -21230,8 +21260,8 @@ var SETDEX_SV = {
         "Toxic Spikes"
       ],
       "nature": "Timid",
-      "item": "heldItem",
-      "index": 1680
+      "item": "Greninjite",
+      "index": 1682
     }
   },
   "Zarude-Dada": {
@@ -21246,7 +21276,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Snowball",
-      "index": 929
+      "index": 931
     }
   },
   "Delphox-Mega": {
@@ -21261,7 +21291,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Delphoxite",
-      "index": 932
+      "index": 934
     }
   },
   "Mawile-Mega": {
@@ -21276,7 +21306,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Mawilite",
-      "index": 938
+      "index": 940
     },
     "Superstar Tucker": {
       "level": 100,
@@ -21288,8 +21318,8 @@ var SETDEX_SV = {
         "Sucker Punch"
       ],
       "nature": "Adamant",
-      "item": "heldItem",
-      "index": 1654
+      "item": "Mawilite",
+      "index": 1656
     }
   },
   "Regidrago": {
@@ -21304,7 +21334,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Dragon Gem",
-      "index": 940
+      "index": 942
     }
   },
   "Celebi": {
@@ -21319,7 +21349,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Rocky Helmet",
-      "index": 944
+      "index": 946
     }
   },
   "Absol-Mega": {
@@ -21334,7 +21364,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Absolite",
-      "index": 947
+      "index": 949
     }
   },
   "Cresselia": {
@@ -21349,7 +21379,7 @@ var SETDEX_SV = {
       ],
       "nature": "Bold",
       "item": "Flame Orb",
-      "index": 952
+      "index": 954
     }
   },
   "Darkrai": {
@@ -21364,7 +21394,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Expert Belt",
-      "index": 953
+      "index": 955
     },
     "Space Center Team Magma Grunt #6": {
       "level": 86,
@@ -21377,7 +21407,7 @@ var SETDEX_SV = {
       ],
       "nature": "Bold",
       "item": "Darkranite",
-      "index": 1265
+      "index": 1267
     }
   },
   "Regirock": {
@@ -21392,7 +21422,7 @@ var SETDEX_SV = {
       ],
       "nature": "Careful",
       "item": "Leftovers",
-      "index": 954
+      "index": 956
     }
   },
   "Chesnaught-Mega": {
@@ -21407,7 +21437,7 @@ var SETDEX_SV = {
       ],
       "nature": "Careful",
       "item": "Chesnaughtite",
-      "index": 956
+      "index": 958
     }
   },
   "Tapu Lele": {
@@ -21422,7 +21452,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Terrain Extender",
-      "index": 961
+      "index": 963
     }
   },
   "Mewtwo": {
@@ -21437,7 +21467,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Mental Herb",
-      "index": 966
+      "index": 968
     },
     "Lilycove Rival Fennekin": {
       "level": 78,
@@ -21450,7 +21480,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Mental Herb",
-      "index": 973
+      "index": 975
     },
     "Lilycove Rival Froakie": {
       "level": 78,
@@ -21463,7 +21493,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Mental Herb",
-      "index": 980
+      "index": 982
     },
     "Teacher Anabel": {
       "level": 100,
@@ -21476,7 +21506,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Mewtwonite Y",
-      "index": 1670
+      "index": 1672
     },
     "Frontier Head Noland": {
       "level": 100,
@@ -21489,7 +21519,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Mewtwonite X",
-      "index": 1677
+      "index": 1679
     },
     "Elite Four Rival Singles": {
       "level": 100,
@@ -21502,7 +21532,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Heavy-Duty Boots",
-      "index": 1711
+      "index": 1713
     },
     "Elite Four Rival Doubles": {
       "level": 100,
@@ -21515,7 +21545,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Twisted Spoon",
-      "index": 1718
+      "index": 1720
     }
   },
   "Silvally-Grass": {
@@ -21530,7 +21560,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Grass Memory",
-      "index": 972
+      "index": 974
     }
   },
   "Clefable-Mega": {
@@ -21545,7 +21575,7 @@ var SETDEX_SV = {
       ],
       "nature": "Bold",
       "item": "Clefablite",
-      "index": 987
+      "index": 989
     }
   },
   "Lunala": {
@@ -21560,7 +21590,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Heavy-Duty Boots",
-      "index": 989
+      "index": 991
     }
   },
   "Ursaluna-Bloodmoon": {
@@ -21575,7 +21605,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Shell Bell",
-      "index": 990
+      "index": 992
     },
     "Gentleman Andreas & Hex Maniac Tina": {
       "level": 86,
@@ -21588,7 +21618,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Ground Gem",
-      "index": 1215
+      "index": 1217
     },
     "Adventurer Brandon": {
       "level": 99,
@@ -21601,7 +21631,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Yache Berry",
-      "index": 1596
+      "index": 1598
     }
   },
   "Gengar-Mega": {
@@ -21616,7 +21646,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Gengarite",
-      "index": 998
+      "index": 1000
     },
     "Battle Queen Lucy": {
       "level": 100,
@@ -21628,8 +21658,8 @@ var SETDEX_SV = {
         "Destiny Bond"
       ],
       "nature": "Timid",
-      "item": "heldItem",
-      "index": 1641
+      "item": "Gengarite",
+      "index": 1643
     },
     "Elite Four Phoebe Doubles": {
       "level": 100,
@@ -21641,8 +21671,8 @@ var SETDEX_SV = {
         "Perish Song"
       ],
       "nature": "Timid",
-      "item": "heldItem",
-      "index": 1702
+      "item": "Gengarite",
+      "index": 1704
     }
   },
   "Gourgeist-Large": {
@@ -21657,7 +21687,7 @@ var SETDEX_SV = {
       ],
       "nature": "Brave",
       "item": "Occa Berry",
-      "index": 1008
+      "index": 1010
     }
   },
   "Gourgeist-Super": {
@@ -21672,7 +21702,7 @@ var SETDEX_SV = {
       ],
       "nature": "Careful",
       "item": "Coba Berry",
-      "index": 1010
+      "index": 1012
     }
   },
   "Froslass-Mega": {
@@ -21687,7 +21717,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Froslassite",
-      "index": 1018
+      "index": 1020
     }
   },
   "Dragonair": {
@@ -21702,7 +21732,7 @@ var SETDEX_SV = {
       ],
       "nature": "Sassy",
       "item": "Eviolite",
-      "index": 1020
+      "index": 1022
     }
   },
   "Spectrier": {
@@ -21717,7 +21747,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Ability Shield",
-      "index": 1025
+      "index": 1027
     }
   },
   "Charizard-Mega-X": {
@@ -21732,7 +21762,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Charizardite X",
-      "index": 1030
+      "index": 1032
     },
     "Triathlete Allison": {
       "level": 91,
@@ -21744,8 +21774,8 @@ var SETDEX_SV = {
         "Roost"
       ],
       "nature": "Jolly",
-      "item": "heldItem",
-      "index": 1370
+      "item": "Charizardite X",
+      "index": 1372
     }
   },
   "Scream Tail": {
@@ -21760,7 +21790,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Booster Energy",
-      "index": 1031
+      "index": 1033
     },
     "Psychic Hannah & Hex Maniac Sylvia": {
       "level": 86,
@@ -21781,7 +21811,7 @@ var SETDEX_SV = {
         "sd": "21",
         "sp": "29"
       },
-      "index": 1213
+      "index": 1215
     }
   },
   "Malamar-Mega": {
@@ -21796,7 +21826,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Malamarite",
-      "index": 1040
+      "index": 1042
     }
   },
   "Barbaracle-Mega": {
@@ -21811,7 +21841,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Barbaracite",
-      "index": 1049
+      "index": 1051
     }
   },
   "Hoopa": {
@@ -21826,7 +21856,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Expert Belt",
-      "index": 1050
+      "index": 1052
     }
   },
   "Keldeo": {
@@ -21841,7 +21871,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Jaboca Berry",
-      "index": 1055
+      "index": 1057
     }
   },
   "Miraidon": {
@@ -21856,7 +21886,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Lansat Berry",
-      "index": 1056
+      "index": 1058
     },
     "Team Aqua Leader Archie2": {
       "level": 92,
@@ -21877,7 +21907,7 @@ var SETDEX_SV = {
         "sd": "31",
         "sp": "31"
       },
-      "index": 1352
+      "index": 1354
     },
     "Elite Four Drake Doubles": {
       "level": 100,
@@ -21890,7 +21920,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Roseli Berry",
-      "index": 1731
+      "index": 1733
     }
   },
   "Darmanitan": {
@@ -21905,7 +21935,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Life Orb",
-      "index": 1058
+      "index": 1060
     },
     "Leader Tate & Liza": {
       "level": 86,
@@ -21918,7 +21948,7 @@ var SETDEX_SV = {
       ],
       "nature": "Mild",
       "item": "Fire Gem",
-      "index": 1229
+      "index": 1231
     }
   },
   "Shaymin-Sky": {
@@ -21933,7 +21963,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Ghost Gem",
-      "index": 1061
+      "index": 1063
     }
   },
   "Dudunsparce": {
@@ -21948,7 +21978,7 @@ var SETDEX_SV = {
       ],
       "nature": "Sassy",
       "item": "Rock Gem",
-      "index": 1062
+      "index": 1064
     },
     "Swimmer Susie": {
       "level": 93,
@@ -21961,7 +21991,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Clear Amulet",
-      "index": 1408
+      "index": 1410
     }
   },
   "Jirachi": {
@@ -21976,7 +22006,7 @@ var SETDEX_SV = {
       ],
       "nature": "Hasty",
       "item": "Rock Gem",
-      "index": 1064
+      "index": 1066
     }
   },
   "Chandelure-Mega": {
@@ -21991,7 +22021,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Chandelurite",
-      "index": 1066
+      "index": 1068
     },
     "Elite Four Phoebe Singles": {
       "level": 100,
@@ -22012,7 +22042,7 @@ var SETDEX_SV = {
         "sd": "30",
         "sp": "31"
       },
-      "index": 1695
+      "index": 1697
     }
   },
   "Zekrom": {
@@ -22027,7 +22057,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Electric Gem",
-      "index": 1085
+      "index": 1087
     }
   },
   "Ursaluna": {
@@ -22042,7 +22072,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "White Herb",
-      "index": 1093
+      "index": 1095
     },
     "Psychic Virgil & Psychic Nate": {
       "level": 85,
@@ -22063,7 +22093,7 @@ var SETDEX_SV = {
         "sd": "31",
         "sp": "0"
       },
-      "index": 1205
+      "index": 1207
     },
     "Space Center Team Magma Elite Grunt": {
       "level": 86,
@@ -22076,7 +22106,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Quick Claw",
-      "index": 1248
+      "index": 1250
     }
   },
   "Heatran": {
@@ -22091,7 +22121,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Air Balloon",
-      "index": 1101
+      "index": 1103
     },
     "Space Center Team Magma Grunt #5": {
       "level": 86,
@@ -22104,7 +22134,7 @@ var SETDEX_SV = {
       ],
       "nature": "Careful",
       "item": "Heatranite",
-      "index": 1258
+      "index": 1260
     },
     "Partner Steven": {
       "level": 94,
@@ -22125,7 +22155,7 @@ var SETDEX_SV = {
         "sd": "29",
         "sp": "31"
       },
-      "index": 1277
+      "index": 1279
     }
   },
   "Reshiram": {
@@ -22140,7 +22170,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Choice Specs",
-      "index": 1108
+      "index": 1110
     }
   },
   "Latias-Mega": {
@@ -22155,7 +22185,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Latiasite",
-      "index": 1110
+      "index": 1112
     }
   },
   "Zamazenta": {
@@ -22170,7 +22200,7 @@ var SETDEX_SV = {
       ],
       "nature": "Impish",
       "item": "Kee Berry",
-      "index": 1115
+      "index": 1117
     }
   },
   "Groudon": {
@@ -22185,7 +22215,7 @@ var SETDEX_SV = {
       ],
       "nature": "Careful",
       "item": "Red Card",
-      "index": 1116
+      "index": 1118
     },
     "Trainer Maxie & Trainer Archie": {
       "level": 100,
@@ -22198,7 +22228,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Red Orb",
-      "index": 1657
+      "index": 1659
     }
   },
   "Nihilego": {
@@ -22221,7 +22251,7 @@ var SETDEX_SV = {
         "sd": "23",
         "sp": "31"
       },
-      "index": 1126
+      "index": 1128
     },
     "Teacher Anabel": {
       "level": 100,
@@ -22234,7 +22264,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Air Balloon",
-      "index": 1665
+      "index": 1667
     }
   },
   "Mesprit": {
@@ -22249,7 +22279,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Weakness Policy",
-      "index": 1134
+      "index": 1136
     }
   },
   "Swampert-Mega": {
@@ -22264,7 +22294,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Swampertite",
-      "index": 1136
+      "index": 1138
     },
     "Swimmer Katie & Swimmer Santiago": {
       "level": 94,
@@ -22276,8 +22306,8 @@ var SETDEX_SV = {
         "Ice Punch"
       ],
       "nature": "Jolly",
-      "item": "heldItem",
-      "index": 1390
+      "item": "Swampertite",
+      "index": 1392
     },
     "Twins Ame & Yuki": {
       "level": 98,
@@ -22289,8 +22319,8 @@ var SETDEX_SV = {
         "Flip Turn"
       ],
       "nature": "Jolly",
-      "item": "heldItem",
-      "index": 1554
+      "item": "Swampertite",
+      "index": 1556
     }
   },
   "Thundurus-Therian": {
@@ -22313,7 +22343,7 @@ var SETDEX_SV = {
         "sd": "30",
         "sp": "30"
       },
-      "index": 1142
+      "index": 1144
     }
   },
   "Tornadus-Therian": {
@@ -22328,7 +22358,7 @@ var SETDEX_SV = {
       ],
       "nature": "Naive",
       "item": "Bright Powder",
-      "index": 1147
+      "index": 1149
     }
   },
   "Garchomp-Mega": {
@@ -22343,7 +22373,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Garchompite",
-      "index": 1153
+      "index": 1155
     },
     "Team Aqua Grunt Steve3": {
       "level": 91,
@@ -22356,7 +22386,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Choice Scarf",
-      "index": 1348
+      "index": 1350
     }
   },
   "Archaludon": {
@@ -22371,7 +22401,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Iapapa Berry",
-      "index": 1155
+      "index": 1157
     },
     "Lorekeeper Zinnia": {
       "level": 95,
@@ -22384,7 +22414,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Assault Vest",
-      "index": 1486
+      "index": 1488
     }
   },
   "Palkia": {
@@ -22399,7 +22429,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Lustrous Orb",
-      "index": 1156
+      "index": 1158
     }
   },
   "Buzzwole": {
@@ -22414,7 +22444,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Big Root",
-      "index": 1159
+      "index": 1161
     }
   },
   "Gyarados-Mega": {
@@ -22429,7 +22459,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Gyaradosite",
-      "index": 1161
+      "index": 1163
     },
     "Elite Four Sidney Doubles": {
       "level": 100,
@@ -22450,7 +22480,7 @@ var SETDEX_SV = {
         "sd": "31",
         "sp": "21"
       },
-      "index": 1691
+      "index": 1693
     }
   },
   "Glaceon": {
@@ -22473,7 +22503,7 @@ var SETDEX_SV = {
         "sd": "30",
         "sp": "30"
       },
-      "index": 1164
+      "index": 1166
     }
   },
   "Kyurem-Black": {
@@ -22488,7 +22518,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Power Herb",
-      "index": 1167
+      "index": 1169
     }
   },
   "Eternatus": {
@@ -22503,7 +22533,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Black Sludge",
-      "index": 1173
+      "index": 1175
     },
     "Gentleman Clifford & Psychic Macey": {
       "level": 86,
@@ -22516,7 +22546,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Weakness Policy",
-      "index": 1226
+      "index": 1228
     }
   },
   "Iron Bundle": {
@@ -22531,7 +22561,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Blunder Policy",
-      "index": 1174
+      "index": 1176
     },
     "Ex Leader Juan": {
       "level": 95,
@@ -22552,7 +22582,7 @@ var SETDEX_SV = {
         "sd": "31",
         "sp": "31"
       },
-      "index": 1473
+      "index": 1475
     }
   },
   "Glimmora-Mega": {
@@ -22567,7 +22597,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Glimmoranite",
-      "index": 1178
+      "index": 1180
     }
   },
   "Silvally-Psychic": {
@@ -22582,7 +22612,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Psychic Memory",
-      "index": 1182
+      "index": 1184
     }
   },
   "Absol-Mega-Z": {
@@ -22597,7 +22627,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Absolite Z",
-      "index": 1184
+      "index": 1186
     }
   },
   "Indeedee-F": {
@@ -22612,7 +22642,7 @@ var SETDEX_SV = {
       ],
       "nature": "Bold",
       "item": "Adrenaline Orb",
-      "index": 1187
+      "index": 1189
     }
   },
   "Metagross-Mega": {
@@ -22627,7 +22657,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Metagrossite",
-      "index": 1190
+      "index": 1192
     },
     "Partner Steven": {
       "level": 100,
@@ -22639,8 +22669,8 @@ var SETDEX_SV = {
         "Knock Off"
       ],
       "nature": "Jolly",
-      "item": "heldItem",
-      "index": 1280
+      "item": "Metagrossite",
+      "index": 1282
     },
     "Leader Steven": {
       "level": 100,
@@ -22652,8 +22682,8 @@ var SETDEX_SV = {
         "Bullet Punch"
       ],
       "nature": "Jolly",
-      "item": "heldItem",
-      "index": 1482
+      "item": "Metagrossite",
+      "index": 1484
     }
   },
   "Munkidori": {
@@ -22668,7 +22698,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Focus Sash",
-      "index": 1192
+      "index": 1194
     },
     "Battle Queen Lucy": {
       "level": 100,
@@ -22681,7 +22711,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Choice Scarf",
-      "index": 1639
+      "index": 1641
     }
   },
   "Starmie-Mega": {
@@ -22696,7 +22726,7 @@ var SETDEX_SV = {
       ],
       "nature": "Naive",
       "item": "Starminite",
-      "index": 1197
+      "index": 1199
     }
   },
   "Marshadow": {
@@ -22711,7 +22741,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Ghost Gem",
-      "index": 1200
+      "index": 1202
     },
     "Expert Makayla": {
       "level": 94,
@@ -22724,7 +22754,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Eject Pack",
-      "index": 1422
+      "index": 1424
     },
     "Rival Wally1": {
       "level": 97,
@@ -22737,7 +22767,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Expert Belt",
-      "index": 1569
+      "index": 1571
     }
   },
   "Slowbro-Mega": {
@@ -22760,7 +22790,7 @@ var SETDEX_SV = {
         "sd": "31",
         "sp": "0"
       },
-      "index": 1204
+      "index": 1206
     }
   },
   "Melmetal": {
@@ -22783,7 +22813,7 @@ var SETDEX_SV = {
         "sd": "31",
         "sp": "0"
       },
-      "index": 1207
+      "index": 1209
     }
   },
   "Stakataka": {
@@ -22798,7 +22828,7 @@ var SETDEX_SV = {
       ],
       "nature": "Relaxed",
       "item": "Life Orb",
-      "index": 1208
+      "index": 1210
     }
   },
   "Gardevoir-Mega": {
@@ -22813,7 +22843,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Gardevoirite",
-      "index": 1211
+      "index": 1213
     },
     "Rival Wally1": {
       "level": 100,
@@ -22834,7 +22864,7 @@ var SETDEX_SV = {
         "sd": "31",
         "sp": "29"
       },
-      "index": 1572
+      "index": 1574
     }
   },
   "Iron Boulder": {
@@ -22849,7 +22879,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Booster Energy",
-      "index": 1212
+      "index": 1214
     }
   },
   "Xerneas": {
@@ -22864,7 +22894,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Fairy Gem",
-      "index": 1214
+      "index": 1216
     },
     "Superstar Tucker": {
       "level": 100,
@@ -22877,7 +22907,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Power Herb",
-      "index": 1656
+      "index": 1658
     }
   },
   "Gallade-Mega": {
@@ -22892,7 +22922,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Galladite",
-      "index": 1218
+      "index": 1220
     },
     "Rival Wally2": {
       "level": 100,
@@ -22904,8 +22934,8 @@ var SETDEX_SV = {
         "Destiny Bond"
       ],
       "nature": "Jolly",
-      "item": "heldItem",
-      "index": 1579
+      "item": "Galladite",
+      "index": 1581
     }
   },
   "Giratina": {
@@ -22920,7 +22950,7 @@ var SETDEX_SV = {
       ],
       "nature": "Naughty",
       "item": "Colbur Berry",
-      "index": 1221
+      "index": 1223
     }
   },
   "Deoxys": {
@@ -22935,7 +22965,7 @@ var SETDEX_SV = {
       ],
       "nature": "Hasty",
       "item": "Eject Pack",
-      "index": 1231
+      "index": 1233
     }
   },
   "Deoxys-Defense": {
@@ -22950,7 +22980,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Light Clay",
-      "index": 1232
+      "index": 1234
     }
   },
   "Necrozma-Dusk-Mane": {
@@ -22965,7 +22995,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Ultranecrozium Z",
-      "index": 1233
+      "index": 1235
     }
   },
   "Blacephalon": {
@@ -22980,7 +23010,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Starf Berry",
-      "index": 1239
+      "index": 1241
     }
   },
   "Flutter Mane": {
@@ -22995,7 +23025,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Focus Band",
-      "index": 1241
+      "index": 1243
     },
     "Kindler Kos": {
       "level": 96,
@@ -23008,7 +23038,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Spell Tag",
-      "index": 1532
+      "index": 1534
     },
     "Elite Four Phoebe Singles": {
       "level": 100,
@@ -23021,7 +23051,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Booster Energy",
-      "index": 1697
+      "index": 1699
     },
     "Elite Four Phoebe Doubles": {
       "level": 100,
@@ -23034,7 +23064,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Booster Energy",
-      "index": 1706
+      "index": 1708
     }
   },
   "Guzzlord": {
@@ -23049,7 +23079,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Roseli Berry",
-      "index": 1245
+      "index": 1247
     }
   },
   "Raging Bolt": {
@@ -23064,7 +23094,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Electric Gem",
-      "index": 1251
+      "index": 1253
     },
     "Swimmer Stem": {
       "level": 91,
@@ -23077,7 +23107,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Booster Energy",
-      "index": 1380
+      "index": 1382
     }
   },
   "Cobalion": {
@@ -23092,7 +23122,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Leftovers",
-      "index": 1253
+      "index": 1255
     }
   },
   "Lopunny-Mega": {
@@ -23107,7 +23137,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Lopunnite",
-      "index": 1257
+      "index": 1259
     }
   },
   "Heatran-Mega": {
@@ -23122,7 +23152,7 @@ var SETDEX_SV = {
       ],
       "nature": "Careful",
       "item": "Heatranite",
-      "index": 1259
+      "index": 1261
     }
   },
   "Xurkitree": {
@@ -23137,7 +23167,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Electric Gem",
-      "index": 1261
+      "index": 1263
     }
   },
   "Virizion": {
@@ -23152,7 +23182,7 @@ var SETDEX_SV = {
       ],
       "nature": "Naive",
       "item": "Eject Pack",
-      "index": 1262
+      "index": 1264
     }
   },
   "Darkrai-Mega": {
@@ -23167,7 +23197,7 @@ var SETDEX_SV = {
       ],
       "nature": "Bold",
       "item": "Darkranite",
-      "index": 1266
+      "index": 1268
     }
   },
   "Terrakion": {
@@ -23182,7 +23212,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Black Belt",
-      "index": 1267
+      "index": 1269
     }
   },
   "Naganadel": {
@@ -23197,7 +23227,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Life Orb",
-      "index": 1268
+      "index": 1270
     }
   },
   "Zacian-Crowned": {
@@ -23212,7 +23242,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Rusted Sword",
-      "index": 1278
+      "index": 1280
     },
     "Leader Steven": {
       "level": 95,
@@ -23225,7 +23255,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Rusted Sword",
-      "index": 1478
+      "index": 1480
     }
   },
   "Regice": {
@@ -23240,7 +23270,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Blunder Policy",
-      "index": 1286
+      "index": 1288
     }
   },
   "Oinkologne-F": {
@@ -23255,7 +23285,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Salac Berry",
-      "index": 1287
+      "index": 1289
     }
   },
   "Ting-Lu": {
@@ -23270,7 +23300,7 @@ var SETDEX_SV = {
       ],
       "nature": "Careful",
       "item": "Leftovers",
-      "index": 1288
+      "index": 1290
     },
     "Adventurer Brandon": {
       "level": 100,
@@ -23283,7 +23313,7 @@ var SETDEX_SV = {
       ],
       "nature": "Relaxed",
       "item": "Red Card",
-      "index": 1594
+      "index": 1596
     }
   },
   "Ogerpon-Wellspring": {
@@ -23298,7 +23328,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Wellspring Mask",
-      "index": 1296
+      "index": 1298
     },
     "Elite Four Rival Doubles": {
       "level": 100,
@@ -23311,7 +23341,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Wellspring Mask",
-      "index": 1715
+      "index": 1717
     }
   },
   "Excadrill-Mega": {
@@ -23326,7 +23356,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Excadrite",
-      "index": 1299
+      "index": 1301
     }
   },
   "Tatsugiri-Stretchy": {
@@ -23341,7 +23371,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Toxic Orb",
-      "index": 1301
+      "index": 1303
     }
   },
   "Roaring Moon": {
@@ -23364,7 +23394,7 @@ var SETDEX_SV = {
         "sd": "31",
         "sp": "31"
       },
-      "index": 1303
+      "index": 1305
     },
     "Elite Four Drake Singles": {
       "level": 100,
@@ -23377,7 +23407,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Chople Berry",
-      "index": 1725
+      "index": 1727
     }
   },
   "Kartana": {
@@ -23392,7 +23422,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Razor Claw",
-      "index": 1310
+      "index": 1312
     },
     "Natural Guru Spenser": {
       "level": 99,
@@ -23405,7 +23435,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Assault Vest",
-      "index": 1623
+      "index": 1625
     }
   },
   "Chien-Pao": {
@@ -23420,7 +23450,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Heavy-Duty Boots",
-      "index": 1313
+      "index": 1315
     },
     "Elite Four Sidney Doubles": {
       "level": 100,
@@ -23433,7 +23463,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Focus Sash",
-      "index": 1687
+      "index": 1689
     }
   },
   "Azelf": {
@@ -23448,7 +23478,7 @@ var SETDEX_SV = {
       ],
       "nature": "Hasty",
       "item": "Focus Sash",
-      "index": 1330
+      "index": 1332
     }
   },
   "Venusaur-Mega": {
@@ -23463,7 +23493,7 @@ var SETDEX_SV = {
       ],
       "nature": "Bold",
       "item": "Venusaurite",
-      "index": 1336
+      "index": 1338
     },
     "Natural Guru Spenser": {
       "level": 100,
@@ -23475,8 +23505,8 @@ var SETDEX_SV = {
         "Earth Power"
       ],
       "nature": "Calm",
-      "item": "heldItem",
-      "index": 1627
+      "item": "Venusaurite",
+      "index": 1629
     }
   },
   "Latios-Mega": {
@@ -23491,7 +23521,7 @@ var SETDEX_SV = {
       ],
       "nature": "Naive",
       "item": "Latiosite",
-      "index": 1338
+      "index": 1340
     }
   },
   "Zacian": {
@@ -23506,7 +23536,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Clear Amulet",
-      "index": 1341
+      "index": 1343
     }
   },
   "Pheromosa": {
@@ -23521,7 +23551,7 @@ var SETDEX_SV = {
       ],
       "nature": "Naive",
       "item": "Focus Band",
-      "index": 1343
+      "index": 1345
     },
     "Naturalist Greta": {
       "level": 100,
@@ -23534,7 +23564,7 @@ var SETDEX_SV = {
       ],
       "nature": "Naive",
       "item": "Focus Sash",
-      "index": 1609
+      "index": 1611
     }
   },
   "Enamorus-Therian": {
@@ -23549,7 +23579,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Heavy-Duty Boots",
-      "index": 1345
+      "index": 1347
     }
   },
   "Kyogre": {
@@ -23564,7 +23594,7 @@ var SETDEX_SV = {
       ],
       "nature": "Bold",
       "item": "Iapapa Berry",
-      "index": 1350
+      "index": 1352
     },
     "Trainer Maxie & Trainer Archie": {
       "level": 100,
@@ -23577,7 +23607,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Blue Orb",
-      "index": 1662
+      "index": 1664
     }
   },
   "Iron Jugulis": {
@@ -23592,7 +23622,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Yache Berry",
-      "index": 1353
+      "index": 1355
     }
   },
   "Coalossal": {
@@ -23607,7 +23637,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Focus Sash",
-      "index": 1357
+      "index": 1359
     }
   },
   "Raikou": {
@@ -23630,7 +23660,7 @@ var SETDEX_SV = {
         "sd": "31",
         "sp": "31"
       },
-      "index": 1360
+      "index": 1362
     }
   },
   "Dragonite-Mega": {
@@ -23645,7 +23675,7 @@ var SETDEX_SV = {
       ],
       "nature": "Naive",
       "item": "Dragoninite",
-      "index": 1362
+      "index": 1364
     },
     "Elite Four Drake Singles": {
       "level": 100,
@@ -23657,8 +23687,8 @@ var SETDEX_SV = {
         "Whirlpool"
       ],
       "nature": "Timid",
-      "item": "heldItem",
-      "index": 1727
+      "item": "Dragoninite",
+      "index": 1729
     }
   },
   "Entei": {
@@ -23673,7 +23703,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Heavy-Duty Boots",
-      "index": 1365
+      "index": 1367
     }
   },
   "Ogerpon-Hearthflame": {
@@ -23688,7 +23718,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Hearthflame Mask",
-      "index": 1374
+      "index": 1376
     },
     "Elite Four Rival Singles": {
       "level": 100,
@@ -23701,7 +23731,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Hearthflame Mask",
-      "index": 1708
+      "index": 1710
     }
   },
   "Tapu Fini": {
@@ -23716,7 +23746,7 @@ var SETDEX_SV = {
       ],
       "nature": "Bold",
       "item": "Weakness Policy",
-      "index": 1384
+      "index": 1386
     }
   },
   "Gouging Fire": {
@@ -23739,7 +23769,7 @@ var SETDEX_SV = {
         "sd": "31",
         "sp": "31"
       },
-      "index": 1392
+      "index": 1394
     },
     "Elite Four Drake Singles": {
       "level": 100,
@@ -23752,7 +23782,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Heavy-Duty Boots",
-      "index": 1722
+      "index": 1724
     }
   },
   "Blaziken-Mega": {
@@ -23767,7 +23797,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Blazikenite",
-      "index": 1397
+      "index": 1399
     },
     "Youngster Des": {
       "level": 98,
@@ -23779,8 +23809,8 @@ var SETDEX_SV = {
         "Thunder Punch"
       ],
       "nature": "Jolly",
-      "item": "heldItem",
-      "index": 1541
+      "item": "Blazikenite",
+      "index": 1543
     }
   },
   "Regieleki": {
@@ -23795,7 +23825,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Magnet",
-      "index": 1398
+      "index": 1400
     }
   },
   "Glastrier": {
@@ -23810,7 +23840,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Salac Berry",
-      "index": 1407
+      "index": 1409
     }
   },
   "Hoopa-Unbound": {
@@ -23825,7 +23855,7 @@ var SETDEX_SV = {
       ],
       "nature": "Naive",
       "item": "Leftovers",
-      "index": 1411
+      "index": 1413
     }
   },
   "Rayquaza": {
@@ -23840,7 +23870,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "None",
-      "index": 1431
+      "index": 1433
     },
     "Lorekeeper Zinnia": {
       "level": 95,
@@ -23853,7 +23883,7 @@ var SETDEX_SV = {
       ],
       "nature": "Naive",
       "item": "Enigma Berry",
-      "index": 1488
+      "index": 1490
     }
   },
   "Zoroark": {
@@ -23868,7 +23898,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Covert Cloak",
-      "index": 1432
+      "index": 1434
     }
   },
   "Iron Treads": {
@@ -23883,7 +23913,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Muscle Band",
-      "index": 1434
+      "index": 1436
     },
     "Adventurer Brandon": {
       "level": 99,
@@ -23904,7 +23934,7 @@ var SETDEX_SV = {
         "sd": "31",
         "sp": "31"
       },
-      "index": 1588
+      "index": 1590
     }
   },
   "Manaphy": {
@@ -23919,7 +23949,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Heavy-Duty Boots",
-      "index": 1436
+      "index": 1438
     }
   },
   "Magearna": {
@@ -23934,7 +23964,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Weakness Policy",
-      "index": 1439
+      "index": 1441
     },
     "Team Rocket Grunt #3": {
       "level": 96,
@@ -23947,7 +23977,7 @@ var SETDEX_SV = {
       ],
       "nature": "Hasty",
       "item": "Magearnite",
-      "index": 1509
+      "index": 1511
     },
     "Rival Wally2": {
       "level": 97,
@@ -23960,7 +23990,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Expert Belt",
-      "index": 1576
+      "index": 1578
     },
     "Superstar Tucker": {
       "level": 100,
@@ -23973,7 +24003,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Magearnite",
-      "index": 1646
+      "index": 1648
     }
   },
   "Pikachu-Partner": {
@@ -23988,7 +24018,7 @@ var SETDEX_SV = {
       ],
       "nature": "Naive",
       "item": "Light Ball",
-      "index": 1446
+      "index": 1448
     }
   },
   "Zeraora-Mega": {
@@ -24003,7 +24033,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Zeraorite",
-      "index": 1454
+      "index": 1456
     }
   },
   "Squawkabilly-Blue": {
@@ -24018,7 +24048,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Life Orb",
-      "index": 1455
+      "index": 1457
     }
   },
   "Chi-Yu": {
@@ -24033,7 +24063,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Eject Pack",
-      "index": 1458
+      "index": 1460
     },
     "Elite Four Sidney Singles": {
       "level": 100,
@@ -24046,7 +24076,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Heavy-Duty Boots",
-      "index": 1683
+      "index": 1685
     }
   },
   "Baxcalibur-Mega": {
@@ -24061,7 +24091,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Baxcalibrite",
-      "index": 1462
+      "index": 1464
     }
   },
   "Kyurem": {
@@ -24076,7 +24106,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Heavy-Duty Boots",
-      "index": 1463
+      "index": 1465
     }
   },
   "Diancie-Mega": {
@@ -24091,7 +24121,7 @@ var SETDEX_SV = {
       ],
       "nature": "Naughty",
       "item": "Diancite",
-      "index": 1469
+      "index": 1471
     },
     "Champion Wallace": {
       "level": 100,
@@ -24103,8 +24133,8 @@ var SETDEX_SV = {
         "Earth Power"
       ],
       "nature": "Naive",
-      "item": "heldItem",
-      "index": 1740
+      "item": "Diancite",
+      "index": 1742
     }
   },
   "Urshifu-Rapid-Strike": {
@@ -24119,7 +24149,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Focus Sash",
-      "index": 1472
+      "index": 1474
     }
   },
   "Iron Crown": {
@@ -24134,7 +24164,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Weakness Policy",
-      "index": 1475
+      "index": 1477
     }
   },
   "Dialga-Origin": {
@@ -24149,7 +24179,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Adamant Crystal",
-      "index": 1476
+      "index": 1478
     }
   },
   "Genesect": {
@@ -24164,7 +24194,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Focus Sash",
-      "index": 1480
+      "index": 1482
     }
   },
   "Salamence-Mega": {
@@ -24179,7 +24209,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Iron Ball",
-      "index": 1487
+      "index": 1489
     },
     "Elite Four Drake Doubles": {
       "level": 100,
@@ -24191,8 +24221,8 @@ var SETDEX_SV = {
         "Tailwind"
       ],
       "nature": "Naive",
-      "item": "heldItem",
-      "index": 1734
+      "item": "Salamencite",
+      "index": 1736
     }
   },
   "Rayquaza-Mega": {
@@ -24207,7 +24237,7 @@ var SETDEX_SV = {
       ],
       "nature": "Naive",
       "item": "Enigma Berry",
-      "index": 1489
+      "index": 1491
     }
   },
   "Golisopod-Mega": {
@@ -24222,7 +24252,7 @@ var SETDEX_SV = {
       ],
       "nature": "Adamant",
       "item": "Golisopite",
-      "index": 1496
+      "index": 1498
     },
     "Naturalist Greta": {
       "level": 100,
@@ -24234,8 +24264,8 @@ var SETDEX_SV = {
         "Hard Press"
       ],
       "nature": "Adamant",
-      "item": "heldItem",
-      "index": 1613
+      "item": "Golisopite",
+      "index": 1615
     }
   },
   "Garchomp-Mega-Z": {
@@ -24250,7 +24280,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Garchompite Z",
-      "index": 1503
+      "index": 1505
     },
     "Rival Wally3": {
       "level": 97,
@@ -24271,7 +24301,7 @@ var SETDEX_SV = {
         "sd": "31",
         "sp": "31"
       },
-      "index": 1583
+      "index": 1585
     }
   },
   "Magearna-Mega": {
@@ -24286,7 +24316,7 @@ var SETDEX_SV = {
       ],
       "nature": "Hasty",
       "item": "Magearnite",
-      "index": 1510
+      "index": 1512
     },
     "Superstar Tucker": {
       "level": 100,
@@ -24298,8 +24328,8 @@ var SETDEX_SV = {
         "Calm Mind"
       ],
       "nature": "Timid",
-      "item": "heldItem",
-      "index": 1647
+      "item": "Magearnite",
+      "index": 1649
     }
   },
   "Registeel": {
@@ -24314,7 +24344,7 @@ var SETDEX_SV = {
       ],
       "nature": "Careful",
       "item": "Mental Herb",
-      "index": 1517
+      "index": 1519
     }
   },
   "Suicune": {
@@ -24329,7 +24359,7 @@ var SETDEX_SV = {
       ],
       "nature": "Bold",
       "item": "Leftovers",
-      "index": 1519
+      "index": 1521
     }
   },
   "Floette-Eternal-Mega": {
@@ -24344,7 +24374,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Floettite",
-      "index": 1521
+      "index": 1523
     }
   },
   "Arceus-Psychic": {
@@ -24359,7 +24389,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Mind Plate",
-      "index": 1523
+      "index": 1525
     }
   },
   "Urshifu": {
@@ -24374,7 +24404,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Life Orb",
-      "index": 1526
+      "index": 1528
     }
   },
   "Lucario-Mega-Z": {
@@ -24389,7 +24419,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Lucarionite Z",
-      "index": 1530
+      "index": 1532
     }
   },
   "Deoxys-Speed": {
@@ -24404,7 +24434,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Focus Sash",
-      "index": 1538
+      "index": 1540
     }
   },
   "Deoxys-Attack": {
@@ -24419,7 +24449,7 @@ var SETDEX_SV = {
       ],
       "nature": "Naive",
       "item": "Life Orb",
-      "index": 1550
+      "index": 1552
     }
   },
   "Zapdos": {
@@ -24434,7 +24464,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Heavy-Duty Boots",
-      "index": 1558
+      "index": 1560
     }
   },
   "Kyurem-White": {
@@ -24449,7 +24479,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Power Herb",
-      "index": 1562
+      "index": 1564
     }
   },
   "Calyrex-Ice": {
@@ -24464,7 +24494,7 @@ var SETDEX_SV = {
       ],
       "nature": "Careful",
       "item": "Assault Vest",
-      "index": 1565
+      "index": 1567
     }
   },
   "Zygarde-Mega": {
@@ -24478,8 +24508,8 @@ var SETDEX_SV = {
         "Glare"
       ],
       "nature": "Timid",
-      "item": "heldItem",
-      "index": 1600
+      "item": "Zygardite",
+      "index": 1602
     }
   },
   "Arceus-Bug": {
@@ -24494,7 +24524,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Insect Plate",
-      "index": 1607
+      "index": 1609
     }
   },
   "Arceus-Ground": {
@@ -24509,7 +24539,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Earth Plate",
-      "index": 1614
+      "index": 1616
     }
   },
   "Ogerpon-Cornerstone": {
@@ -24524,7 +24554,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Cornerstone Mask",
-      "index": 1625
+      "index": 1627
     }
   },
   "Arceus-Grass": {
@@ -24539,7 +24569,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Meadow Plate",
-      "index": 1621
+      "index": 1623
     }
   },
   "Arceus-Water": {
@@ -24554,7 +24584,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Splash Plate",
-      "index": 1628
+      "index": 1630
     }
   },
   "Eternatus-Eternamax": {
@@ -24569,7 +24599,7 @@ var SETDEX_SV = {
       ],
       "nature": "Hasty",
       "item": "Black Sludge",
-      "index": 1642
+      "index": 1644
     }
   },
   "Mewtwo-Mega-Y": {
@@ -24584,7 +24614,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Mewtwonite Y",
-      "index": 1671
+      "index": 1673
     }
   },
   "Necrozma-Dawn-Wings": {
@@ -24599,7 +24629,7 @@ var SETDEX_SV = {
       ],
       "nature": "Modest",
       "item": "Enigma Berry",
-      "index": 1672
+      "index": 1674
     }
   },
   "Mewtwo-Mega-X": {
@@ -24614,7 +24644,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Mewtwonite X",
-      "index": 1678
+      "index": 1680
     }
   },
   "Yveltal": {
@@ -24629,7 +24659,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Black Glasses",
-      "index": 1684
+      "index": 1686
     },
     "Elite Four Sidney Doubles": {
       "level": 100,
@@ -24642,7 +24672,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Black Glasses",
-      "index": 1689
+      "index": 1691
     }
   },
   "Giratina-Origin": {
@@ -24657,7 +24687,7 @@ var SETDEX_SV = {
       ],
       "nature": "Jolly",
       "item": "Griseous Core",
-      "index": 1699
+      "index": 1701
     }
   },
   "Calyrex-Shadow": {
@@ -24672,7 +24702,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Ghost Gem",
-      "index": 1704
+      "index": 1706
     }
   },
   "Silvally-Fairy": {
@@ -24687,7 +24717,7 @@ var SETDEX_SV = {
       ],
       "nature": "Hasty",
       "item": "Fairy Memory",
-      "index": 1717
+      "index": 1719
     }
   },
   "Dialga": {
@@ -24702,7 +24732,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Adamant Orb",
-      "index": 1723
+      "index": 1725
     }
   },
   "Palkia-Origin": {
@@ -24717,7 +24747,7 @@ var SETDEX_SV = {
       ],
       "nature": "Timid",
       "item": "Lustrous Globe",
-      "index": 1735
+      "index": 1737
     }
   },
   "Genesect-Douse": {
@@ -24732,7 +24762,7 @@ var SETDEX_SV = {
       ],
       "nature": "Naive",
       "item": "Douse Drive",
-      "index": 1737
+      "index": 1739
     }
   }
 }
