@@ -805,11 +805,6 @@ $(".forme").change(function () {
 	}
 	container.find(".ability").keyup();
 
-	if ($(this).val().indexOf("-Mega") !== -1 && $(this).val() !== "Rayquaza-Mega") {
-		container.find(".item").val("").keyup();
-	} else {
-		container.find(".item").prop("disabled", false);
-	}
 });
 
 function correctHiddenPower(pokemon) {

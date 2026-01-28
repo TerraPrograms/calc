@@ -9859,7 +9859,6 @@ var SETDEX_SV = {
   },
   "Raichu-Mega-X": {
     "Triathlete Benjamin & Triathlete Alyssa": {
-      "item": "Raichunite X",
       "level": 63,
       "ability": "Motor Drive",
       "moves": [
@@ -9869,6 +9868,7 @@ var SETDEX_SV = {
         "Knock Off"
       ],
       "nature": "Impish",
+      "item": "Raichunite X",
       "index": 310
     }
   },
